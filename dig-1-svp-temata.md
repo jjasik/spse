@@ -1,0 +1,33 @@
+### dig-1 ŠVP a témata
+
+| Tematický celek   | Hodin | Výstupy                                                      | Učivo                                                        | Poznámka                                                     |
+| ----------------- | ----- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Číselné soustavy  | 8     |                                                              |                                                              |                                                              |
+|                   |       | převede číslo z jedné soustavy do druhé                      | převody mezi soustavami                                      |                                                              |
+|                   |       | sečte, odečte čísla v různých soustavách                     | operace s číselnými soustavami                               |                                                              |
+|                   |       | umí vyjádřit záporná čísla v binární soustavě                | operace s číselnými soustavami                               |                                                              |
+|                   |       | využívá různé kódy pro vyjadřování čísel                     | operace s číselnými soustavami                               |                                                              |
+| Logické funkce    | 12    |                                                              |                                                              |                                                              |
+|                   |       | ovládá základy výrokové logiky                               | pojem logická proměnné, logická funkce, formy logické funkce |                                                              |
+|                   |       | využívá zákonů Booleovy algebry pro minimalizaci logických funkcí | Booleova algebra                                             |                                                              |
+|                   |       | minimalizuje logické funkce pomocí Karnaughových map         | minimalizace, převod mezi různými formami logické funkce     |                                                              |
+|                   |       | definuje logickou funkci a její zákonitosti                  | realizace logické funkce                                     |                                                              |
+| Kombinační obvody | 20    |                                                              |                                                              |                                                              |
+|                   |       | dovede navrhnout jednoduchý kombinační logický obvod a popsat jeho funkci a vlastnosti | dekodéry, kodér, multiplexer, demultiplexer, komparátor, dvojková sčítačka, (paritní obvody, speciální typy logických obvodů, fyzikální parametry logických obvodů, technologie TTL a CMOS) |                                                              |
+| Sekvenční obvody  | 30    |                                                              |                                                              |                                                              |
+|                   |       | popíše činnost, realizuje zapojení a naznačí využití klopných obvodů RS, D, JK | klopný obvod                                                 |                                                              |
+|                   |       | vysvětlí různé způsoby řízení klopných obvodů                | klopný obvod                                                 |                                                              |
+|                   |       | použije klopné obvody při konstrukci sekvenčních obvodů      | sekvenční obvody                                             |                                                              |
+|                   |       | objasní pojmy paměťový a posuvný registr                     | registry                                                     |                                                              |
+|                   |       | (realizuje sérioparalelní a paralelně sériový registr)       | registry                                                     |                                                              |
+|                   |       | provede rozdělení čítačů podle různých kritérií              | čítače                                                       |                                                              |
+|                   |       | popíše funkci čítačů a jejich využití v číslicových obvodech | čítače                                                       |                                                              |
+|                   |       | popíše vlastnosti synchronních a asynchronních čítačů        | čítače                                                       |                                                              |
+|                   |       | použije čítač jako dělič kmitočtu                            | čítače                                                       |                                                              |
+|                   |       | pracuje s integrovanými čítači a registry                    | registry, čítače                                             |                                                              |
+| Hradlová pole     | 32    |                                                              |                                                              | Tento tematický celek je dnes vyučován v rámci předmětu PRA 2.ročník |
+|                   |       | popíše různé typy logických obvodů                           | typy logických obvodů                                        |                                                              |
+|                   |       | navrhne implementaci kombinačních obvodů v hradlovém poli    | struktury pro kombinační obvody ve VHDL                      |                                                              |
+|                   |       | navrhne implementaci sekvenčních obvodů v hradlovém poli     | procesy - sekvenční struktury ve VHDL                        |                                                              |
+
+Poznámka: Na základě *elektrotechnika-24-25.pdf*, doplněno o rozdíly z *informacni-technologie-24-25.pdf* (témata v závorkách), plán hodin je převzat z *elektrotechnika-24-25.pdf*
