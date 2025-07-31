@@ -8,8 +8,8 @@ Obsazen:
 
 1. FPGA Altera Cyclone IV **EP4CE6E22C8N**
 
-Cena kitu (2025/07): cca 3000 Kč
-Orientační cena kusu (2025/07): 430 Kč (digikey.cz)
+- Cena kitu (2025/07): cca 3000 Kč
+- Orientační cena kusu (2025/07): 430 Kč (digikey.cz)
 
 <img src="omdazz-per-1_v-a2.2.png" width="300"/>
 
