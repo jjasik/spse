@@ -8,8 +8,8 @@ Obsazen:
 
 1. FPGA Altera Cyclone IV **EP4CE6E22C8N**
 
-- Cena kitu (2025/07): cca 3000 Kč
-- Orientační cena kusu (2025/07): 430 Kč (digikey.cz)
+- Cena kitu (2025/07): cca 3000 Kč (hwkitchen.cz)
+- Orientační cena 1ks FPGA (2025/07): 430 Kč (digikey.cz)
 
 <img src="omdazz-per-1_v-a2.2.png" width="300"/>
 
@@ -31,6 +31,7 @@ Obsazen:
 8. Device datasheet rodiny Cyclone IV FPGA (elektrické, časové vlastnosti, spotřeby atd.): [pdf](cyiv-dev-datasheet_v-2016-03-r2.0.pdf)
 9. Device handbook rodiny Cyclone IV FPGA (hlavní část dokumentace, obsahuje i kapitoly které jsem nedal do seznamu viz.výše): [pdf](cyiv-dev-handbook_v-2016-03-r2.2.pdf)
 10. Errata sheet rodiny Cyclone IV FPGA (přehled známých chyb popř.jejich oprav): [pdf](cyiv-dev-errata_v-2017-04-r2.5.pdf)
+11. Serial Configuration Devices Data Sheet (EPCS1, EPCS4, EPCS16, EPCS64, and EPCS128): [pdf](cyc-serial-conf-datasheet_v-2008-05-v3.1.pdf)
 
 #### Doporučení
 
