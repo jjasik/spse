@@ -20,9 +20,15 @@ TODO
 
 #### Požadavky
 
+- Doporučení: Sešit A4 čtverečkovaný, či jiná forma zápisků (obsahuje jak teoretické hodiny, tak i cvičení). Ale není nutné vše přepisovat.
+
 TODO
 
 #### Hodnocení
+
+TODO
+
+#### Dema
 
 TODO
 
