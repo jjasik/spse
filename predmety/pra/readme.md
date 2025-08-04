@@ -34,7 +34,10 @@ TODO
 
 #### Nástroje
 
+1. [Kit OMDAZZ](fpga/altera-cyclone4/devbrd/omdazz/readme.md)
+
 TODO
+
 
 #### Bloky
 
