@@ -1,8 +1,8 @@
 ### Předměty co učím
 
-- [DIG](../dig/readme.md), a související část [PRA](../pra/readme.md)
-- [MIT](../mit/readme.md)
-- [POS](../pos/readme.md)
+- [DIG](predmety/dig/readme.md), a související část [PRA](predmety/pra/readme.md)
+- [MIT](predmety/mit/readme.md)
+- [POS](predmety/pos/readme.md)
 
 ### Které třídy učím
 
