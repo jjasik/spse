@@ -12,7 +12,12 @@ Viz. ŠVP: [POS](svp-temata.md)
   - teorie: celá třída, 2x1 hodina každý týden, **tj. cca 76 bloků po 1 hodině**
   - odborné učebny: 1/2 třídy střídání co 2 týdny, ale po dobu celého roku, **tj. cca 19 bloků po 2 hodinách**
 
+#### Prerekvizity
+
+TODO
+
 #### Hodnocení
+
 TODO
 
 #### Bloky

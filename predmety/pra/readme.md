@@ -12,7 +12,12 @@ Viz. ŠVP: [PRA](svp-temata.md)
 - třídy E2x: 1/3 třídy po dobu 1/3 roku poté střídání, **tj. cca 13 bloků po 3 hodinách**
 - třídy T2x: 1/2 třídy střídání co 2 týdny, ale po dobu celého roku, **tj. cca 19 bloků po 2 hodinách**
 
+#### Prerekvizity
+
+TODO
+
 #### Hodnocení
+
 TODO
 
 #### Bloky
