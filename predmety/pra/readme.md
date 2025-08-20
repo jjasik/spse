@@ -35,6 +35,7 @@ TODO
 #### Nástroje
 
 1. [Kit OMDAZZ](fpga/altera-cyclone4/devbrd/omdazz/readme.md)
+1. [Vývojové prostředí Quartus Prime](fpga/tool/quartus-prime/readme.md)
 
 TODO
 
