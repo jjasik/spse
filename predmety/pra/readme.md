@@ -16,30 +16,36 @@ Viz. ŠVP: [PRA](svp-temata.md), [DIG](../dig/svp-temata.md)
 
 #### Prerekvizity
 
-TODO
+- schopnost číst anglické texty (dokumentace, návody)
+- orientace v elektrickém schématu
+- základy digitální techniky
+- práce s nějakým vývojovým prostředím (správa projektů, manipulace se soubory...)
+- základy měření: digitální sonda, digitální analyzátor
+- opatrnost při práci (citlivá elektronika!)
 
 #### Požadavky
 
 - Doporučení: Sešit A4 čtverečkovaný, či jiná forma zápisků (obsahuje jak teoretické hodiny, tak i cvičení). Ale není nutné vše přepisovat.
 
-TODO
-
 #### Hodnocení
 
-TODO
+- Návrh: Známka z každého bloku či sestavy bloků (primárně za snahu dokončit úlohu a aktivitu), a jedna známka za test/písemku za celou periodu (přehled probraných témat).
+
+
+#### Materiály
+
+1. [Data, čipy, procesory](materialy/data-cipy-procesory_v-2020-r1.0.pdf)
 
 #### Dema
 
-TODO
+Nejsou
 
 #### Nástroje
 
 1. [Kit OMDAZZ](fpga/altera-cyclone4/devbrd/omdazz/readme.md)
 1. [Vývojové prostředí Quartus Prime](fpga/tool/quartus-prime/readme.md)
 
-TODO
-
 
 #### Bloky
 
-TODO
+1. [Zprovoznění nástrojů, náhled dokumentace, jednoduchá úloha](bloky/zprovozneni/readme.md)
