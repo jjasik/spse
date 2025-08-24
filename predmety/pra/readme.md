@@ -48,4 +48,4 @@ Nejsou
 
 #### Bloky
 
-1. [Zprovoznění nástrojů, náhled dokumentace, jednoduchá úloha](bloky/zprovozneni/readme.md)
+1. [Zprovoznění nástrojů, jednoduchá úloha](bloky/zprovozneni/readme.md)

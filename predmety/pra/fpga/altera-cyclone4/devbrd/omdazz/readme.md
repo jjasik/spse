@@ -13,6 +13,10 @@ Obsazen:
 
 <img src="omdazz-per-1_v-a2.2.png" width="300"/>
 
+- Součástí balení je i tzv.USB Blaster což je převodník mezi USB a JTAG rozhraním, např. pro programování konfigurace.
+
+<img src="usbblaster-pic-1_v-1.jpg" width="300"/>
+
 #### Obrázky
 
 <img src="omdazz-pic-1_v-a2.2.jpg" width="300"/> <img src="omdazz-pic-2_v-a2.2.jpg" width="300"/><img src="omdazz-pic-3_v-a2.2.jpg" width="300"/>
