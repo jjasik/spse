@@ -29,7 +29,7 @@ Viz. ŠVP: [PRA](svp-temata.md), [DIG](../dig/svp-temata.md)
 
 #### Hodnocení
 
-- Návrh: Známka z každého bloku či sestavy bloků (primárně za snahu dokončit úlohu a aktivitu), a jedna známka za test/písemku za celou periodu (přehled probraných témat).
+- Návrh: Známka z každého bloku či sestavy bloků (primárně za snahu dokončit úlohu a aktivitu), a jedna známka za test/písemku za celou periodu (přehled probraných témat). Váhy známek TODO.
 
 
 #### Materiály
