@@ -8,11 +8,11 @@ Viz. ŠVP: [PRA](svp-temata.md), [DIG](../dig/svp-temata.md)
 #### Rozsah a organizace
 
 ##### 2.ročník
-- není samostatná teoretická část pro celou třídu, pouze práce v odborné učebně pro část třídy
+- není samostatná teoretická část pro celou třídu, pouze práce v odborné učebně pro část třídy (cvičení)
 
-- třídy E2A, E2B: 1/3 třídy po dobu 1/3 roku poté střídání, **tj. cca 13 bloků po 3 hodinách**
+- třídy E2A, E2B: 1/3 třídy po dobu 1/3 roku, poté střídání, **tj. cca 13 bloků po 3 hodinách**
 - třídy T2A: 1/2 třídy střídání co 2 týdny, ale po dobu celého roku, **tj. cca 19 bloků po 2 hodinách**
-- ostatní učitelé tento rok (tematický celek související s předmětem DIG): nejsou
+- ostatní učitelé tento rok (pro tematický celek související s předmětem DIG): nejsou
 
 #### Prerekvizity
 
@@ -27,9 +27,12 @@ Viz. ŠVP: [PRA](svp-temata.md), [DIG](../dig/svp-temata.md)
 
 - Doporučení: Sešit A4 čtverečkovaný, či jiná forma zápisků (obsahuje jak teoretické hodiny, tak i cvičení). Ale není nutné vše přepisovat.
 
-#### Hodnocení
+#### Hodnocení (Návrh)
 
-- Návrh: Známka z každého bloku či sestavy bloků (primárně za snahu dokončit úlohu a aktivitu), a jedna známka za test/písemku za celou periodu (přehled probraných témat). Váhy známek TODO.
+1. Teoretická část: písemky (testy), jedna známka za celou periodu (skrze probrané témata): váha 1.00
+2. Příprava a prezentace zvoleného tématu: není
+3. Cvičení: známka z každého bloku (primárně za aktivitu a snahu dokončit úlohu): váha 0.75
+4. Samostatná práce: není
 
 
 #### Materiály
@@ -48,4 +51,5 @@ Nejsou
 
 #### Bloky
 
+1. Základy hradlových polí, a přehled dokumentace
 1. [Zprovoznění nástrojů, jednoduchá úloha](bloky/zprovozneni/readme.md)
