@@ -27,3 +27,7 @@ Pozor: Ne všechny kroky jsou pro nás relevant (krok přeskakujeme), některé 
 
 3. Ukázka zapojení kitu (napájení a USB Blaster)
 <img src="omdazz-pic-1_v-1.jpg" width="800"/>
+
+#### Alternace (další možnosti)
+
+TODO
