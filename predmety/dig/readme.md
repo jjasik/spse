@@ -35,7 +35,9 @@ Viz. ŠVP: [DIG](svp-temata.md)
 
 #### Materiály
 
-TODO
+1. Prezentace k předmětu:
+   1. [zakladni_pojmy.pptx](materialy/zakladni_pojmy.pptx)
+   2. [ciselne_soustavy.pptx](materialy/ciselne_soustavy.pptx)
 
 #### Dema
 

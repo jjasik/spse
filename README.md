@@ -11,6 +11,10 @@
 - T2A (~~DIG~~, PRA, POS): [rozvrh](tridy/rozvrhy/rozvrh-t2a_2025-2026.pdf) (pozor neučím DIG, ale pouze PRA)
 - E3B (MIT): [rozvrh](tridy/rozvrhy/rozvrh-e3b_2025-2026.pdf)
 
+### Progres výuky ve třídách
+
+- E2A: [DIG](tridy/progres/progres-e2a-dig_2025-2026.md), PRA
+
 ### O mně (a několik našich pravidel)
 
 - [O mně a pravidla](o-mne/readme.md)

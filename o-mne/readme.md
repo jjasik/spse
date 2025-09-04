@@ -9,7 +9,7 @@
 - tyto stránky a materiály a všechno budu doplňovat postupně (nic není dáno, můžete aktivně ovlivnit co a jak, návrhům se nebráním)
 - nemám dobrou paměť na jména (ale na obličeje ano!)
 - filozofie
-  - nejsou důležité didaktické znalosti (lze najít, lze vygenerovat...), ale myšlení, i když základy se hodí vždy
+  - nejsou až tak důležité encyklopedické znalosti (lze najít, lze nastudovat v případě potřeby, lze vygenerovat...), ale myšlení, i když základy se hodí vždy
   - je to váš život, snažte se mít věci v rovnováze (škola, volno atd.) a využít rozumně čas na škole, až budete jednou v "terénu" bude se vám to hodit
 
 ### Jak se chováme, jak přemýšlíme
