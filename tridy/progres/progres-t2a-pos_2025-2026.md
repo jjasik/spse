@@ -2,11 +2,11 @@
 
 #### Teoretická část
 
-| Datum      | ŠOL                                                    | Obsah a materiály                                            | Hlavní témata | Otevřené body                                                | Poznámka |
-| ---------- | ------------------------------------------------------ | ------------------------------------------------------------ | ------------- | ------------------------------------------------------------ | -------- |
-| 02.09.2025 | Seznámení, formality (zasedací poř. atd.)              | Probrány a vysvětleny stránky: [Hlavní stránka](../../README.md), [O mně a pravidla](../../o-mne/readme.md), příště: zopakovat důležité pravidla, stránka předmětu [POS](../../predmety/pos/readme.md), výuka: [NSWI090v4_01.pdf](../../predmety/pos/materialy/NSWI090v4_01.pdf) |               |                                                              |          |
-| 04.09.2025 | Seznámení, předm. stránka, učivo: Základní pojmy(část) | Zopakovány důležité pravidla, probrána stránka [POS](../../predmety/pos/readme.md), výuka: [NSWI090v4_01.pdf](../../predmety/pos/materialy/NSWI090v4_01.pdf) (příště od str.9) |               | 1) netacad.com účty a přiřazené školení na rok pro žáky(+já) |          |
-|            |                                                        |                                                              |               |                                                              |          |
+| Datum      | ŠOL                                                    | Obsah a materiály                                            | Hlavní témata                                                | Otevřené body                                                | Poznámka |
+| ---------- | ------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- |
+| 02.09.2025 | Seznámení, formality (zasedací poř. atd.)              | Probrány a vysvětleny stránky: [Hlavní stránka](../../README.md), [O mně a pravidla](../../o-mne/readme.md), příště: zopakovat důležité pravidla, stránka předmětu [POS](../../predmety/pos/readme.md), výuka: [NSWI090v4_01.pdf](../../predmety/pos/materialy/NSWI090v4_01.pdf) |                                                              |                                                              |          |
+| 04.09.2025 | Seznámení, předm. stránka, učivo: Základní pojmy(část) | Zopakovány důležité pravidla, probrána stránka [POS](../../predmety/pos/readme.md), výuka: [NSWI090v4_01.pdf](../../predmety/pos/materialy/NSWI090v4_01.pdf) (příště od str.9) | přenos vs. zpracování, simplexní/duplexní/poloduplexní, koncový uzel/vnitřní uzel, typické uživatelské služby, proudový vs. blokový přenos, spolehlivý vs. nespolehlivý přenos | 1) netacad.com účty a přiřazené školení na rok pro žáky(+já) |          |
+|            |                                                        |                                                              |                                                              |                                                              |          |
 
 #### Cvičení
 
