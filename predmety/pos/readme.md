@@ -44,7 +44,8 @@ Viz. ŠVP: [POS](svp-temata.md)
 #### Materiály
 
 1. netacad.com
-
+2. Prezentace k předmětu:
+   1. [NSWI090v4_01.pdf](materialy/NSWI090v4_01.pdf)
 
 #### Dema
 
