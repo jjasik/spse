@@ -16,6 +16,7 @@
 - E2A: [DIG](tridy/progres/progres-e2a-dig_2025-2026.md), [PRA](tridy/progres/progres-e2a-pra_2025-2026.md)
 - E2B: [DIG](tridy/progres/progres-e2b-dig_2025-2026.md), [PRA](tridy/progres/progres-e2b-pra_2025-2026.md)
 - T2A: [POS](tridy/progres/progres-t2a-pos_2025-2026.md), [PRA](tridy/progres/progres-t2a-pra_2025-2026.md)
+- E3B: [MIT](tridy/progres/progres-e3b-mit_2025-2026.md)
 
 ### O mně (a několik našich pravidel)
 
