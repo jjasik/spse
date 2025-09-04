@@ -14,7 +14,7 @@
 ### Progres výuky ve třídách
 
 - E2A: [DIG](tridy/progres/progres-e2a-dig_2025-2026.md), [PRA](tridy/progres/progres-e2a-pra_2025-2026.md)
-- E2B: [DIG](tridy/progres/progres-e2b-dig_2025-2026.md)
+- E2B: [DIG](tridy/progres/progres-e2b-dig_2025-2026.md), [PRA](tridy/progres/progres-e2b-pra_2025-2026.md)
 
 ### O mně (a několik našich pravidel)
 
