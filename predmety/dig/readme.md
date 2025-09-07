@@ -49,4 +49,10 @@ TODO
 
 #### Bloky
 
+##### Teorie
+
 TODO
+
+##### Cvičení
+
+1. [Jednoduchá logická funkce (a nepájivé pole)](bloky/cviceni/jednoducha-logicka-funkce/readme.md)
