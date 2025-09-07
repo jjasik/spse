@@ -25,7 +25,7 @@ Viz. ŠVP: [PRA](svp-temata.md), [DIG](../dig/svp-temata.md)
 
 #### Požadavky
 
-- Doporučení: Sešit A4 čtverečkovaný, či jiná forma zápisků (obsahuje jak teoretické hodiny, tak i cvičení). Ale není nutné vše přepisovat.
+- Doporučení: Sešit A4 čtverečkovaný, či jiná forma zápisků (obsahuje jak teoretické hodiny, tak i cvičení). Ale není nutné vše přepisovat. Relevanci a detail zápisků si každý určuje sám.
 
 #### Hodnocení (Návrh)
 
