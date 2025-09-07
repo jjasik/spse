@@ -4,7 +4,7 @@
 
 | Datum      | ŠOL  | Obsah a materiály                                            | Hlavní témata | Otevřené body | Poznámka |
 | ---------- | ---- | ------------------------------------------------------------ | ------------- | ------------- | -------- |
-| 05.09.2025 |      | Příště: [Hlavní stránka](../../README.md), [O mně a pravidla](../../o-mne/readme.md), stránka [MIT](../../predmety/mit/readme.md), výuka: TODO |               |               |          |
+| 05.09.2025 |      | Probrány a vysvětleny stránky: [Hlavní stránka](../../README.md), [O mně a pravidla](../../o-mne/readme.md), stránka [MIT](../../predmety/mit/readme.md), přinesl jsem demo HL: L405 |               |               |          |
 |            |      |                                                              |               |               |          |
 |            |      |                                                              |               |               |          |
 
