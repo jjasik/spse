@@ -28,7 +28,7 @@
 
 #### Co by mohlo pomoci
 
-1. Poznámky: [1](tabule-001.jpg), [2](tabule-002.jpg), [IC data sheet 7400](sn7400.pdf)
+1. Poznámky: [1](tabule-001.jpg), [2](tabule-002.jpg), [IC data sheet 7400](sn7400_v-2017-05.pdf)
 
 #### Alternace (další možnosti)
 
