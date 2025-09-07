@@ -2,11 +2,11 @@
 
 #### Teoretická část
 
-| Datum      | ŠOL                                       | Obsah a materiály                                            | Hlavní témata | Otevřené body | Poznámka |
-| ---------- | ----------------------------------------- | ------------------------------------------------------------ | ------------- | ------------- | -------- |
-| 02.09.2025 | Seznámení, formality (zasedací poř. atd.) | Probrány a vysvětleny stránky: [Hlavní stránka](../../README.md), [O mně a pravidla](../../o-mne/readme.md), příště: zopakovat důležité pravidla, [DIG](../../predmety/dig/readme.md), výuka: [zakladni_pojmy.pptx](../../predmety/dig/materialy/zakladni_pojmy.pptx), [ciselne_soustavy.pptx](../../predmety/dig/materialy/ciselne_soustavy.pptx) |               |               |          |
-|            |                                           |                                                              |               |               |          |
-|            |                                           |                                                              |               |               |          |
+| Datum      | ŠOL                                                     | Obsah a materiály                                            | Hlavní témata                                              | Otevřené body | Poznámka |
+| ---------- | ------------------------------------------------------- | ------------------------------------------------------------ | ---------------------------------------------------------- | ------------- | -------- |
+| 02.09.2025 | Seznámení, formality (zasedací poř. atd.)               | Probrány a vysvětleny stránky: [Hlavní stránka](../../README.md), [O mně a pravidla](../../o-mne/readme.md), příště: zopakovat důležité pravidla, [DIG](../../predmety/dig/readme.md), výuka: [zakladni_pojmy.pptx](../../predmety/dig/materialy/zakladni_pojmy.pptx), [ciselne_soustavy.pptx](../../predmety/dig/materialy/ciselne_soustavy.pptx) |                                                            |               |          |
+| 05.09.2025 | Základní pojmy (Analogová veličina, číslicová veličina) | Zopakovány důležité pravidla, [DIG](../../predmety/dig/readme.md), výuka: [zakladni_pojmy.pptx](../../predmety/dig/materialy/zakladni_pojmy.pptx), příště: [ciselne_soustavy.pptx](../../predmety/dig/materialy/ciselne_soustavy.pptx) | Analogová veličina, číslicová veličina: vlastnosti, signál |               |          |
+|            |                                                         |                                                              |                                                            |               |          |
 
 #### Cvičení
 
