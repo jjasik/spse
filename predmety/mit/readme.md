@@ -40,7 +40,10 @@ TODO
 
 #### Dema
 
-TODO
+1. [Megacomputer Cambridge](dema/megacomputer/readme.md)
+2. [Jednočipový mikropočítač MHB8035](dema/mhb-8035/readme.md)
+3. [Jednočipový mikroprocesor s vestavěným ethernetem](dema/mc9s12ne64/readme.md)
+4. [Reálná aplikace Continental HTS (High Temperature Sensor)](dema/hts/readme.md)
 
 #### Nástroje
 
