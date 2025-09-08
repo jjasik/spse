@@ -2,11 +2,11 @@
 
 #### Teoretická část
 
-| Datum      | ŠOL                                       | Obsah a materiály                                            | Hlavní témata | Otevřené body | Poznámka |
-| ---------- | ----------------------------------------- | ------------------------------------------------------------ | ------------- | ------------- | -------- |
-| 05.09.2025 | Seznámení, formality (zasedací poř. atd.) | Probrány a vysvětleny stránky: [Hlavní stránka](../../README.md), [O mně a pravidla](../../o-mne/readme.md), stránka [MIT](../../predmety/mit/readme.md), přinesl jsem demo HL: L405 |               |               |          |
-|            |                                           |                                                              |               |               |          |
-|            |                                           |                                                              |               |               |          |
+| Datum      | ŠOL                                                          | Obsah a materiály                                            | Hlavní témata                                                | Otevřené body                     | Poznámka |
+| ---------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | --------------------------------- | -------- |
+| 05.09.2025 | Seznámení, formality (zasedací poř. atd.)                    | Probrány a vysvětleny stránky: [Hlavní stránka](../../README.md), [O mně a pravidla](../../o-mne/readme.md), stránka [MIT](../../predmety/mit/readme.md), přinesl jsem demo HL: L405 |                                                              |                                   |          |
+| 08.09.2025 | Rozdíly Hardware/Software, pojmy: Program, Instrukce, Instrukční sada | Dema jsem minulý týden ukázal pouze jedné polovině třídy na prvním cvičení tak jsem je probral před celou třídou znovu: [Jednočipový mikropočítač MHB8035](../../predmety/mit/dema/mhb-8035/readme.md), [Jednočipový mikroprocesor s vestavěným ethernetem](../../predmety/mit/dema/mc9s12ne64/readme.md), [Reálná aplikace Continental HTS (High Temperature Sensor)](../../predmety/mit/dema/hts/readme.md), dále jsem ukázal s jakým vývojovým kitem budeme pracovat ve cvičeních od další hodiny (AVR atmega2560) a dále jsme začali s výkladem [modely_pocitacu.pptx](../../predmety/mit/materialy/modely_pocitacu.pptx) (po stranu 10 - Sběrnice, zde příště začít) | Rozdíly Hardware/Software, pojmy: Program, Instrukce, Instrukční sada | Není k dispozici zasedací pořádek |          |
+|            |                                                              |                                                              |                                                              |                                   |          |
 
 #### Cvičení
 
