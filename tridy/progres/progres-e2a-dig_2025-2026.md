@@ -12,9 +12,9 @@
 
 ##### Skupina 1
 
-| Datum | ŠOL  | Obsah a materiály | Hlavní témata | Otevřené body | Poznámka |
-| ----- | ---- | ----------------- | ------------- | ------------- | -------- |
-|       |      |                   |               |               |          |
+| Datum      | ŠOL                                         | Obsah a materiály                                            | Hlavní témata | Otevřené body                                                | Poznámka |
+| ---------- | ------------------------------------------- | ------------------------------------------------------------ | ------------- | ------------------------------------------------------------ | -------- |
+| 08.09.2025 | Jednoduchá logická funkce (a nepájivé pole) | [Jednoduchá logická funkce (a nepájivé pole)](../../predmety/dig/bloky/cviceni/jednoducha-logicka-funkce/readme.md) |               | 3/4 skupin úloha dokončena a pochopena, cca 1/4 skupin k dokončení příště - čekám na email kdo&co |          |
 
 ##### Skupina 2
 
