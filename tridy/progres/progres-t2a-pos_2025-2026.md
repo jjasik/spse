@@ -12,9 +12,9 @@
 
 ##### Skupina 1
 
-| Datum | ŠOL  | Obsah a materiály | Hlavní témata | Otevřené body | Poznámka |
-| ----- | ---- | ----------------- | ------------- | ------------- | -------- |
-|       |      |                   |               |               |          |
+| Datum      | ŠOL                                                          | Obsah a materiály                                            | Hlavní témata | Otevřené body                       | Poznámka |
+| ---------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------- | ----------------------------------- | -------- |
+| 09.09.2025 | Zprovoznění PC (netacad účty, PacketTracer), kvízy: eth. kabeláž. | Prozkoumali jsme PC ohledně funkčnosti účtů netacad, kromě dvou žáků (zprovozní si doma) funguje všem, taktéž mají všichni přidělen první ročník školícího kurzu.<br/>Řekli jsme si omezení a pravidla pro práci s net adaptéry (změna konfigurace) na PC, a změn konfigurace zařízení CISCA - relevant pro pozdější práci ve cvičeních.<br/>Ověřili jsme existenci programu PacketTracer ve verzi 8.2.2.0400 na všech PC.<br/>Ve druhé hodině jsme se rozdělili na dvě skupiny a řekli jsme si něco o kabelážích pro tzv. fast ethernet vs. gigabit ethernet, viz. stránka [Ethernetová kabeláž](../../predmety/pos/dema/ethernet-cables/readme.md), a tabule: [Zadaní](materialy/t2a-pos_2025-2026/tabule-001.jpg) |               | Někteří nemají funkční netacad účet |          |
 
 ##### Skupina 2
 
