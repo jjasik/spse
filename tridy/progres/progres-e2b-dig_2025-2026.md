@@ -12,9 +12,9 @@
 
 ##### Skupina 1
 
-| Datum | ŠOL  | Obsah a materiály | Hlavní témata | Otevřené body | Poznámka |
-| ----- | ---- | ----------------- | ------------- | ------------- | -------- |
-|       |      |                   |               |               |          |
+| Datum      | ŠOL                                                          | Obsah a materiály                                            | Hlavní témata | Otevřené body                                                | Poznámka |
+| ---------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------- | ------------------------------------------------------------ | -------- |
+| 09.09.2025 | Formality (zasedací poř. atd.), nepáj.pole: jednoduchá logická funkce NAND | [Jednoduchá logická funkce (a nepájivé pole)](../../predmety/dig/bloky/cviceni/jednoducha-logicka-funkce/readme.md) |               | Na první hodině se nepodařilo úlohu dokončit všem, pokračování příště. |          |
 
 ##### Skupina 2
 
