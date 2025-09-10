@@ -18,6 +18,6 @@
 
 ##### Skupina 2
 
-| Datum | ŠOL  | Obsah a materiály | Hlavní témata | Otevřené body | Poznámka |
-| ----- | ---- | ----------------- | ------------- | ------------- | -------- |
-|       |      |                   |               |               |          |
+| Datum      | ŠOL                                                          | Obsah a materiály                                            | Hlavní témata | Otevřené body | Poznámka                                                     |
+| ---------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------- | ------------- | ------------------------------------------------------------ |
+| 10.09.2025 | Seznámení s výukovým přípravkem, blikání LEDkou, práce s registry | [Výukový přípravek, nahrání programu](https://tomaschovanec.github.io/MIT/01_Uvod.html), [Blikání LEDkou, práce s registry](https://tomaschovanec.github.io/MIT/02_Blikani_LED.html) |               |               | Úloha dokončena, příště vysvětlit: xmega bootloader, ukázat použití klasického debuggeru, vysvětlit základy buildu, zopakovat základy C? |
