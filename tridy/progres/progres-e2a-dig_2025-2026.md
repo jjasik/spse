@@ -20,6 +20,6 @@
 
 ##### Skupina 2
 
-| Datum | ŠOL  | Obsah a materiály | Hlavní témata | Otevřené body | Poznámka |
-| ----- | ---- | ----------------- | ------------- | ------------- | -------- |
-|       |      |                   |               |               |          |
+| Datum      | ŠOL                                         | Obsah a materiály                                            | Hlavní témata | Otevřené body | Poznámka                                                   |
+| ---------- | ------------------------------------------- | ------------------------------------------------------------ | ------------- | ------------- | ---------------------------------------------------------- |
+| 15.09.2025 | Jednoduchá logická funkce (a nepájivé pole) | [Jednoduchá logická funkce (a nepájivé pole)](../../predmety/dig/bloky/cviceni/jednoducha-logicka-funkce/readme.md) |               |               | Úloha dokončena, příště případně otázky a kontrola známek. |
