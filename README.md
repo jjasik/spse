@@ -21,3 +21,4 @@
 ### O mně (a několik našich pravidel)
 
 - [O mně a pravidla](o-mne/readme.md)
+
