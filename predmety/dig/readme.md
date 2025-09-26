@@ -38,6 +38,8 @@ Viz. ŠVP: [DIG](svp-temata.md)
 1. Prezentace k předmětu:
    1. [zakladni_pojmy.pptx](materialy/zakladni_pojmy.pptx)
    2. [ciselne_soustavy.pptx](materialy/ciselne_soustavy.pptx)
+   3. [kodovani_dat.pptx](materialy/kodovani_dat.pptx)
+   4. [logicke_funkce.pptx](materialy/logicke_funkce.pptx)
 2. Sbírky příkladů:
    1. [sbirka-prikladu-1.pdf](materialy/sbirka-prikladu-1.pdf)
 

@@ -36,7 +36,9 @@ Viz. ŠVP: [MIT](svp-temata.md)
 
 #### Materiály
 
-TODO
+1. Prezentace k předmětu:
+   1. [modely_pocitacu.pptx](materialy/modely_pocitacu.pptx)
+   2. [pameti.pptx](materialy/pameti.pptx)
 
 #### Dema
 
