@@ -12,6 +12,7 @@
 | 18.09.2025 | číselné soustavy: příklady                                   | číselné soustavy: [příklady](../../predmety/dig/materialy/sbirka-prikladu-1.pdf) |                                                              |                                                              |           |                                                      |
 | 25.09.2025 | číselné soustavy: příklady                                   | číselné soustavy: [příklady](../../predmety/dig/materialy/sbirka-prikladu-1.pdf) |                                                              | ze cvičení 22.09.2025: a) odečítání ve dvojk. soustavě, b) 16xF=-1? |           |                                                      |
 | 26.09.2025 | Písemka (doposud probrané učivo)                             | písemka                                                      |                                                              |                                                              | Plánováno |                                                      |
+| 02.10.2025 |                                                              | kodovani_dat.pptx                                            |                                                              |                                                              |           |                                                      |
 
 #### Cvičení
 
@@ -27,3 +28,4 @@
 | Datum      | ŠOL                                         | Obsah a materiály                                            | Hlavní témata | Otevřené body | Hodnocení | Poznámka                                                   |
 | ---------- | ------------------------------------------- | ------------------------------------------------------------ | ------------- | ------------- | --------- | ---------------------------------------------------------- |
 | 15.09.2025 | Jednoduchá logická funkce (a nepájivé pole) | [Jednoduchá logická funkce (a nepájivé pole)](../../predmety/dig/bloky/cviceni/jednoducha-logicka-funkce/readme.md) |               |               | Kontrola  | Úloha dokončena, příště případně otázky a kontrola známek. |
+| 29.09.2025 |                                             | Projití písemek, zapojení složitějšího schématu na nepájivém poli. |               |               | Plánováno |                                                            |
