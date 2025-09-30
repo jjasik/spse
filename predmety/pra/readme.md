@@ -37,7 +37,14 @@ Viz. ŠVP: [PRA](svp-temata.md), [DIG](../dig/svp-temata.md)
 
 #### Materiály
 
-1. [Data, čipy, procesory](materialy/data-cipy-procesory_v-2020-r1.0.pdf)
+1. Kniha [Data, čipy, procesory](materialy/data-cipy-procesory_v-2020-r1.0.pdf)
+2. Prezentace k předmětu:
+   1. [Vytvoření aplikace a VHDL](materialy/quartus-vytvoreni-aplikace-v1.pdf)
+   2. [Úvod do jazyka VHDL](materialy/uvod-do-vhdl_v-2008-rx.pdf)
+   3. [Stručný popis jazyku VHDL](materialy/strucny-popis-jazyku-vhdl_v-x.pdf)
+   4. [Tahák VHDL](materialy/tahak-vhdl_v-x.pdf)
+   5. [Šablony VHDL](materialy/sablony-vhdl_v-x.pdf)
+
 
 #### Dema
 
