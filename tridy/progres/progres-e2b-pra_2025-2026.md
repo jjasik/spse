@@ -8,21 +8,22 @@ Není
 
 ##### Skupina 1
 
-| Datum      | ŠOL                                                          | Obsah a materiály  | Hlavní témata | Otevřené body | Hodnocení | Poznámka |
-| ---------- | ------------------------------------------------------------ | ------------------ | ------------- | ------------- | --------- | -------- |
-| 03.09.2025 | Organizace předmětu praxe, BOZP, hygiena práce, požární ochrana, zásady první pomoci. | Dostupné u učitele |               |               |           |          |
+| Datum      | ŠOL                                                          | Obsah a materiály  | Hlavní témata | Otevřené body | Hodnocení | Bez hodnocení | Poznámka |
+| ---------- | ------------------------------------------------------------ | ------------------ | ------------- | ------------- | --------- | ------------- | -------- |
+| 03.09.2025 | Organizace předmětu praxe, BOZP, hygiena práce, požární ochrana, zásady první pomoci. | Dostupné u učitele |               |               |           |               |          |
 
 ##### Skupina 2 (první v pořadí ve školním roce v mé učebně, cca 10 žáků)
 
-| Datum      | ŠOL                                                          | Obsah a materiály                                            | Hlavní témata | Otevřené body                                                | Hodnocení | Poznámka |
-| ---------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------- | ------------------------------------------------------------ | --------- | -------- |
-| 03.09.2025 | Organizace předmětu praxe, BOZP, hygiena práce, požární ochrana, zásady první pomoci. | Dostupné u učitele                                           |               |                                                              |           |          |
-| 10.09.2025 | Skup-2: Seznámení stránka PRA, vysvětlení pojmu FPGA, vývojový přípravek, první úloha. | Prošli jsme stránku [PRA](../../predmety/pra/readme.md), vysvětlili pojem FPGA a porovnání vs.MCU, dále info ohledně vývojového kitu: [Kit OMDAZZ](../../predmety/pra/fpga/altera-cyclone4/devbrd/omdazz/readme.md), vč. přehledu základní dokumentace k našemu FPGA, poté první úloha: [Zprovoznění nástrojů, jednoduchá úloha](../../predmety/pra/bloky/zprovozneni/readme.md) |               | U jednoho a půl se podařilo dotáhnout úkol do stadia funkční simulace, příště zvážit jestli neudělat toto intro po krocích dohromady? |           |          |
-| 17.09.2025 | Skup-2: vývojový přípravek, první úloha, pracujeme společně. | Na všech místech jsme došli až do fáze nahrání konfigurace do hradlového pole, příště dokončíme (ověření zda-li funguje jak má). |               | Na některých PC není ModelSim (doinstalovat)                 | Kontrola  |          |
-| 24.09.2025 | Skup-2: vývojový přípravek, první úloha - dokončení          | Dokončení úlohy z minula, začátek práce na první úloze ve VHDL. |               |                                                              | Plánováno |          |
+| Datum      | ŠOL                                                          | Obsah a materiály                                            | Hlavní témata | Otevřené body                                                | Hodnocení | Bez hodnocení | Poznámka                                           |
+| ---------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------- | ------------------------------------------------------------ | --------- | ------------- | -------------------------------------------------- |
+| 03.09.2025 | Organizace předmětu praxe, BOZP, hygiena práce, požární ochrana, zásady první pomoci. | Dostupné u učitele                                           |               |                                                              |           |               |                                                    |
+| 10.09.2025 | Skup-2: Seznámení stránka PRA, vysvětlení pojmu FPGA, vývojový přípravek, první úloha. | Prošli jsme stránku [PRA](../../predmety/pra/readme.md), vysvětlili pojem FPGA a porovnání vs.MCU, dále info ohledně vývojového kitu: [Kit OMDAZZ](../../predmety/pra/fpga/altera-cyclone4/devbrd/omdazz/readme.md), vč. přehledu základní dokumentace k našemu FPGA, poté první úloha: [Zprovoznění nástrojů, jednoduchá úloha](../../predmety/pra/bloky/zprovozneni/readme.md) |               | U jednoho a půl se podařilo dotáhnout úkol do stadia funkční simulace, příště zvážit jestli neudělat toto intro po krocích dohromady? |           |               |                                                    |
+| 17.09.2025 | Skup-2: vývojový přípravek, první úloha, pracujeme společně. | Na všech místech jsme došli až do fáze nahrání konfigurace do hradlového pole, příště dokončíme (ověření zda-li funguje jak má). |               | Na některých PC není ModelSim (doinstalovat)                 | Ukončeno  | 0             |                                                    |
+| 24.09.2025 | Skup-2: vývojový přípravek, první úloha - dokončení          | Dokončení úlohy z minula, začátek práce na první úloze ve VHDL. |               |                                                              |           |               |                                                    |
+| 01.10.2025 | Skup-2: VHDL: úloha #1 (log. funkce), #2 (4tl. vs. 4LED)     | VHDL: úloha #1 (log. funkce), #2 (4tl. vs. 4LED), viz. tabule: [1](materialy/e2b-pra_2025-2026/tabule-001.jpg), [2](materialy/e2b-pra_2025-2026/tabule-002.jpg), [3](materialy/e2b-pra_2025-2026/tabule-003.jpg) |               |                                                              | Ukončeno  | 1             | příště VHDL: úloha #3, #4 (někteří došli až po #3) |
 
 ##### Skupina 3
 
-| Datum      | ŠOL                                                          | Obsah a materiály  | Hlavní témata | Otevřené body | Hodnocení | Poznámka |
-| ---------- | ------------------------------------------------------------ | ------------------ | ------------- | ------------- | --------- | -------- |
-| 03.09.2025 | Organizace předmětu praxe, BOZP, hygiena práce, požární ochrana, zásady první pomoci. | Dostupné u učitele |               |               |           |          |
+| Datum      | ŠOL                                                          | Obsah a materiály  | Hlavní témata | Otevřené body | Hodnocení | Bez hodnocení | Poznámka |
+| ---------- | ------------------------------------------------------------ | ------------------ | ------------- | ------------- | --------- | ------------- | -------- |
+| 03.09.2025 | Organizace předmětu praxe, BOZP, hygiena práce, požární ochrana, zásady první pomoci. | Dostupné u učitele |               |               |           |               |          |
