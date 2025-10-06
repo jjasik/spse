@@ -9,7 +9,7 @@
 #### Cíle
 
 1. Vytvoření projektu (vytvoření, uložení, načtení)
-2. Vytvoření jednoduché logické kombinační funkce pro hradlového pole pomocí nástroje pro tvorbu schématu (tzv. BDF: Board Design File)
+2. Vytvoření jednoduché logické kombinační funkce pro hradlového pole pomocí nástroje pro tvorbu schématu (tzv. BDF: Board Design File nebo později ve VHDL)
 3. Kompilace a řešení případných chyb v návrhu
 4. Ověření funkce pomocí funkční simulace
 5. Ověření funkce pomocí časové simulace
@@ -30,5 +30,5 @@ Pozor: Ne všechny kroky jsou pro nás relevant (krok přeskakujeme), některé 
 
 #### Alternace (další možnosti)
 
-1. Jednoduché logická funkce ve VHDL: [Quartus Prime Introduction Using VHDL Designs](quartus-prime-vhdl-designs_v-2019-03-xx-r1.pdf), [Introduction to Simulation 
-   of VHDL Designs](quartus-prime-vhdl-simulation_v-2013-02-xx-r0.pdf)
+1. Použitím VHDL, návodka: [Quartus Prime Introduction Using VHDL Designs](quartus-prime-vhdl-designs_v-2019-03-xx-r1.pdf)
+2. [Introduction to Simulation of VHDL Designs](quartus-prime-vhdl-simulation_v-2013-02-xx-r0.pdf)
