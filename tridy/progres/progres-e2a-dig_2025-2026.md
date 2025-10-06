@@ -27,7 +27,7 @@
 | ---- | ---------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------- | ------------------------------------------------------------ | --------- | ------------- | --------------- |
 | 1    | 08.09.2025 | Jednoduchá logická funkce (a nepájivé pole)                  | [Jednoduchá logická funkce (a nepájivé pole)](../../predmety/dig/bloky/cviceni/jednoducha-logicka-funkce/readme.md) |               | 3/4 skupin úloha dokončena a pochopena, cca 1/4 skupin k dokončení příště - čekám na email kdo dokončil (poté zadám známky) | Ukončeno  | 0             |                 |
 | 2    | 22.09.2025 | Jednoduchá logická funkce (a nepájivé pole), číselné soustavy příklady | [Jednoduchá logická funkce (a nepájivé pole)](../../predmety/dig/bloky/cviceni/jednoducha-logicka-funkce/readme.md) - dokončení, popř. číselné soustavy: [příklady](../../predmety/dig/materialy/sbirka-prikladu-1.pdf) |               |                                                              |           |               | Úloha dokončena |
-| 3    | 06.10.2025 |                                                              |                                                              |               |                                                              |           |               |                 |
+| 3    | 06.10.2025 |                                                              | [Astabilní klopný obvod (a nepájivé pole)](../../predmety/dig/bloky/cviceni/astabilni-klopny-obvod/readme.md)) |               |                                                              |           |               |                 |
 
 ##### Skupina 2
 
