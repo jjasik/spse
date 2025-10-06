@@ -61,3 +61,4 @@ TODO
 ##### Cvičení
 
 1. [Jednoduchá logická funkce (a nepájivé pole)](bloky/cviceni/jednoducha-logicka-funkce/readme.md)
+1. [Astabilní klopný obvod (a nepájivé pole)](bloky/cviceni/astabilni-klopny-obvod/readme.md)
