@@ -1,0 +1,20 @@
+a) novy procesor (kdyz pripojim napajeni a zdroj hodin): dela neco? ano, vykonava instrukce (typicky NOPy apod. porad dokola)
+b) proc mame vyvojove prostredi: protoze chceme vyvijet a ladit slozitejsi programy napsane napr. v jazyce C
+c) vyvojove prostredi taktez poskytuje moznosti simulace na PC (tj. nepotrebujeme realny HW tj.vyvojovy kit)
+d) rekli jsme si neco z dokumentace:
+ 2.1 Block Diagram
+ 7.2 Architectural Overview
+ 7.5 General Purpose Register File
+ 8.1 Flash Program Memory
+ 8.2 SRAM Data Memory
+ 33. Register Summary
+ 34. Instruction Set Summary
+e) ukazali jsme si typicke vstupy (C-program) a vystupy z kompilace programu:
+
+ hex-soubor: obsahuje binarni vystup programu (je treba jej nahrat do Flash Program Memory) v nasem pripade zajistuje tzv.bootloader
+
+ map-soubor: informace co (programove casti, jednotlive promenne atd.) a kam kompilator umistil v pameti (popr.do ktere pameti)
+
+ lss soubor: tzv.listing, muzeme zde najit napr.jak kompilator implementoval pomoci instrukcni sady jednotlive casti programu v jazyce C
+---
+->Pokud bude nekdo chtit to jeste ukazat, muzeme napr.primo ve cviceni, ale prihlaste se, casu mame dost
