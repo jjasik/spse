@@ -29,7 +29,7 @@
 | ---- | ---------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------- | ----------------------------------- | --------- | ------------- | -------- |
 | 1    | 09.09.2025 | Zprovoznění PC (netacad účty, PacketTracer), kvízy: eth. kabeláž. | Prozkoumali jsme PC, ve druhé hodině jsme se rozdělili na dvě skupiny a řekli jsme si něco o kabelážích pro tzv. fast ethernet vs. gigabit ethernet, viz. stránka [Ethernetová kabeláž](../../predmety/pos/dema/ethernet-cables/readme.md), a tabule: [Zadaní](materialy/t2a-pos_2025-2026/tabule-001.jpg) |               | Někteří nemají funkční netacad účet |           |               |          |
 | 2    | 23.09.2025 | CCNA1: cvičení 1.0.4 a 1.0.5 Packet Tracer                   | CCNA1: cvičení 1.0.4 a 1.0.5 Packet Tracer, popř.1.5.5 (nedokončeno) |               |                                     | Ukončeno  | 2             |          |
-| 3    | 07.10.2025 |                                                              | CCNA1: cvičení 2.3.7 a 2.3.8                                 |               |                                     | Plánováno |               |          |
+| 3    | 07.10.2025 |                                                              | CCNA1: cvičení 2.3.7 a 2.3.8 (PC+LAB HW)                     |               |                                     | Plánováno |               |          |
 
 ##### Skupina 2
 
