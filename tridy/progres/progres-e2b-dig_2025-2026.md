@@ -27,7 +27,7 @@
 | ---- | ---------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------- | ------------------------------------------------------------ | --------- | ------------- | -------- |
 | 1    | 09.09.2025 | Formality (zasedací poř. atd.), nepáj.pole: jednoduchá logická funkce NAND | [Jednoduchá logická funkce (a nepájivé pole)](../../predmety/dig/bloky/cviceni/jednoducha-logicka-funkce/readme.md) |               | Na první hodině se nepodařilo úlohu dokončit všem, pokračování příště. |           |               |          |
 | 2    | 23.09.2025 | nepáj.pole: jednoduchá logická funkce NAND - dokončení, číselné soustavy: příklady | [Jednoduchá logická funkce (a nepájivé pole)](../../predmety/dig/bloky/cviceni/jednoducha-logicka-funkce/readme.md) - dokončení, popř. číselné soustavy: [příklady](../../predmety/dig/materialy/sbirka-prikladu-1.pdf) |               |                                                              | Ukončeno  | 2             |          |
-| 3    | 07.10.2025 |                                                              | Projití písemek, [Astabilní klopný obvod (a nepájivé pole)](../../predmety/dig/bloky/cviceni/astabilni-klopny-obvod/readme.md) |               |                                                              | Plánováno |               |          |
+| 3    | 07.10.2025 | Projití písemek, zapojení složitějšího obvodu na nepájivém poli (AKO). | Projití písemek, [Astabilní klopný obvod (a nepájivé pole)](../../predmety/dig/bloky/cviceni/astabilni-klopny-obvod/readme.md) |               |                                                              | Plánováno |               |          |
 
 ##### Skupina 2
 
