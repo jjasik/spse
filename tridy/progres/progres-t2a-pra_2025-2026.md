@@ -8,17 +8,17 @@ Není
 
 ##### Skupina 1
 
-| PČ   | Datum      | ŠOL                                                          | Obsah a materiály                                            | Hlavní témata | Otevřené body | Hodnocení | Bez hodnocení | Poznámka |
-| ---- | ---------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------- | ------------- | --------- | ------------- | -------- |
-| 1    | 15.09.2025 | Skup-1: Intro do hradlových polí a vývojového kitu OMDAZZ, zprovoznění nástrojů, jednoduchá úloha | [Intro do hradlových polí a vývojového kitu OMDAZZ](../../predmety/pra/fpga/altera-cyclone4/devbrd/omdazz/readme.md), [intro do vývojového prostředí](../../predmety/pra/fpga/tool/quartus-prime/readme.md) a cca 60 minut práce na první úloze (příště pokračujeme): [Zprovoznění nástrojů, jednoduchá úloha](../../predmety/pra/bloky/zprovozneni/readme.md) |               |               | Plánováno |               |          |
-| 2    | 29.09.2025 | Skup-1: práce na první úloze (pokračování)                   | práce na první úloze (příště dokončení)                      |               |               |           |               |          |
-| 3    | 13.10.2025 |                                                              | Suplování, jsem mimo školu (odpadá?)                         |               |               |           |               |          |
+| PČ   | Datum      | Obsah a materiály                                            | Hodnocení | Bez hodnocení | Poznámka |
+| ---- | ---------- | ------------------------------------------------------------ | --------- | ------------- | -------- |
+| 1    | 15.09.2025 | [Intro do hradlových polí a vývojového kitu OMDAZZ](../../predmety/pra/fpga/altera-cyclone4/devbrd/omdazz/readme.md), [intro do vývojového prostředí](../../predmety/pra/fpga/tool/quartus-prime/readme.md) a práce na první úloze: [Zprovoznění nástrojů, jednoduchá úloha](../../predmety/pra/bloky/zprovozneni/readme.md) | Plánováno |               |          |
+| 2    | 29.09.2025 | pokračujeme: [Zprovoznění nástrojů, jednoduchá úloha](../../predmety/pra/bloky/zprovozneni/readme.md) - společně |           |               |          |
+| 3    | 13.10.2025 | Odpadá?                                                      |           |               |          |
 
 ##### Skupina 2
 
-| PČ   | Datum      | ŠOL                                                          | Obsah a materiály                                            | Hlavní témata | Otevřené body | Hodnocení | Bez hodnocení | Poznámka                                                     |
-| ---- | ---------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------- | ------------- | --------- | ------------- | ------------------------------------------------------------ |
-| 1    | 08.09.2025 | Skup-2: Intro do hradlových polí a vývojového kitu OMDAZZ, zprovoznění nástrojů, jednoduchá úloha | [Intro do hradlových polí a vývojového kitu OMDAZZ](../../predmety/pra/fpga/altera-cyclone4/devbrd/omdazz/readme.md), [intro do vývojového prostředí](../../predmety/pra/fpga/tool/quartus-prime/readme.md) a cca 10 minut práce na první úloze (příště pokračujeme): [Zprovoznění nástrojů, jednoduchá úloha](../../predmety/pra/bloky/zprovozneni/readme.md) |               |               |           |               |                                                              |
-| 2    | 22.09.2025 | Skup-2: jednoduchá úloha v BDF                               | pokračujeme: [Zprovoznění nástrojů, jednoduchá úloha](../../predmety/pra/bloky/zprovozneni/readme.md) - společně |               |               |           |               |                                                              |
-| 3    | 06.10.2025 | Skup-2: jednoduchá úloha v BDF - dokončení                   | Dokončení úlohy z minula                                     |               |               | Ukončeno  |               | Příště: začátek práce na první úloze ve [VHDL](../../predmety/pra/bloky/zprovozneni/readme.md) |
+| PČ   | Datum      | Obsah a materiály                                            | Hlavní témata | Otevřené body | Hodnocení | Bez hodnocení | Poznámka |
+| ---- | ---------- | ------------------------------------------------------------ | ------------- | ------------- | --------- | ------------- | -------- |
+| 1    | 08.09.2025 | [Intro do hradlových polí a vývojového kitu OMDAZZ](../../predmety/pra/fpga/altera-cyclone4/devbrd/omdazz/readme.md), [intro do vývojového prostředí](../../predmety/pra/fpga/tool/quartus-prime/readme.md) a práce na první úloze: [Zprovoznění nástrojů, jednoduchá úloha](../../predmety/pra/bloky/zprovozneni/readme.md) |               |               |           |               |          |
+| 2    | 22.09.2025 | pokračujeme: [Zprovoznění nástrojů, jednoduchá úloha](../../predmety/pra/bloky/zprovozneni/readme.md) - společně |               |               |           |               |          |
+| 3    | 06.10.2025 | Dokončení úlohy z minula                                     |               |               | Ukončeno  | 3             |          |
 
