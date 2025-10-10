@@ -17,7 +17,7 @@
 | 11   | 07.10.2025 | CCNA1: dále až po 2.5.1 Configuration Files                  | Configure Passwords, Encrypt Passwords, Banner Messages      |           |               |          |
 | 12   | 09.10.2025 | CCNA1: dále až po 3.1.1 Video - Devices in a Bubble          | soupis je v další hodině                                     |           |               |          |
 | 13   | 09.10.2025 | CCNA1: dále až po 3.1.1 Video - Devices in a Bubble          | startup-config/running-config, show/copy/reload/erase startup-config/running-config, IP Addresses, IP Address Configuration, DHCP, Virtual Interface Configuration: ip address, ip default-gateway, ipconfig, show ip interface brief, ping |           |               |          |
-| 13   | 10.10.2025 |                                                              |                                                              |           |               |          |
+| 13   | 10.10.2025 | CCNA1: dále až po 3.3.4 TCP/IP Protocol Suite                | Example IPv6 packet, Flow Control/Response Timeout/Access method, Unicast/Multicast/Broadcast, Network Communication Protocols, Network Security Protocols, Routing Protocols, Service Discovery Protocols, TCP/IP Protocol Suite |           |               |          |
 | 14   | 14.10.2025 | Suplování (ELE)                                              |                                                              |           |               |          |
 | 15   | 16.10.2025 | Suplování (FYZ)                                              |                                                              |           |               |          |
 

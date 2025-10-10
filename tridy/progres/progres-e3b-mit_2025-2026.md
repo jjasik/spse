@@ -15,7 +15,7 @@
 | 9    | 03.10.2025 | Vykonávání programu: souvislosti, jádro, vývojové prostředí: [souvislosti-jadro-ide.txt](materialy/e3b-mit_2025-2026/souvislosti-jadro-ide.txt) |                                                              |           |               |          |
 | 10   | 06.10.2025 | [pameti.pptx](../../predmety/mit/materialy/pameti.pptx) po str.31 | Funkce paměti, popis: Adresa/Data/Čtení/zápis, Blokové schéma, Zápis/Čtení na adresu, Naprogramování obsahu, Kapacita paměti, RAM/SAM/LIFO a FIFO |           |               |          |
 | 11   | 07.10.2025 | Zdrojové kódy cvičení #1 a #2: vysvětlení                    |                                                              |           |               |          |
-| 12   | 10.10.2025 |                                                              |                                                              |           |               |          |
+| 12   | 10.10.2025 | [pameti.pptx](../../predmety/mit/materialy/pameti.pptx) po str.58 | Rozdělení RWM/ROM, statická-SRAM/dynamická-DRAM, SRAM: čtení/zápis schéma, ROM schéma |           |               |          |
 | 13   | 13.10.2025 | Suplování (ELM)                                              |                                                              |           |               |          |
 | 14   | 17.10.2025 | Suplování (ELE)                                              |                                                              |           |               |          |
 

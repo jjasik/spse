@@ -15,7 +15,7 @@
 | 9    | 30.09.2025 | [kodovani_dat.pptx](../../predmety/dig/materialy/kodovani_dat.pptx) až po str.23 | Kód, soubor symbolů, Kódování/Dekódování, BCD kód, Grayův kód, Kódování znaků, ASCII |           |               |          |
 | 10   | 03.10.2025 | [logicke_funkce.pptx](../../predmety/dig/materialy/logicke_funkce.pptx) až po str.11-12 | Logická proměnná, Výrok, Složený výrok, Kombinační/Sekvenční logický obvod, Popis logického obvodu |           |               |          |
 | 11   | 07.10.2025 | [logicke_funkce.pptx](../../predmety/dig/materialy/logicke_funkce.pptx) až po str.32 | Způsoby popisu, Základní logické funkce, Pravdivostní tabulka, Karnaughova mapa |           |               |          |
-| 12   | 10.10.2025 |                                                              |                                                              |           |               |          |
+| 12   | 10.10.2025 | [logicke_funkce.pptx](../../predmety/dig/materialy/logicke_funkce.pptx) až po str.49 | Karnaughova mapa: 2/3/4 proměnné, příklad, Booleova algebra  |           |               |          |
 | 13   | 14.10.2025 | Suplování (ELE)                                              |                                                              |           |               |          |
 | 14   | 17.10.2025 | Suplování (ELE)                                              |                                                              |           |               |          |
 
