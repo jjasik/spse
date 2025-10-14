@@ -49,7 +49,8 @@ Viz. ŠVP: [MIT](svp-temata.md)
 
 #### Nástroje
 
-TODO
+1. [Kit AVR_DevBrd](mcu/atmega2560/devbrd/readme.md)
+
 
 #### Bloky
 
