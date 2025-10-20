@@ -20,6 +20,7 @@
 | 13   | 10.10.2025 | CCNA1: dále až po 3.3.4 TCP/IP Protocol Suite                | Example IPv6 packet, Flow Control/Response Timeout/Access method, Unicast/Multicast/Broadcast, Network Communication Protocols, Network Security Protocols, Routing Protocols, Service Discovery Protocols, TCP/IP Protocol Suite |           |               |          |
 | 14   | 14.10.2025 | Suplování (ELE)                                              |                                                              |           |               |          |
 | 15   | 16.10.2025 | Suplování (FYZ)                                              |                                                              |           |               |          |
+| 16   | 21.10.2025 | CCNA1: pokračování                                           |                                                              |           |               |          |
 
 #### Cvičení
 
@@ -29,7 +30,8 @@
 | ---- | ---------- | ------------------------------------------------------------ | --------- | ------------- | -------- |
 | 1    | 09.09.2025 | [Ethernetová kabeláž](../../predmety/pos/dema/ethernet-cables/readme.md), a [Zadaní](materialy/t2a-pos_2025-2026/tabule-001.jpg) |           |               |          |
 | 2    | 23.09.2025 | CCNA1: cvičení 1.0.4 a 1.0.5 Packet Tracer                   | Ukončeno  | 2             |          |
-| 3    | 07.10.2025 | CCNA1: cvičení 2.3.7 a 2.3.8 (PC+LAB HW)                     |           |               |          |
+| 3    | 07.10.2025 | CCNA1: cvičení 2.3.7 a 2.3.8 (PC+LAB HW)                     | ?         |               |          |
+| 4    | 21.10.2025 | CCNA1: cvičení 2.5.4, 2.5.5, 2.7.6, 2.9.1                    | ?         |               |          |
 
 ##### Skupina 2
 
@@ -37,5 +39,5 @@
 | ---- | ---------- | ------------------------------------------------------------ | --------- | ------------- | ------------------------------------------------------------ |
 | 1    | 02.09.2025 | [Ethernetová kabeláž](../../predmety/pos/dema/ethernet-cables/readme.md), [desktop fast ethernet switch](../../predmety/pos/dema/zyxel-es-108a/readme.md), [ethernet router](../../predmety/pos/dema/mikrotik-hexlite-rb750r2/readme.md) |           |               |                                                              |
 | 2    | 16.09.2025 | CCNA1: cvičení 1.0.4 a 1.0.5 Packet Tracer                   | Ukončeno  | 1             |                                                              |
-| 3    | 30.09.2025 | CCNA1: cvičení 2.3.7 a 2.3.8 (PC+LAB HW)                     |           |               | [Tabule](materialy/t2a-pos_2025-2026/tabule-002.jpg), a foto [rack](materialy/t2a-pos_2025-2026/rack-001.jpg), 2.3.8 s reálným HW nedokončeno |
+| 3    | 30.09.2025 | CCNA1: cvičení 2.3.7 a 2.3.8 (PC+LAB HW)                     |           | ?             | [Tabule](materialy/t2a-pos_2025-2026/tabule-002.jpg), a foto [rack](materialy/t2a-pos_2025-2026/rack-001.jpg), 2.3.8 s reálným HW nedokončeno |
 | 4    | 14.10.2025 | Odpadá                                                       |           |               |                                                              |
