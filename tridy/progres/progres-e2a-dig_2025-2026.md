@@ -27,8 +27,8 @@
 | ---- | ---------- | ------------------------------------------------------------ | --------- | ------------- | -------- |
 | 1    | 08.09.2025 | [Jednoduchá logická funkce (a nepájivé pole)](../../predmety/dig/bloky/cviceni/jednoducha-logicka-funkce/readme.md) | Ukončeno  | 0             |          |
 | 2    | 22.09.2025 | [Jednoduchá logická funkce (a nepájivé pole)](../../predmety/dig/bloky/cviceni/jednoducha-logicka-funkce/readme.md) - dokončení, [příklady](../../predmety/dig/materialy/sbirka-prikladu-1.pdf) |           |               |          |
-| 3    | 06.10.2025 | Projití písemek, [Astabilní klopný obvod (a nepájivé pole)](../../predmety/dig/bloky/cviceni/astabilni-klopny-obvod/readme.md) | Plánováno |               |          |
-| 4    | 20.10.2025 | [Astabilní klopný obvod (a nepájivé pole)](../../predmety/dig/bloky/cviceni/astabilni-klopny-obvod/readme.md) - dokončení, [příklady](../../predmety/dig/materialy/sbirka-prikladu-1.pdf): KÓDY, KÓDOVÁNÍ INFORMACÍ, LOGICKÉ FUNKCE A BOOLEOVA ALGEBRA |           |               |          |
+| 3    | 06.10.2025 | Projití písemek, [Astabilní klopný obvod (a nepájivé pole)](../../predmety/dig/bloky/cviceni/astabilni-klopny-obvod/readme.md) |           |               |          |
+| 4    | 20.10.2025 | [Astabilní klopný obvod (a nepájivé pole)](../../predmety/dig/bloky/cviceni/astabilni-klopny-obvod/readme.md) - dokončení | Ukončeno  | 0             |          |
 
 ##### Skupina 2
 
