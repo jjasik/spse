@@ -18,6 +18,10 @@
 | 12   | 10.10.2025 | [pameti.pptx](../../predmety/mit/materialy/pameti.pptx) po str.58 | Rozdělení RWM/ROM, statická-SRAM/dynamická-DRAM, SRAM: čtení/zápis schéma, ROM schéma |           |               |          |
 | 13   | 13.10.2025 | Suplování (ELM)                                              |                                                              |           |               |          |
 | 14   | 17.10.2025 | Suplování (ELE)                                              |                                                              |           |               |          |
+| 15   | 20.10.2025 | [pameti.pptx](../../predmety/mit/materialy/pameti.pptx): dokončení |                                                              |           |               |          |
+| 16   | 24.10.2025 |                                                              |                                                              |           |               |          |
+| 17   | 27.10.2025 | Odpadá                                                       |                                                              |           |               |          |
+| 18   | 31.10.2025 | Písemka (něco z hodin teorie, něco ze cvičení)               |                                                              | Plánováno |               |          |
 
 #### Cvičení
 
