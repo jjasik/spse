@@ -55,7 +55,8 @@ Viz. ŠVP: [POS](svp-temata.md)
 
 #### Nástroje
 
-TODO
+1. [Učebna V2](vybaveni/v2/readme.md)
+
 
 #### Bloky
 
