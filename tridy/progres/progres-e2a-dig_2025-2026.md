@@ -18,6 +18,7 @@
 | 12   | 10.10.2025 | [logicke_funkce.pptx](../../predmety/dig/materialy/logicke_funkce.pptx) až po str.48 | Karnaughova mapa: 2/3/4 proměnné, příklad, Booleova algebra  |           |               |          |
 | 13   | 16.10.2025 | Suplování (ELE)                                              |                                                              |           |               |          |
 | 14   | 17.10.2025 | Suplování (ANJ)                                              |                                                              |           |               |          |
+| 15   | 23.10.2025 | [logicke_funkce.pptx](../../predmety/dig/materialy/logicke_funkce.pptx) až po str.52 (včetně) | Dokončení zákonů (Booleova algebra) a jeden příklad, video [KM](https://www.youtube.com/watch?v=N8E9psq2Ieo), příklady 6.17: a |           |               |          |
 
 #### Cvičení
 

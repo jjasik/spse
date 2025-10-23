@@ -22,6 +22,9 @@
 | 15   | 16.10.2025 | Suplování (FYZ)                                              |                                                              |           |               |          |
 | 16   | 21.10.2025 | CCNA1: dále až po 3.3.5 TCP/IP Communication Process (včetně) | Vrstvy, příklady protokolů ve vrstvách a jejich účel, pro příklad webového prohlížeče cesta skrze vrstvy a typicky použité protokoly. |           |               |          |
 | 17   | 23.10.2025 | 1) Seznámení se stránkou k učebně V2, 2) info: nekteří žáci mají zájem o roční CISCO certifikát, 3) CCNA1: pokračování |                                                              |           |               |          |
+| 18   | 28.10.2025 | Odpadá                                                       |                                                              |           |               |          |
+| 19   | 30.10.2025 |                                                              |                                                              |           |               |          |
+| 20   | 04.11.2025 | Písemka                                                      | TODO: fokus písemky                                          |           |               |          |
 
 #### Cvičení
 
