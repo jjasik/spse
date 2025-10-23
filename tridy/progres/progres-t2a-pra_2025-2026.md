@@ -13,6 +13,7 @@ Není
 | 1    | 15.09.2025 | [Intro do hradlových polí a vývojového kitu OMDAZZ](../../predmety/pra/fpga/altera-cyclone4/devbrd/omdazz/readme.md), [intro do vývojového prostředí](../../predmety/pra/fpga/tool/quartus-prime/readme.md) a práce na první úloze: [Zprovoznění nástrojů, jednoduchá úloha](../../predmety/pra/bloky/zprovozneni/readme.md) | Plánováno |               |          |
 | 2    | 29.09.2025 | pokračujeme: [Zprovoznění nástrojů, jednoduchá úloha](../../predmety/pra/bloky/zprovozneni/readme.md) - společně |           |               |          |
 | 3    | 13.10.2025 | Odpadá?                                                      |           |               |          |
+| 4    | 27.10.2025 | Odpadá                                                       |           |               |          |
 
 ##### Skupina 2
 
@@ -22,4 +23,5 @@ Není
 | 2    | 22.09.2025 | pokračujeme: [Zprovoznění nástrojů, jednoduchá úloha](../../predmety/pra/bloky/zprovozneni/readme.md) - společně |               |               |           |               |          |
 | 3    | 06.10.2025 | Dokončení úlohy z minula                                     |               |               | Ukončeno  | 0             |          |
 | 4    | 20.10.2025 | VHDL: intro viz.sekce materiály, úloha #1 (log. funkce: [Zprovoznění nástrojů, jednoduchá úloha](../../predmety/pra/bloky/zprovozneni/readme.md): sekce Alternace bod 1), #2 (4tl. vs. 4LED) - začátek |               |               | Plánováno |               |          |
+| 5    | 03.11.2025 |                                                              |               |               |           |               |          |
 
