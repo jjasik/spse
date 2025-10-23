@@ -19,6 +19,11 @@
 | 13   | 16.10.2025 | Suplování (ELE)                                              |                                                              |           |               |          |
 | 14   | 17.10.2025 | Suplování (ANJ)                                              |                                                              |           |               |          |
 | 15   | 23.10.2025 | [logicke_funkce.pptx](../../predmety/dig/materialy/logicke_funkce.pptx) až po str.52 (včetně) | Dokončení zákonů (Booleova algebra) a jeden příklad, video [KM](https://www.youtube.com/watch?v=N8E9psq2Ieo), příklady 6.17: a |           |               |          |
+| 16   | 24.10.2025 |                                                              | příklady 6.17: c a další                                     |           |               | DÚ       |
+| 17   | 30.10.2025 |                                                              |                                                              |           |               |          |
+| 18   | 31.10.2025 |                                                              |                                                              |           |               |          |
+| 19   | 06.11.2025 |                                                              |                                                              |           |               |          |
+| 20   | 07.11.2025 | Písemka                                                      |                                                              |           |               |          |
 
 #### Cvičení
 
@@ -30,6 +35,7 @@
 | 2    | 22.09.2025 | [Jednoduchá logická funkce (a nepájivé pole)](../../predmety/dig/bloky/cviceni/jednoducha-logicka-funkce/readme.md) - dokončení, [příklady](../../predmety/dig/materialy/sbirka-prikladu-1.pdf) |           |               |          |
 | 3    | 06.10.2025 | Projití písemek, [Astabilní klopný obvod (a nepájivé pole)](../../predmety/dig/bloky/cviceni/astabilni-klopny-obvod/readme.md) |           |               |          |
 | 4    | 20.10.2025 | [Astabilní klopný obvod (a nepájivé pole)](../../predmety/dig/bloky/cviceni/astabilni-klopny-obvod/readme.md) - dokončení | Ukončeno  | 0             |          |
+| 5    | 03.11.2025 |                                                              |           |               |          |
 
 ##### Skupina 2
 
@@ -38,3 +44,4 @@
 | 1    | 15.09.2025 | [Jednoduchá logická funkce (a nepájivé pole)](../../predmety/dig/bloky/cviceni/jednoducha-logicka-funkce/readme.md) | Ukončeno  | 0             |          |
 | 2    | 29.09.2025 | Projití písemek, [Astabilní klopný obvod (a nepájivé pole)](../../predmety/dig/bloky/cviceni/astabilni-klopny-obvod/readme.md) | Plánováno |               |          |
 | 3    | 13.10.2025 | Odpadá                                                       |           |               |          |
+| 4    | 27.10.2025 | Odpadá                                                       |           |               |          |
