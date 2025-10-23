@@ -21,10 +21,10 @@
 | 14   | 14.10.2025 | Suplování (ELE)                                              |                                                              |           |               |          |
 | 15   | 16.10.2025 | Suplování (FYZ)                                              |                                                              |           |               |          |
 | 16   | 21.10.2025 | CCNA1: dále až po 3.3.5 TCP/IP Communication Process (včetně) | Vrstvy, příklady protokolů ve vrstvách a jejich účel, pro příklad webového prohlížeče cesta skrze vrstvy a typicky použité protokoly. |           |               |          |
-| 17   | 23.10.2025 | 1) Seznámení se stránkou k učebně V2, 2) info: nekteří žáci mají zájem o roční CISCO certifikát, 3) CCNA1: pokračování |                                                              |           |               |          |
+| 17   | 23.10.2025 | 1) [Seznámení se stránkou k učebně V2](../../predmety/pos/vybaveni/v2/readme.md), 2) info: nekteří žáci mají zájem o roční CISCO certifikát, 3) CCNA1: dále až po 3.6.4 Encapsulation Example (zopakovat) | TCP/IP Communication Process: web server example, Standards Organizations: IANA, IEEE, Reference Models: OSI Model vs. TCP/IP Model, Data Encapsulation: Segmentation/Multiplexing, Sequencing, PDU (Data, Segment, Packet, Frame, Bits), Encapsulation Example |           |               |          |
 | 18   | 28.10.2025 | Odpadá                                                       |                                                              |           |               |          |
 | 19   | 30.10.2025 |                                                              |                                                              |           |               |          |
-| 20   | 04.11.2025 | Písemka                                                      | TODO: fokus písemky                                          |           |               |          |
+| 20   | 04.11.2025 | Písemka                                                      | TODO: fokus písemky                                          | Plánováno |               |          |
 
 #### Cvičení
 
@@ -36,6 +36,7 @@
 | 2    | 23.09.2025 | CCNA1: cvičení 1.0.4 a 1.0.5 Packet Tracer                   | Ukončeno  | 2             |                                                              |
 | 3    | 07.10.2025 | CCNA1: cvičení 2.3.7 a 2.3.8 (PC+LAB HW)                     |           |               | dokončili i chybějící minule?                                |
 | 4    | 21.10.2025 | CCNA1: cvičení 2.5.4, 2.5.5, 2.7.6, 2.9.1                    | Plánováno |               | různý stav rozpracovanosti,, viz. poznámky, udělat všechny cvičení i na HW, zadat známky? +nové zadání pro ty co již dokončili |
+| 5    | 04.11.2025 |                                                              |           |               |                                                              |
 
 ##### Skupina 2
 
@@ -45,3 +46,4 @@
 | 2    | 16.09.2025 | CCNA1: cvičení 1.0.4 a 1.0.5 Packet Tracer                   | Ukončeno  | 1             |                                                              |
 | 3    | 30.09.2025 | CCNA1: cvičení 2.3.7 a 2.3.8 (PC+LAB HW)                     |           |               | [Tabule](materialy/t2a-pos_2025-2026/tabule-002.jpg), a foto [rack](materialy/t2a-pos_2025-2026/rack-001.jpg), 2.3.8 s reálným HW nedokončeno |
 | 4    | 14.10.2025 | Odpadá                                                       |           |               |                                                              |
+| 5    | 28.10.2025 | Odpadá                                                       |           |               |                                                              |
