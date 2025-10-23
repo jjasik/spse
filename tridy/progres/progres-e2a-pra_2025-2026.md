@@ -21,9 +21,9 @@ Není
 | 3    | 17.09.2025 | Společně jsme došli až do bodu použití pin planner, a na jednom PC jsme pokusně nahráli konfiguraci do hradlového pole, příště dokončíme. |           |               |          |
 | 4    | 24.09.2025 | Dokončení úlohy z minula, začátek práce na první úloze ve VHDL. | Ukončeno  | 1             |          |
 | 5    | 01.10.2025 | VHDL: úloha #1 (log. funkce), #2 (4tl. vs. 4LED)             | Ukončeno  | 0             |          |
-| 6    | 08.10.2025 | VHDL: úloha #3 (dvě varianty sčítačky)                       | Běží      |               |          |
-| 7    | 15.10.2025 | Odpadá?                                                      |           |               |          |
-| 8    | 22.10.2025 |                                                              |           |               |          |
+| 6    | 08.10.2025 | VHDL: úloha #3 (dvě varianty sčítačky)                       |           |               |          |
+| 7    | 15.10.2025 | Nahrazeno jinou výukou                                       |           |               |          |
+| 8    | 22.10.2025 | VHDL: úloha #3 (dvě varianty sčítačky) - dokončeno, detailnější probraní syntaxe jazyka, úloha: #4 (čítač) - začátek | Ukončeno  | 0             |          |
 | 9    | 29.10.2025 | Prázdniny                                                    |           |               |          |
 | 10   | 05.11.2025 |                                                              |           |               |          |
 | 11   | 12.11.2025 |                                                              |           |               |          |
