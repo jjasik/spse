@@ -24,7 +24,7 @@
 | 17   | 23.10.2025 | 1) [Seznámení se stránkou k učebně V2](../../predmety/pos/vybaveni/v2/readme.md), 2) info: nekteří žáci mají zájem o roční CISCO certifikát, 3) CCNA1: dále až po 3.6.4 Encapsulation Example | TCP/IP Communication Process: web server example, Standards Organizations: IANA, IEEE, Reference Models: OSI Model vs. TCP/IP Model, Data Encapsulation: Segmentation/Multiplexing, Sequencing, PDU (Data, Segment, Packet, Frame, Bits), Encapsulation Example |           |               |          |
 | 18   | 28.10.2025 | Odpadá                                                       |                                                              |           |               |          |
 | 19   | 30.10.2025 | CCNA1: dále až po 4.2.1 Physical Layer Standards (včetně)    | De-encapsulation Example, Network layer source and destination addresses/Data link layer source and destination addresses, Layer 3 Logical Address: Network portion (IPv4) or Prefix (IPv6)/Host portion (IPv4) or Interface ID (IPv6), Devices on the Same Network/Devices on a Remote Network, Data Link Addresses, Purpose of Physical Layer/Standards |           |               |          |
-| 20   | 04.11.2025 | Písemka                                                      | TODO: fokus písemky                                          | Plánováno |               |          |
+| 20   | 04.11.2025 | Písemka                                                      | [Témata](materialy/t2a-pos_2025-2026/pisemka-temata-1.md)    | Plánováno |               |          |
 
 #### Cvičení
 
