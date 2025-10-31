@@ -20,8 +20,8 @@
 | 14   | 17.10.2025 | Suplování (ANJ)                                              |                                                              |           |               |                     |
 | 15   | 23.10.2025 | [logicke_funkce.pptx](../../predmety/dig/materialy/logicke_funkce.pptx) až po str.52 (včetně) | Dokončení zákonů (Booleova algebra) a jeden příklad, video [KM](https://www.youtube.com/watch?v=N8E9psq2Ieo), příklady 6.17: a |           |               |                     |
 | 16   | 24.10.2025 | Logické funkce                                               | [příklady](../../predmety/dig/materialy/sbirka-prikladu-1.pdf): 6.17, 6.23 |           |               |                     |
-| 17   | 30.10.2025 | Logické funkce                                               | [příklady](../../predmety/dig/materialy/sbirka-prikladu-1.pdf): 6.23, 6.54, 6.59, [logicke_funkce.pptx](../../predmety/dig/materialy/logicke_funkce.pptx) až po str. 86-88 |           |               | přeskočené stránky? |
-| 18   | 31.10.2025 |                                                              |                                                              |           |               |                     |
+| 17   | 30.10.2025 | Logické funkce                                               | [příklady](../../predmety/dig/materialy/sbirka-prikladu-1.pdf): 6.23, 6.54, 6.59, [logicke_funkce.pptx](../../predmety/dig/materialy/logicke_funkce.pptx) až po str. 86-88 |           |               |                     |
+| 18   | 31.10.2025 | Logické funkce                                               | [logicke_funkce.pptx](../../predmety/dig/materialy/logicke_funkce.pptx) až po str. 112 (příklad 27) |           |               | přeskočené stránky? |
 | 19   | 06.11.2025 |                                                              |                                                              |           |               |                     |
 | 20   | 07.11.2025 | Písemka                                                      |                                                              | Plánováno |               |                     |
 
