@@ -35,7 +35,7 @@
 | 2    | 22.09.2025 | [Jednoduchá logická funkce (a nepájivé pole)](../../predmety/dig/bloky/cviceni/jednoducha-logicka-funkce/readme.md) - dokončení, [příklady](../../predmety/dig/materialy/sbirka-prikladu-1.pdf) |           |               |          |
 | 3    | 06.10.2025 | Projití písemek, [Astabilní klopný obvod (a nepájivé pole)](../../predmety/dig/bloky/cviceni/astabilni-klopny-obvod/readme.md) |           |               |          |
 | 4    | 20.10.2025 | [Astabilní klopný obvod (a nepájivé pole)](../../predmety/dig/bloky/cviceni/astabilni-klopny-obvod/readme.md) - dokončení | Ukončeno  | 0             |          |
-| 5    | 03.11.2025 |                                                              |           |               |          |
+| 5    | 03.11.2025 | [příklady](../../predmety/dig/materialy/sbirka-prikladu-1.pdf): 6.3: a, c, d, e (nedokončeno) |           |               |          |
 
 ##### Skupina 2
 
