@@ -21,9 +21,10 @@
 | 15   | 21.10.2025 | [logicke_funkce.pptx](../../predmety/dig/materialy/logicke_funkce.pptx) až po str.52 (včetně) | Dokončení zákonů (Booleova algebra) a jeden příklad, video [KM](https://www.youtube.com/watch?v=N8E9psq2Ieo), příklady 6.17: a |           |               |                     |
 | 16   | 24.10.2025 | Logické funkce                                               | [příklady](../../predmety/dig/materialy/sbirka-prikladu-1.pdf): 6.17, 6.23, 6.54 |           |               |                     |
 | 17   | 28.10.2025 | Odpadá                                                       |                                                              |           |               |                     |
-| 18   | 31.10.2025 | Logické funkce                                               | [logicke_funkce.pptx](../../predmety/dig/materialy/logicke_funkce.pptx) až po str. 95 |           |               | přeskočené stránky? |
-| 19   | 04.11.2025 |                                                              |                                                              |           |               |                     |
+| 18   | 31.10.2025 | Logické funkce                                               | [logicke_funkce.pptx](../../predmety/dig/materialy/logicke_funkce.pptx) až po str. 95 |           |               |                     |
+| 19   | 04.11.2025 | Logické funkce                                               | [logicke_funkce.pptx](../../predmety/dig/materialy/logicke_funkce.pptx) až po str. 112 (příklad 27), [příklady](../../predmety/dig/materialy/sbirka-prikladu-1.pdf): 6.3: a, c (nedokončeno) |           |               |                     |
 | 20   | 07.11.2025 | Písemka                                                      |                                                              | Plánováno |               |                     |
+| 21   | 11.11.2025 |                                                              |                                                              |           |               | přeskočené stránky? |
 
 #### Cvičení
 
@@ -35,7 +36,7 @@
 | 2    | 23.09.2025 | [Jednoduchá logická funkce (a nepájivé pole)](../../predmety/dig/bloky/cviceni/jednoducha-logicka-funkce/readme.md) - dokončení, číselné soustavy: [příklady](../../predmety/dig/materialy/sbirka-prikladu-1.pdf) | Ukončeno  | 2             |          |
 | 3    | 07.10.2025 | Projití písemek, [Astabilní klopný obvod (a nepájivé pole)](../../predmety/dig/bloky/cviceni/astabilni-klopny-obvod/readme.md) |           |               |          |
 | 4    | 21.10.2025 | [Astabilní klopný obvod (a nepájivé pole)](../../predmety/dig/bloky/cviceni/astabilni-klopny-obvod/readme.md) - dokončení | Ukončeno  | 3             |          |
-| 5    | 04.11.2025 |                                                              |           |               |          |
+| 5    | 04.11.2025 | [příklady](../../predmety/dig/materialy/sbirka-prikladu-1.pdf): 6.3: c, d, k |           |               |          |
 
 ##### Skupina 2
 
