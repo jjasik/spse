@@ -30,13 +30,13 @@
 
 ##### Skupina 1
 
-| PČ   | Datum      | Obsah a materiály                                            | Hodnocení | Bez hodnocení | Poznámka                                                     |
-| ---- | ---------- | ------------------------------------------------------------ | --------- | ------------- | ------------------------------------------------------------ |
-| 1    | 09.09.2025 | [Ethernetová kabeláž](../../predmety/pos/dema/ethernet-cables/readme.md), a [Zadaní](materialy/t2a-pos_2025-2026/tabule-001.jpg) |           |               |                                                              |
-| 2    | 23.09.2025 | CCNA1: cvičení 1.0.4 a 1.0.5 Packet Tracer                   | Ukončeno  | 2             |                                                              |
-| 3    | 07.10.2025 | CCNA1: cvičení 2.3.7 a 2.3.8 (PC+LAB HW)                     |           |               | dokončili i chybějící minule?                                |
-| 4    | 21.10.2025 | CCNA1: cvičení 2.5.4, 2.5.5, 2.7.6, 2.9.1                    | Plánováno |               | různý stav rozpracovanosti,, viz. poznámky, udělat všechny cvičení i na HW, zadat známky? +nové zadání pro ty co již dokončili |
-| 5    | 04.11.2025 |                                                              |           |               |                                                              |
+| PČ   | Datum      | Obsah a materiály                                            | Hodnocení | Bez hodnocení | Poznámka |
+| ---- | ---------- | ------------------------------------------------------------ | --------- | ------------- | -------- |
+| 1    | 09.09.2025 | [Ethernetová kabeláž](../../predmety/pos/dema/ethernet-cables/readme.md), a [Zadaní](materialy/t2a-pos_2025-2026/tabule-001.jpg) |           |               |          |
+| 2    | 23.09.2025 | CCNA1: cvičení 1.0.4 a 1.0.5 Packet Tracer                   | Ukončeno  | 2             |          |
+| 3    | 07.10.2025 | CCNA1: cvičení 2.3.7 a 2.3.8 (PC+LAB HW)                     |           |               |          |
+| 4    | 21.10.2025 | CCNA1: cvičení 2.5.4, 2.5.5, 2.7.6, 2.9.1                    |           |               |          |
+| 5    | 04.11.2025 | CCNA1: cvičení 2.5.4, 2.5.5, 2.7.6, 2.9.1 - dokončení, otázky k písemce: probrání | Ukončeno  | 12            |          |
 
 ##### Skupina 2
 
