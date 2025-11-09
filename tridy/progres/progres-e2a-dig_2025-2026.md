@@ -22,8 +22,8 @@
 | 16   | 24.10.2025 | Logické funkce                                               | [příklady](../../predmety/dig/materialy/sbirka-prikladu-1.pdf): 6.17, 6.23 |           |               |                     |
 | 17   | 30.10.2025 | Logické funkce                                               | [příklady](../../predmety/dig/materialy/sbirka-prikladu-1.pdf): 6.23, 6.54, 6.59, [logicke_funkce.pptx](../../predmety/dig/materialy/logicke_funkce.pptx) až po str. 86-88 |           |               |                     |
 | 18   | 31.10.2025 | Logické funkce                                               | [logicke_funkce.pptx](../../predmety/dig/materialy/logicke_funkce.pptx) až po str. 112 (příklad 27) |           |               | přeskočené stránky? |
-| 19   | 06.11.2025 |                                                              |                                                              |           |               |                     |
-| 20   | 07.11.2025 | Písemka                                                      |                                                              | Plánováno |               |                     |
+| 19   | 06.11.2025 | Logické funkce                                               | [příklady](../../predmety/dig/materialy/sbirka-prikladu-1.pdf): 6.3: k, p (pouze po mapu) |           |               |                     |
+| 20   | 07.11.2025 | Písemka                                                      |                                                              | Běží      | 2             |                     |
 
 #### Cvičení
 
