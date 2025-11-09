@@ -25,7 +25,7 @@ Není
 | 7    | 15.10.2025 | Nahrazeno jinou výukou                                       |           |               |          |
 | 8    | 22.10.2025 | VHDL: detailnější probraní syntaxe jazyka, úloha: #4 (čítač) - dokončeno | Ukončeno  | 3             |          |
 | 9    | 29.10.2025 | Prázdniny                                                    |           |               |          |
-| 10   | 05.11.2025 |                                                              |           |               |          |
+| 10   | 05.11.2025 | VHDL: úloha: #5 (ovládání 7seg. displeje) - nedokončeno      | Plánováno |               |          |
 | 11   | 12.11.2025 |                                                              |           |               |          |
 | 12   | 19.11.2025 |                                                              |           |               |          |
 | 13   | 26.11.2025 |                                                              |           |               |          |
