@@ -39,6 +39,7 @@ Viz. ŠVP: [MIT](svp-temata.md)
 1. Prezentace k předmětu:
    1. [modely_pocitacu.pptx](materialy/modely_pocitacu.pptx)
    2. [pameti.pptx](materialy/pameti.pptx)
+   3. [avr_intro.pptx](materialy/avr_intro.pptx)
 
 #### Dema
 
