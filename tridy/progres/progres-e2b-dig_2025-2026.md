@@ -23,7 +23,7 @@
 | 17   | 28.10.2025 | Odpadá                                                       |                                                              |           |               |                     |
 | 18   | 31.10.2025 | Logické funkce                                               | [logicke_funkce.pptx](../../predmety/dig/materialy/logicke_funkce.pptx) až po str. 95 |           |               |                     |
 | 19   | 04.11.2025 | Logické funkce                                               | [logicke_funkce.pptx](../../predmety/dig/materialy/logicke_funkce.pptx) až po str. 112 (příklad 27), [příklady](../../predmety/dig/materialy/sbirka-prikladu-1.pdf): 6.3: a, c (nedokončeno) |           |               |                     |
-| 20   | 07.11.2025 | Písemka                                                      |                                                              | Plánováno |               |                     |
+| 20   | 07.11.2025 | Písemka                                                      |                                                              | Běží      |               |                     |
 | 21   | 11.11.2025 |                                                              |                                                              |           |               | přeskočené stránky? |
 
 #### Cvičení
