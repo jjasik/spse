@@ -23,9 +23,9 @@ Není
 | 5    | 01.10.2025 | VHDL: úloha #1 (log. funkce), #2 (4tl. vs. 4LED)             | Ukončeno  | 0             |          |
 | 6    | 08.10.2025 | VHDL: úloha #3 (dvě varianty sčítačky)                       |           |               |          |
 | 7    | 15.10.2025 | Nahrazeno jinou výukou                                       |           |               |          |
-| 8    | 22.10.2025 | VHDL: úloha #3 (dvě varianty sčítačky) - dokončeno, detailnější probraní syntaxe jazyka, úloha: #4 (čítač) - začátek | Ukončeno  | 0             |          |
+| 8    | 22.10.2025 | VHDL: úloha #3 (dvě varianty sčítačky) - dokončeno, detailnější probraní syntaxe jazyka, úloha: #4 (čítač) | Ukončeno  | 0             |          |
 | 9    | 29.10.2025 | Prázdniny                                                    |           |               |          |
-| 10   | 05.11.2025 |                                                              |           |               |          |
+| 10   | 05.11.2025 | VHDL: úloha: #5 (ovládání 7seg. displeje) - nedokončeno      | Plánováno |               |          |
 | 11   | 12.11.2025 |                                                              |           |               |          |
 | 12   | 19.11.2025 |                                                              |           |               |          |
 | 13   | 26.11.2025 |                                                              |           |               |          |
