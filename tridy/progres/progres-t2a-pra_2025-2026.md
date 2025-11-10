@@ -10,10 +10,11 @@ Není
 
 | PČ   | Datum      | Obsah a materiály                                            | Hodnocení | Bez hodnocení | Poznámka |
 | ---- | ---------- | ------------------------------------------------------------ | --------- | ------------- | -------- |
-| 1    | 15.09.2025 | [Intro do hradlových polí a vývojového kitu OMDAZZ](../../predmety/pra/fpga/altera-cyclone4/devbrd/omdazz/readme.md), [intro do vývojového prostředí](../../predmety/pra/fpga/tool/quartus-prime/readme.md) a práce na první úloze: [Zprovoznění nástrojů, jednoduchá úloha](../../predmety/pra/bloky/zprovozneni/readme.md) | Plánováno |               |          |
+| 1    | 15.09.2025 | [Intro do hradlových polí a vývojového kitu OMDAZZ](../../predmety/pra/fpga/altera-cyclone4/devbrd/omdazz/readme.md), [intro do vývojového prostředí](../../predmety/pra/fpga/tool/quartus-prime/readme.md) a práce na první úloze: [Zprovoznění nástrojů, jednoduchá úloha](../../predmety/pra/bloky/zprovozneni/readme.md) |           |               |          |
 | 2    | 29.09.2025 | pokračujeme: [Zprovoznění nástrojů, jednoduchá úloha](../../predmety/pra/bloky/zprovozneni/readme.md) - společně |           |               |          |
-| 3    | 13.10.2025 | Odpadá?                                                      |           |               |          |
+| 3    | 13.10.2025 | Odpadá                                                       |           |               |          |
 | 4    | 27.10.2025 | Odpadá                                                       |           |               |          |
+| 5    | 10.11.2025 | Dokončení úlohy z minula                                     | Ukončeno  | 4             |          |
 
 ##### Skupina 2
 
