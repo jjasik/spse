@@ -42,6 +42,7 @@
 | PČ   | Datum      | Obsah a materiály                                            | Hodnocení | Bez hodnocení | Poznámka |
 | ---- | ---------- | ------------------------------------------------------------ | --------- | ------------- | -------- |
 | 1    | 15.09.2025 | [Jednoduchá logická funkce (a nepájivé pole)](../../predmety/dig/bloky/cviceni/jednoducha-logicka-funkce/readme.md) | Ukončeno  | 0             |          |
-| 2    | 29.09.2025 | Projití písemek, [Astabilní klopný obvod (a nepájivé pole)](../../predmety/dig/bloky/cviceni/astabilni-klopny-obvod/readme.md) | Plánováno |               |          |
+| 2    | 29.09.2025 | Projití písemek, [Astabilní klopný obvod (a nepájivé pole)](../../predmety/dig/bloky/cviceni/astabilni-klopny-obvod/readme.md) |           |               |          |
 | 3    | 13.10.2025 | Odpadá                                                       |           |               |          |
 | 4    | 27.10.2025 | Odpadá                                                       |           |               |          |
+| 5    | 10.11.2025 | Projití písemek, [Astabilní klopný obvod (a nepájivé pole)](../../predmety/dig/bloky/cviceni/astabilni-klopny-obvod/readme.md) - dokončení | Ukončeno  | 9             |          |
