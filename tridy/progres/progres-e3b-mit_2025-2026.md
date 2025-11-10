@@ -23,7 +23,9 @@
 | 17   | 27.10.2025 | Odpadá                                                       |                                                              |           |               |          |
 | 18   | 31.10.2025 | Písemka (něco z hodin teorie, něco ze cvičení)               |                                                              | Ukončeno  | 3             |          |
 | 19   | 03.11.2025 | Výsledky písemky, [avr_intro.pptx](../../predmety/mit/materialy/avr_intro.pptx) po str.17 | Účel: Časovač, Analogové vstupy, Sériový kanál               |           |               |          |
-| 20   | 07.11.2025 | [avr_intro.pptx](../../predmety/mit/materialy/avr_intro.pptx) po str.26 | TODO                                                         |           |               |          |
+| 20   | 07.11.2025 | [avr_intro.pptx](../../predmety/mit/materialy/avr_intro.pptx) po str.26 | Účel: SPI, TWI, EEPROM, RTC, Watchdog, Paměť dat EEPROM, úsporné režimy, přerušení, Paměť programu (Flash), Paměť SRAM - začátek |           |               |          |
+| 21   | 10.11.2025 |                                                              |                                                              |           |               |          |
+| 22   | 10.11.2025 |                                                              |                                                              |           |               |          |
 
 #### Cvičení
 
