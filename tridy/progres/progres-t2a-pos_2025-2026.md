@@ -26,6 +26,7 @@
 | 19   | 30.10.2025 | CCNA1: dále až po 4.2.1 Physical Layer Standards (včetně)    | De-encapsulation Example, Network layer source and destination addresses/Data link layer source and destination addresses, Layer 3 Logical Address: Network portion (IPv4) or Prefix (IPv6)/Host portion (IPv4) or Interface ID (IPv6), Devices on the Same Network/Devices on a Remote Network, Data Link Addresses, Purpose of Physical Layer/Standards |           |               |          |
 | 20   | 04.11.2025 | Písemka                                                      | [Témata](materialy/t2a-pos_2025-2026/pisemka-temata-1.md)    | Ukončeno  | 2             |          |
 | 21   | 06.11.2025 | CCNA1: dále až po 4.5 Fiber-Optic Cabling (začátek)          | TODO                                                         |           |               |          |
+| 22   | 11.09.2025 | CCNA1: dále až po 4.6.1 Properties of Wireless Media         | TODO                                                         |           |               |          |
 
 #### Cvičení
 
@@ -41,10 +42,11 @@
 
 ##### Skupina 2
 
-| PČ   | Datum      | Obsah a materiály                                            | Hodnocení | Bez hodnocení | Poznámka                                                     |
-| ---- | ---------- | ------------------------------------------------------------ | --------- | ------------- | ------------------------------------------------------------ |
-| 1    | 02.09.2025 | [Ethernetová kabeláž](../../predmety/pos/dema/ethernet-cables/readme.md), [desktop fast ethernet switch](../../predmety/pos/dema/zyxel-es-108a/readme.md), [ethernet router](../../predmety/pos/dema/mikrotik-hexlite-rb750r2/readme.md) |           |               |                                                              |
-| 2    | 16.09.2025 | CCNA1: cvičení 1.0.4 a 1.0.5 Packet Tracer                   | Ukončeno  | 1             |                                                              |
-| 3    | 30.09.2025 | CCNA1: cvičení 2.3.7 a 2.3.8 (PC+LAB HW)                     |           |               | [Tabule](materialy/t2a-pos_2025-2026/tabule-002.jpg), a foto [rack](materialy/t2a-pos_2025-2026/rack-001.jpg), 2.3.8 s reálným HW nedokončeno |
-| 4    | 14.10.2025 | Odpadá                                                       |           |               |                                                              |
-| 5    | 28.10.2025 | Odpadá                                                       |           |               |                                                              |
+| PČ   | Datum      | Obsah a materiály                                            | Hodnocení | Bez hodnocení | Poznámka                                             |
+| ---- | ---------- | ------------------------------------------------------------ | --------- | ------------- | ---------------------------------------------------- |
+| 1    | 02.09.2025 | [Ethernetová kabeláž](../../predmety/pos/dema/ethernet-cables/readme.md), [desktop fast ethernet switch](../../predmety/pos/dema/zyxel-es-108a/readme.md), [ethernet router](../../predmety/pos/dema/mikrotik-hexlite-rb750r2/readme.md) |           |               |                                                      |
+| 2    | 16.09.2025 | CCNA1: cvičení 1.0.4 a 1.0.5 Packet Tracer                   | Ukončeno  | 1             |                                                      |
+| 3    | 30.09.2025 | CCNA1: cvičení 2.3.7 a 2.3.8 (PC+LAB HW)                     |           |               | [Tabule](materialy/t2a-pos_2025-2026/tabule-002.jpg) |
+| 4    | 14.10.2025 | Odpadá                                                       |           |               |                                                      |
+| 5    | 28.10.2025 | Odpadá                                                       |           |               |                                                      |
+| 6    | 11.11.2025 | CCNA1: cvičení 2.5.4, 2.5.5, 2.7.6, 2.9.1                    | Plánováno |               |                                                      |
