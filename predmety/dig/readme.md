@@ -40,6 +40,7 @@ Viz. ŠVP: [DIG](svp-temata.md)
    2. [ciselne_soustavy.pptx](materialy/ciselne_soustavy.pptx)
    3. [kodovani_dat.pptx](materialy/kodovani_dat.pptx)
    4. [logicke_funkce.pptx](materialy/logicke_funkce.pptx)
+   5. [kombinacni_obvody.pptx](materialy/kombinacni_obvody.pptx)
 2. Sbírky příkladů:
    1. [sbirka-prikladu-1.pdf](materialy/sbirka-prikladu-1.pdf)
 
