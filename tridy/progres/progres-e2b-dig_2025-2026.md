@@ -48,4 +48,4 @@
 | 3    | 30.09.2025 | Projití písemek, [Astabilní klopný obvod (a nepájivé pole)](../../predmety/dig/bloky/cviceni/astabilni-klopny-obvod/readme.md) |           |               |          |
 | 4    | 14.10.2025 | Odpadá                                                       |           |               |          |
 | 5    | 28.10.2025 | Odpadá                                                       |           |               |          |
-| 6    | 11.11.2025 | Projití písemek, [Astabilní klopný obvod (a nepájivé pole)](../../predmety/dig/bloky/cviceni/astabilni-klopny-obvod/readme.md) | Plánováno | TODO 1        |          |
+| 6    | 11.11.2025 | Projití písemek, [Astabilní klopný obvod (a nepájivé pole)](../../predmety/dig/bloky/cviceni/astabilni-klopny-obvod/readme.md) | Ukončeno  | 1             |          |
