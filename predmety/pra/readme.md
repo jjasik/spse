@@ -31,7 +31,7 @@ Viz. ŠVP: [PRA](svp-temata.md), [DIG](../dig/svp-temata.md)
 
 1. Teoretická část: písemky (testy), jedna známka za celou periodu (skrze probrané témata): váha 1.00
 2. Příprava a prezentace zvoleného tématu: není
-3. Cvičení: známka z každého bloku (primárně za aktivitu a snahu dokončit úlohu): váha 0.75
+3. Cvičení: známka z každého bloku (primárně za aktivitu a snahu dokončit úlohu): váha 1.00
 4. Samostatná práce: není
 
 
