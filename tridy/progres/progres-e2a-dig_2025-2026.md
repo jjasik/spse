@@ -25,6 +25,7 @@
 | 19   | 06.11.2025 | Logické funkce                                               | [příklady](../../predmety/dig/materialy/sbirka-prikladu-1.pdf): 6.3: k, p (pouze po mapu) |           |               |          |
 | 20   | 07.11.2025 | Písemka                                                      |                                                              | Ukončeno  | 2             |          |
 | 21   | 13.11.2025 | Logické funkce                                               | [logicke_funkce.pptx](../../predmety/dig/materialy/logicke_funkce.pptx): minterm/maxterm |           |               |          |
+| 22   | 14.11.2025 | Kombinační obvody                                            | [kombinacni_obvody.pptx](../../predmety/dig/materialy/kombinacni_obvody.pptx) až po str. 14 |           |               |          |
 
 #### Cvičení
 
