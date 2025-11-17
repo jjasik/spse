@@ -26,6 +26,20 @@
 | 20   | 07.11.2025 | Písemka                                                      |                                                              | Ukončeno  | 2             |          |
 | 21   | 13.11.2025 | Logické funkce                                               | [logicke_funkce.pptx](../../predmety/dig/materialy/logicke_funkce.pptx): minterm/maxterm |           |               |          |
 | 22   | 14.11.2025 | Kombinační obvody                                            | [kombinacni_obvody.pptx](../../predmety/dig/materialy/kombinacni_obvody.pptx) až po str. 14 |           |               |          |
+| 23   | 20.11.2025 |                                                              |                                                              |           |               |          |
+| 24   | 21.11.2025 |                                                              |                                                              |           |               |          |
+| 25   | 27.11.2025 |                                                              |                                                              |           |               |          |
+| 26   | 28.11.2025 |                                                              |                                                              |           |               |          |
+| 27   | 04.12.2025 |                                                              |                                                              |           |               |          |
+| 28   | 05.12.2025 |                                                              |                                                              |           |               |          |
+| 29   | 11.12.2025 |                                                              |                                                              |           |               |          |
+| 30   | 12.12.2025 |                                                              |                                                              |           |               |          |
+| 31   | 18.12.2025 |                                                              |                                                              |           |               |          |
+| 32   | 19.12.2025 |                                                              |                                                              |           |               |          |
+| 33   | 25.12.2025 | Odpadá                                                       |                                                              |           |               |          |
+| 34   | 26.12.2025 | Odpadá                                                       |                                                              |           |               |          |
+| 35   | 01.01.2026 | Odpadá                                                       |                                                              |           |               |          |
+| 36   | 02.01.2026 | Odpadá                                                       |                                                              |           |               |          |
 
 #### Cvičení
 
@@ -38,6 +52,10 @@
 | 3    | 06.10.2025 | Projití písemek, [Astabilní klopný obvod (a nepájivé pole)](../../predmety/dig/bloky/cviceni/astabilni-klopny-obvod/readme.md) |           |               |          |
 | 4    | 20.10.2025 | [Astabilní klopný obvod (a nepájivé pole)](../../predmety/dig/bloky/cviceni/astabilni-klopny-obvod/readme.md) - dokončení | Ukončeno  | 0             |          |
 | 5    | 03.11.2025 | [příklady](../../predmety/dig/materialy/sbirka-prikladu-1.pdf): 6.3: a, c, d, e (nedokončeno) |           |               |          |
+| 6    | 17.11.2025 | Odpadá                                                       |           |               |          |
+| 7    | 01.12.2025 |                                                              |           |               |          |
+| 8    | 15.12.2025 |                                                              |           |               |          |
+| 9    | 29.12.2025 | Odpadá                                                       |           |               |          |
 
 ##### Skupina 2
 
@@ -48,3 +66,6 @@
 | 3    | 13.10.2025 | Odpadá                                                       |           |               |          |
 | 4    | 27.10.2025 | Odpadá                                                       |           |               |          |
 | 5    | 10.11.2025 | Projití písemek, [Astabilní klopný obvod (a nepájivé pole)](../../predmety/dig/bloky/cviceni/astabilni-klopny-obvod/readme.md) - dokončení | Ukončeno  | 9             |          |
+| 6    | 24.11.2025 |                                                              |           |               |          |
+| 7    | 08.12.2025 |                                                              |           |               |          |
+| 8    | 22.12.2025 | Odpadá                                                       |           |               |          |

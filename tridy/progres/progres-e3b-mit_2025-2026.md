@@ -27,6 +27,20 @@
 | 21   | 10.11.2025 | [avr_intro.pptx](../../predmety/mit/materialy/avr_intro.pptx) po str.29, [avr_instrukce.pptx](../../predmety/mit/materialy/avr_instrukce.pptx): vybrané části | Paměť SRAM - oblasti/účel, EEPROM vlastnosti, registry PC/SP/SR, Instrukce: symbolická/kódová podoba, kód/operand, adresace, Typy instrukcí, Registr SREG, Aritmetické instrukce, Logické a bitové instrukce, Instrukce řízení programu, Podprogramy, instrukce CALL/RET, Zásobník - nedokončeno |           |               |          |
 | 22   | 10.11.2025 | viz. předešlá hodina                                         |                                                              |           |               |          |
 | 23   | 14.11.2025 | I/O Porty                                                    | [Základní práce s piny](https://www.youtube.com/watch?v=avwUAHjh1gM), I/O Porty: vlastnosti, vnitřní struktura, napěťové úrovně, ovládací registry |           |               |          |
+| 24   | 17.11.2025 | Odpadá                                                       |                                                              |           |               |          |
+| 25   | 21.11.2025 |                                                              |                                                              |           |               |          |
+| 26   | 24.11.2025 |                                                              |                                                              |           |               |          |
+| 27   | 28.11.2025 |                                                              |                                                              |           |               |          |
+| 28   | 01.12.2025 |                                                              |                                                              |           |               |          |
+| 29   | 05.12.2025 |                                                              |                                                              |           |               |          |
+| 30   | 08.12.2025 |                                                              |                                                              |           |               |          |
+| 31   | 12.12.2025 |                                                              |                                                              |           |               |          |
+| 32   | 15.12.2025 |                                                              |                                                              |           |               |          |
+| 33   | 19.12.2025 |                                                              |                                                              |           |               |          |
+| 34   | 22.12.2025 | Odpadá                                                       |                                                              |           |               |          |
+| 35   | 26.12.2025 | Odpadá                                                       |                                                              |           |               |          |
+| 36   | 29.12.2025 | Odpadá                                                       |                                                              |           |               |          |
+| 37   | 02.01.2026 | Odpadá                                                       |                                                              |           |               |          |
 
 #### Cvičení
 
@@ -40,6 +54,9 @@
 | 4    | 15.10.2025 | Odpadá                                                       |           |               |          |
 | 5    | 29.10.2025 | Odpadá                                                       |           |               |          |
 | 6    | 12.11.2025 | [Sedmisegmentový displej](https://tomaschovanec.github.io/MIT/05_Sedmisegmentovy_displej.html) | Ukončeno  | 1             |          |
+| 7    | 26.11.2025 |                                                              |           |               |          |
+| 8    | 10.12.2025 |                                                              |           |               |          |
+| 9    | 24.12.2025 | Odpadá                                                       |           |               |          |
 
 ##### Skupina 2
 
@@ -51,3 +68,6 @@
 | 4    | 22.10.2025 | [Klávesnice](https://tomaschovanec.github.io/MIT/06_Klavesnice.html) |           |               |                                    |
 | 5    | 05.11.2025 | [Klávesnice](https://tomaschovanec.github.io/MIT/06_Klavesnice.html) - dokončení | Ukončeno  | 0             |                                    |
 | 6    | 19.11.2025 |                                                              |           |               | Ve cvičení: demonstrace simulátoru |
+| 7    | 03.12.2025 |                                                              |           |               |                                    |
+| 8    | 17.12.2025 |                                                              |           |               |                                    |
+| 9    | 31.12.2025 | Odpadá                                                       |           |               |                                    |

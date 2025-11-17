@@ -23,9 +23,24 @@
 | 17   | 28.10.2025 | Odpadá                                                       |                                                              |           |               |          |
 | 18   | 31.10.2025 | Logické funkce                                               | [logicke_funkce.pptx](../../predmety/dig/materialy/logicke_funkce.pptx) až po str. 95 |           |               |          |
 | 19   | 04.11.2025 | Logické funkce                                               | [logicke_funkce.pptx](../../predmety/dig/materialy/logicke_funkce.pptx) až po str. 112 (příklad 27), [příklady](../../predmety/dig/materialy/sbirka-prikladu-1.pdf): 6.3: a, c (nedokončeno) |           |               |          |
-| 20   | 07.11.2025 | Písemka                                                      |                                                              | Běží      |               |          |
+| 20   | 07.11.2025 | Písemka                                                      |                                                              | Ukončeno  | 7             |          |
 | 21   | 11.11.2025 | Logické funkce                                               | [logicke_funkce.pptx](../../predmety/dig/materialy/logicke_funkce.pptx): minterm/maxterm |           |               |          |
 | 22   | 11.11.2025 | Kombinační obvody                                            | [kombinacni_obvody.pptx](../../predmety/dig/materialy/kombinacni_obvody.pptx) až po str. 14 |           |               |          |
+| 23   | 14.11.2025 | TODO                                                         |                                                              |           |               |          |
+| 24   | 18.11.2025 |                                                              |                                                              |           |               |          |
+| 25   | 21.11.2025 |                                                              |                                                              |           |               |          |
+| 26   | 25.11.2025 |                                                              |                                                              |           |               |          |
+| 27   | 28.11.2025 |                                                              |                                                              |           |               |          |
+| 28   | 02.12.2025 |                                                              |                                                              |           |               |          |
+| 29   | 05.12.2025 |                                                              |                                                              |           |               |          |
+| 30   | 09.12.2025 |                                                              |                                                              |           |               |          |
+| 31   | 12.12.2025 |                                                              |                                                              |           |               |          |
+| 32   | 16.12.2025 |                                                              |                                                              |           |               |          |
+| 33   | 19.12.2025 |                                                              |                                                              |           |               |          |
+| 34   | 23.12.2025 | Odpadá                                                       |                                                              |           |               |          |
+| 35   | 26.12.2025 | Odpadá                                                       |                                                              |           |               |          |
+| 36   | 30.12.2025 | Odpadá                                                       |                                                              |           |               |          |
+| 37   | 02.01.2026 | Odpadá                                                       |                                                              |           |               |          |
 
 #### Cvičení
 
@@ -38,6 +53,10 @@
 | 3    | 07.10.2025 | Projití písemek, [Astabilní klopný obvod (a nepájivé pole)](../../predmety/dig/bloky/cviceni/astabilni-klopny-obvod/readme.md) |           |               |          |
 | 4    | 21.10.2025 | [Astabilní klopný obvod (a nepájivé pole)](../../predmety/dig/bloky/cviceni/astabilni-klopny-obvod/readme.md) - dokončení | Ukončeno  | 3             |          |
 | 5    | 04.11.2025 | [příklady](../../predmety/dig/materialy/sbirka-prikladu-1.pdf): 6.3: c, d, k |           |               |          |
+| 6    | 18.11.2025 |                                                              |           |               |          |
+| 7    | 02.12.2025 |                                                              |           |               |          |
+| 8    | 16.12.2025 |                                                              |           |               |          |
+| 9    | 30.12.2025 | Odpadá                                                       |           |               |          |
 
 ##### Skupina 2
 
@@ -49,3 +68,6 @@
 | 4    | 14.10.2025 | Odpadá                                                       |           |               |          |
 | 5    | 28.10.2025 | Odpadá                                                       |           |               |          |
 | 6    | 11.11.2025 | Projití písemek, [Astabilní klopný obvod (a nepájivé pole)](../../predmety/dig/bloky/cviceni/astabilni-klopny-obvod/readme.md) | Ukončeno  | 1             |          |
+| 7    | 25.11.2025 |                                                              |           |               |          |
+| 8    | 09.12.2025 |                                                              |           |               |          |
+| 9    | 23.12.2025 | Odpadá                                                       |           |               |          |

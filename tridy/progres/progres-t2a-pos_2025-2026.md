@@ -28,6 +28,20 @@
 | 21   | 06.11.2025 | CCNA1: dále až po 4.5 Fiber-Optic Cabling (začátek)          | Encoding, Signaling, Bandwidth: Latency, Throughput, Goodput, Copper Cabling: characteristics, types (UTP, STP, Coaxial, standards: Cat5, 5e, 6, 7, 8, connectors: RJ45, straight-through/crossover cables), Fiber-Optic: characteristics, Single/multi mode, connectors, comparison copper vs. fiber |           |               |          |
 | 22   | 11.11.2025 | CCNA1: dále až po 4.6.1 Properties of Wireless Media         | Types: Wi-Fi, Bluetooth, WiMAX, Zigbee, Wi-Fi AP             |           |               |          |
 | 23   | 13.11.2025 | CCNA1: dále až po 6.1.2 IEEE 802 LAN/MAN Data Link Sublayers | Purpose of Data Link layer, sublayers                        |           |               |          |
+| 24   | 18.11.2025 |                                                              |                                                              |           |               |          |
+| 25   | 20.11.2025 |                                                              |                                                              |           |               |          |
+| 26   | 25.11.2025 |                                                              |                                                              |           |               |          |
+| 27   | 27.11.2025 |                                                              |                                                              |           |               |          |
+| 28   | 02.12.2025 |                                                              |                                                              |           |               |          |
+| 29   | 04.12.2025 |                                                              |                                                              |           |               |          |
+| 30   | 09.12.2025 |                                                              |                                                              |           |               |          |
+| 31   | 11.12.2025 |                                                              |                                                              |           |               |          |
+| 32   | 16.12.2025 |                                                              |                                                              |           |               |          |
+| 33   | 18.12.2025 |                                                              |                                                              |           |               |          |
+| 34   | 23.12.2025 | Odpadá                                                       |                                                              |           |               |          |
+| 35   | 25.12.2025 | Odpadá                                                       |                                                              |           |               |          |
+| 36   | 30.12.2025 | Odpadá                                                       |                                                              |           |               |          |
+| 37   | 01.01.2026 | Odpadá                                                       |                                                              |           |               |          |
 
 #### Cvičení
 
@@ -40,6 +54,10 @@
 | 3    | 07.10.2025 | CCNA1: cvičení 2.3.7 a 2.3.8 (PC+LAB HW)                     |           |               |          |
 | 4    | 21.10.2025 | CCNA1: cvičení 2.5.4, 2.5.5, 2.7.6, 2.9.1                    |           |               |          |
 | 5    | 04.11.2025 | CCNA1: cvičení 2.5.4, 2.5.5, 2.7.6, 2.9.1 - dokončení, otázky k písemce: probrání | Ukončeno  | 12            |          |
+| 6    | 18.11.2025 |                                                              |           |               |          |
+| 7    | 02.12.2025 |                                                              |           |               |          |
+| 8    | 16.12.2025 |                                                              |           |               |          |
+| 9    | 30.12.2025 | Odpadá                                                       |           |               |          |
 
 ##### Skupina 2
 
@@ -51,3 +69,6 @@
 | 4    | 14.10.2025 | Odpadá                                                       |           |               |                                                      |
 | 5    | 28.10.2025 | Odpadá                                                       |           |               |                                                      |
 | 6    | 11.11.2025 | CCNA1: cvičení 2.5.4, 2.5.5, 2.7.6, 2.9.1                    | Plánováno |               |                                                      |
+| 7    | 25.11.2025 |                                                              |           |               |                                                      |
+| 8    | 09.12.2025 |                                                              |           |               |                                                      |
+| 9    | 23.12.2025 | Odpadá                                                       |           |               |                                                      |
