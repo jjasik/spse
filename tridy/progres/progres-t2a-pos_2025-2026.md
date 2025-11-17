@@ -25,9 +25,9 @@
 | 18   | 28.10.2025 | Odpadá                                                       |                                                              |           |               |          |
 | 19   | 30.10.2025 | CCNA1: dále až po 4.2.1 Physical Layer Standards (včetně)    | De-encapsulation Example, Network layer source and destination addresses/Data link layer source and destination addresses, Layer 3 Logical Address: Network portion (IPv4) or Prefix (IPv6)/Host portion (IPv4) or Interface ID (IPv6), Devices on the Same Network/Devices on a Remote Network, Data Link Addresses, Purpose of Physical Layer/Standards |           |               |          |
 | 20   | 04.11.2025 | Písemka                                                      | [Témata](materialy/t2a-pos_2025-2026/pisemka-temata-1.md)    | Ukončeno  | 2             |          |
-| 21   | 06.11.2025 | CCNA1: dále až po 4.5 Fiber-Optic Cabling (začátek)          | TODO                                                         |           |               |          |
-| 22   | 11.11.2025 | CCNA1: dále až po 4.6.1 Properties of Wireless Media         | TODO                                                         |           |               |          |
-| 23   | 13.11.2025 | CCNA1: dále až po 6.1.2 IEEE 802 LAN/MAN Data Link Sublayers | TODO                                                         |           |               |          |
+| 21   | 06.11.2025 | CCNA1: dále až po 4.5 Fiber-Optic Cabling (začátek)          | Encoding, Signaling, Bandwidth: Latency, Throughput, Goodput, Copper Cabling: characteristics, types (UTP, STP, Coaxial, standards: Cat5, 5e, 6, 7, 8, connectors: RJ45, straight-through/crossover cables), Fiber-Optic: characteristics, Single/multi mode, connectors, comparison copper vs. fiber |           |               |          |
+| 22   | 11.11.2025 | CCNA1: dále až po 4.6.1 Properties of Wireless Media         | Types: Wi-Fi, Bluetooth, WiMAX, Zigbee, Wi-Fi AP             |           |               |          |
+| 23   | 13.11.2025 | CCNA1: dále až po 6.1.2 IEEE 802 LAN/MAN Data Link Sublayers | Purpose of Data Link layer, sublayers                        |           |               |          |
 
 #### Cvičení
 
