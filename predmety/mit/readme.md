@@ -59,4 +59,4 @@ Viz. ŠVP: [MIT](svp-temata.md)
 
 ##### Cvičení
 
-Pro jednotlivé úlohy jsou používány stránky: https://tomaschovanec.github.io/MIT/
+Pro jednotlivé úlohy jsou používány stránky: [https://tomaschovanec.github.io/MIT](https://tomaschovanec.github.io/MIT)
