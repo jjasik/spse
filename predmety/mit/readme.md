@@ -1,7 +1,7 @@
 ### MIT
 
 #### Charakteristika
-Cílem vzdělávání je poskytnout žákům základní znalosti o  architektuře, principech činnosti a použití jednočipových mikrokontrolerů. Pro programování mikrokontrolerů žáci využívají vyšší  programovací jazyky. Při vytváření aplikací žáci používají integrované i externí periferní obvody.
+Cílem vzdělávání je poskytnout žákům základní znalosti o  architektuře, principech činnosti a použití jednočipových mikrokontrolerů. Pro programování mikrokontrolerů žáci využívají vyšší  programovací jazyky (C). Při vytváření aplikací žáci používají integrované i externí periferní obvody.
 
 Viz. ŠVP: [MIT](svp-temata.md)
 
@@ -9,10 +9,9 @@ Viz. ŠVP: [MIT](svp-temata.md)
 
 ##### 3.ročník
 - teoretická část pro celou třídu, a práce v odborné učebně pro část třídy (cvičení)
-- třídy E3B:
+- členění:
   - teorie: celá třída, 2x1 hodina každý týden, **tj. cca 76 bloků po 1 hodině**
   - odborné učebny: 1/2 třídy střídání co 2 týdny, ale po dobu celého roku, **tj. cca 19 bloků po 2 hodinách**
-- ostatní učitelé tento rok: Libor Otáhalík (E3A), Libor Hlaváč (T3A)
 
 #### Prerekvizity
 
@@ -25,17 +24,18 @@ Viz. ŠVP: [MIT](svp-temata.md)
 
 #### Požadavky
 
-- Doporučení: Sešit A4 čtverečkovaný, či jiná forma zápisků (obsahuje jak teoretické hodiny, tak i cvičení). Ale není nutné vše přepisovat. Relevanci a detail zápisků si každý určuje sám.
+- Sešit A4 čtverečkovaný, či jiná forma zápisků (obsahuje jak teoretické hodiny, tak i cvičení). Ale není nutné vše přepisovat. Relevanci a detail zápisků si každý určuje sám.
 
-#### Hodnocení (Návrh)
+#### Hodnocení
 
 1. Teoretická část: písemky (testy), 2-4 známky za pololetí (skrze probrané témata): váha 1.00
-2. Příprava a prezentace zvoleného tématu: jedna známka za pololetí: váha 1.00
-3. Cvičení: známka z každého bloku (primárně za aktivitu a snahu dokončit úlohu): váha 0.75
+2. Příprava a prezentace zvoleného tématu: jedna známka za pololetí (rok): váha 1.00
+3. Cvičení: známka z každého bloku (primárně za aktivitu a snahu dokončit a vysvětlit úlohu): váha 0.75
 4. Samostatná práce: není
 
 #### Materiály
 
+1. Kniha [PROGVRAMURJEME V JAZYKU C](materialy/programujeme-avr.pdf)
 1. Prezentace k předmětu:
    1. [modely_pocitacu.pptx](materialy/modely_pocitacu.pptx)
    2. [pameti.pptx](materialy/pameti.pptx)
@@ -53,7 +53,10 @@ Viz. ŠVP: [MIT](svp-temata.md)
 
 1. [Kit AVR_DevBrd](mcu/atmega2560/devbrd/readme.md)
 
-
 #### Bloky
 
-TODO
+##### Teorie
+
+##### Cvičení
+
+Pro jednotlivé úlohy jsou používány stránky: https://tomaschovanec.github.io/MIT/
