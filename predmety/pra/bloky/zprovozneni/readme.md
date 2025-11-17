@@ -31,4 +31,3 @@ Pozor: Ne všechny kroky jsou pro nás relevant (krok přeskakujeme), některé 
 #### Alternace (další možnosti)
 
 1. Použitím VHDL, návodka: [Quartus Prime Introduction Using VHDL Designs](quartus-prime-vhdl-designs_v-2019-03-xx-r1.pdf) (v PDF jsou vloženy komentáře)
-2. [Introduction to Simulation of VHDL Designs](quartus-prime-vhdl-simulation_v-2013-02-xx-r0.pdf)

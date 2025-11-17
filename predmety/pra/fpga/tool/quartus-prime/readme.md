@@ -8,7 +8,7 @@
 
 Nástroj je tvořen více částmi (vývoj, simulace, případně další) a některé části/vlastnosti se platí separátně.
 
-Nástroj je dostupný (2025/08) ve třech edicích (já mám u sebe na PC verzi "qinst-lite-windows-24.1std"):
+Nástroj je dostupný (2025/08) ve třech edicích (já mám u sebe na PC verzi "qinst-lite-windows-24.1std", nicméně ve škole používáme "QuartusLiteSetup-18.1.0.625-windows + ModelSimSetup-18.1.0.625-windows"):
 
 1. Pro Edition - placená licence (pro ilustraci ze stránek mouser.com: ceny řádově 50-100t. Kč plus předplatné, ceny se pravděpodobně určují individuálně)
 2. Standard Edition - placená licence viz.výše
