@@ -6,9 +6,9 @@
 
 ### Které třídy učím
 
-- E2A (DIG, PRA): [rozvrh](tridy/rozvrhy/rozvrh-e2a_2025-2026.pdf) (bohužel DIG dvě hodiny teorie Čt+Pá hned za sebou)
+- E2A (DIG, PRA): [rozvrh](tridy/rozvrhy/rozvrh-e2a_2025-2026.pdf)
 - E2B (DIG, PRA): [rozvrh](tridy/rozvrhy/rozvrh-e2b_2025-2026.pdf)
-- T2A (POS, PRA): [rozvrh](tridy/rozvrhy/rozvrh-t2a_2025-2026.pdf) (pozor neučím DIG, ale pouze PRA)
+- T2A (POS, PRA): [rozvrh](tridy/rozvrhy/rozvrh-t2a_2025-2026.pdf)
 - E3B (MIT): [rozvrh](tridy/rozvrhy/rozvrh-e3b_2025-2026.pdf)
 
 ### Progres výuky ve třídách
