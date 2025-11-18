@@ -54,7 +54,7 @@
 | 3    | 07.10.2025 | CCNA1: cvičení 2.3.7 a 2.3.8 (PC+LAB HW)                     |           |               |          |
 | 4    | 21.10.2025 | CCNA1: cvičení 2.5.4, 2.5.5, 2.7.6, 2.9.1                    |           |               |          |
 | 5    | 04.11.2025 | CCNA1: cvičení 2.5.4, 2.5.5, 2.7.6, 2.9.1 - dokončení, otázky k písemce: probrání | Ukončeno  | 12            |          |
-| 6    | 18.11.2025 |                                                              |           |               |          |
+| 6    | 18.11.2025 | CCNA1: cvičení 2.9.2 Lab - Basic Switch and End Device Configuration (Packet Tracer + Lab HW) | Plánováno |               |          |
 | 7    | 02.12.2025 |                                                              |           |               |          |
 | 8    | 16.12.2025 |                                                              |           |               |          |
 | 9    | 30.12.2025 | Odpadá                                                       |           |               |          |
