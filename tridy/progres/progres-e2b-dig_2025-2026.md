@@ -53,7 +53,7 @@
 | 3    | 07.10.2025 | Projití písemek, [Astabilní klopný obvod (a nepájivé pole)](../../predmety/dig/bloky/cviceni/astabilni-klopny-obvod/readme.md) |           |               |          |
 | 4    | 21.10.2025 | [Astabilní klopný obvod (a nepájivé pole)](../../predmety/dig/bloky/cviceni/astabilni-klopny-obvod/readme.md) - dokončení | Ukončeno  | 3             |          |
 | 5    | 04.11.2025 | [příklady](../../predmety/dig/materialy/sbirka-prikladu-1.pdf): 6.3: c, d, k |           |               |          |
-| 6    | 18.11.2025 |                                                              |           |               |          |
+| 6    | 18.11.2025 | Dekodér a 7segmentový displej                                | Plánováno |               |          |
 | 7    | 02.12.2025 |                                                              |           |               |          |
 | 8    | 16.12.2025 |                                                              |           |               |          |
 | 9    | 30.12.2025 | Odpadá                                                       |           |               |          |
