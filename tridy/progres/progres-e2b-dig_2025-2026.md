@@ -27,7 +27,7 @@
 | 21   | 11.11.2025 | [logicke_funkce.pptx](../../predmety/dig/materialy/logicke_funkce.pptx): str.78-84 | Úplná součtová/součinová forma, Minterm/Maxterm              |           |               |          |
 | 22   | 11.11.2025 | [kombinacni_obvody.pptx](../../predmety/dig/materialy/kombinacni_obvody.pptx) až po str. 14 | Postup návrhu kombinačních obvodů, příklad                   |           |               |          |
 | 23   | 14.11.2025 | [kombinacni_obvody.pptx](../../predmety/dig/materialy/kombinacni_obvody.pptx) až po str. 20 | Revize písemek: poslední skupina, ostatní samostatně KM a minimalizace k příkladu |           |               |          |
-| 24   | 18.11.2025 |                                                              |                                                              |           |               |          |
+| 24   | 18.11.2025 | [kombinacni_obvody.pptx](../../predmety/dig/materialy/kombinacni_obvody.pptx) až po str. 33 | dokončení příkladu, definice/schéma kombinačního obvodu, typy, dekodér, 1 z N, BCD - 7segment |           |               |          |
 | 25   | 21.11.2025 |                                                              |                                                              |           |               |          |
 | 26   | 25.11.2025 |                                                              |                                                              |           |               |          |
 | 27   | 28.11.2025 |                                                              |                                                              |           |               |          |
@@ -60,14 +60,14 @@
 
 ##### Skupina 2
 
-| PČ   | Datum      | Obsah a materiály                                            | Hodnocení | Bez hodnocení | Poznámka |
-| ---- | ---------- | ------------------------------------------------------------ | --------- | ------------- | -------- |
-| 1    | 02.09.2025 | [Jednoduchá logická funkce (a nepájivé pole)](../../predmety/dig/bloky/cviceni/jednoducha-logicka-funkce/readme.md) |           |               |          |
-| 2    | 16.09.2025 | [Jednoduchá logická funkce (a nepájivé pole)](../../predmety/dig/bloky/cviceni/jednoducha-logicka-funkce/readme.md) - dokončení, číselné soustavy: [příklady](../../predmety/dig/materialy/sbirka-prikladu-1.pdf) | Ukončeno  | 1             |          |
-| 3    | 30.09.2025 | Projití písemek, [Astabilní klopný obvod (a nepájivé pole)](../../predmety/dig/bloky/cviceni/astabilni-klopny-obvod/readme.md) |           |               |          |
-| 4    | 14.10.2025 | Odpadá                                                       |           |               |          |
-| 5    | 28.10.2025 | Odpadá                                                       |           |               |          |
-| 6    | 11.11.2025 | Projití písemek, [Astabilní klopný obvod (a nepájivé pole)](../../predmety/dig/bloky/cviceni/astabilni-klopny-obvod/readme.md) | Ukončeno  | 1             |          |
-| 7    | 25.11.2025 |                                                              |           |               |          |
-| 8    | 09.12.2025 |                                                              |           |               |          |
-| 9    | 23.12.2025 | Odpadá                                                       |           |               |          |
+| PČ   | Datum      | Obsah a materiály                                            | Hodnocení | Bez hodnocení | Poznámka   |
+| ---- | ---------- | ------------------------------------------------------------ | --------- | ------------- | ---------- |
+| 1    | 02.09.2025 | [Jednoduchá logická funkce (a nepájivé pole)](../../predmety/dig/bloky/cviceni/jednoducha-logicka-funkce/readme.md) |           |               |            |
+| 2    | 16.09.2025 | [Jednoduchá logická funkce (a nepájivé pole)](../../predmety/dig/bloky/cviceni/jednoducha-logicka-funkce/readme.md) - dokončení, číselné soustavy: [příklady](../../predmety/dig/materialy/sbirka-prikladu-1.pdf) | Ukončeno  | 1             |            |
+| 3    | 30.09.2025 | Projití písemek, [Astabilní klopný obvod (a nepájivé pole)](../../predmety/dig/bloky/cviceni/astabilni-klopny-obvod/readme.md) |           |               |            |
+| 4    | 14.10.2025 | Odpadá                                                       |           |               |            |
+| 5    | 28.10.2025 | Odpadá                                                       |           |               |            |
+| 6    | 11.11.2025 | Projití písemek, [Astabilní klopný obvod (a nepájivé pole)](../../predmety/dig/bloky/cviceni/astabilni-klopny-obvod/readme.md) | Ukončeno  | 1             |            |
+| 7    | 25.11.2025 |                                                              |           |               | písemka 1x |
+| 8    | 09.12.2025 |                                                              |           |               |            |
+| 9    | 23.12.2025 | Odpadá                                                       |           |               |            |
