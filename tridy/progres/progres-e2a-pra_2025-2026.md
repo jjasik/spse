@@ -11,6 +11,7 @@ Není
 | PČ   | Datum      | Obsah a materiály                                            | Hodnocení | Bez hodnocení | Poznámka |
 | ---- | ---------- | ------------------------------------------------------------ | --------- | ------------- | -------- |
 | 1    | 03.09.2025 | Organizace předmětu praxe, BOZP, hygiena práce, požární ochrana, zásady první pomoci. |           |               |          |
+|      | 25.03.2025 | Střídání skupin, další: Skupina 3                            |           |               |          |
 
 ##### Skupina 2 (první v pořadí ve školním roce v mé učebně, cca 10 žáků)
 
@@ -26,15 +27,15 @@ Není
 | 8    | 22.10.2025 | VHDL: úloha #3 (dvě varianty sčítačky) - dokončeno, detailnější probraní syntaxe jazyka, úloha: #4 (čítač) | Ukončeno  | 0             |          |
 | 9    | 29.10.2025 | Prázdniny                                                    |           |               |          |
 | 10   | 05.11.2025 | VHDL: úloha: #5 (ovládání 7seg. displeje)                    |           |               |          |
-| 11   | 12.11.2025 | VHDL: úloha: #5 (ovládání 7seg. displeje) - nedokončeno      | Plánováno |               |          |
-| 12   | 19.11.2025 |                                                              |           |               |          |
+| 11   | 12.11.2025 | VHDL: úloha: #5 (ovládání 7seg. displeje) - nedokončeno      |           |               |          |
+| 12   | 19.11.2025 | VHDL: úloha: #5 (ovládání 7seg. displeje) (4tl. vs. 4čísla)  | Ukončeno  | 0             |          |
 | 13   | 26.11.2025 |                                                              |           |               |          |
 | 14   | 03.12.2025 |                                                              |           |               |          |
-| ?    | 10.12.2025 | Střídání skupin, další: Skupina 3                            |           |               |          |
+| ?    | 10.12.2025 | Střídání skupin, další: Skupina 1                            |           |               |          |
 
 ##### Skupina 3
 
 | PČ   | Datum      | Obsah a materiály                                            | Hodnocení | Bez hodnocení | Poznámka |
 | ---- | ---------- | ------------------------------------------------------------ | --------- | ------------- | -------- |
 | 1    | 03.09.2025 | Organizace předmětu praxe, BOZP, hygiena práce, požární ochrana, zásady první pomoci. |           |               |          |
-|      | 25.03.2025 | Střídání skupin, další: Skupina 1                            |           |               |          |
+|      |            |                                                              |           |               |          |
