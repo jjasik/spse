@@ -60,14 +60,14 @@
 
 ##### Skupina 2
 
-| PČ   | Datum      | Obsah a materiály                                            | Hodnocení | Bez hodnocení | Poznámka                           |
-| ---- | ---------- | ------------------------------------------------------------ | --------- | ------------- | ---------------------------------- |
-| 1    | 10.09.2025 | [Výukový přípravek, nahrání programu](https://tomaschovanec.github.io/MIT/01_Uvod.html), [Blikání LEDkou, práce s registry](https://tomaschovanec.github.io/MIT/02_Blikani_LED.html) | Ukončeno  | 0             |                                    |
-| 2    | 24.09.2025 | [Převody číselných soustav, bitové operace](https://tomaschovanec.github.io/MIT/03_Bitove_operace.html), [Práce s tlačítky](https://tomaschovanec.github.io/MIT/04_Tlacitka_podminky.html) | Ukončeno  | 3             |                                    |
-| 3    | 08.10.2025 | [Sedmisegmentový displej](https://tomaschovanec.github.io/MIT/05_Sedmisegmentovy_displej.html) | Ukončeno  | 0             |                                    |
-| 4    | 22.10.2025 | [Klávesnice](https://tomaschovanec.github.io/MIT/06_Klavesnice.html) |           |               |                                    |
-| 5    | 05.11.2025 | [Klávesnice](https://tomaschovanec.github.io/MIT/06_Klavesnice.html) - dokončení | Ukončeno  | 0             |                                    |
-| 6    | 19.11.2025 |                                                              |           |               | Ve cvičení: demonstrace simulátoru |
-| 7    | 03.12.2025 |                                                              |           |               |                                    |
-| 8    | 17.12.2025 |                                                              |           |               |                                    |
-| 9    | 31.12.2025 | Odpadá                                                       |           |               |                                    |
+| PČ   | Datum      | Obsah a materiály                                            | Hodnocení | Bez hodnocení | Poznámka |
+| ---- | ---------- | ------------------------------------------------------------ | --------- | ------------- | -------- |
+| 1    | 10.09.2025 | [Výukový přípravek, nahrání programu](https://tomaschovanec.github.io/MIT/01_Uvod.html), [Blikání LEDkou, práce s registry](https://tomaschovanec.github.io/MIT/02_Blikani_LED.html) | Ukončeno  | 0             |          |
+| 2    | 24.09.2025 | [Převody číselných soustav, bitové operace](https://tomaschovanec.github.io/MIT/03_Bitove_operace.html), [Práce s tlačítky](https://tomaschovanec.github.io/MIT/04_Tlacitka_podminky.html) | Ukončeno  | 3             |          |
+| 3    | 08.10.2025 | [Sedmisegmentový displej](https://tomaschovanec.github.io/MIT/05_Sedmisegmentovy_displej.html) | Ukončeno  | 0             |          |
+| 4    | 22.10.2025 | [Klávesnice](https://tomaschovanec.github.io/MIT/06_Klavesnice.html) |           |               |          |
+| 5    | 05.11.2025 | [Klávesnice](https://tomaschovanec.github.io/MIT/06_Klavesnice.html) - dokončení | Ukončeno  | 0             |          |
+| 6    | 19.11.2025 | [Multiplex sedmisegmentového displeje](https://tomaschovanec.github.io/MIT/07_Multiplex_sedmisegmentoveho_displeje.html) | Ukončeno  | 2             |          |
+| 7    | 03.12.2025 |                                                              |           |               |          |
+| 8    | 17.12.2025 |                                                              |           |               |          |
+| 9    | 31.12.2025 | Odpadá                                                       |           |               |          |
