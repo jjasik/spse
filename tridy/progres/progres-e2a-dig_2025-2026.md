@@ -26,7 +26,7 @@
 | 20   | 07.11.2025 | Písemka                                                      |                                                              | Ukončeno  | 2             |          |
 | 21   | 13.11.2025 | [logicke_funkce.pptx](../../predmety/dig/materialy/logicke_funkce.pptx): str.78-84 | Úplná součtová/součinová forma, Minterm/Maxterm              |           |               |          |
 | 22   | 14.11.2025 | [kombinacni_obvody.pptx](../../predmety/dig/materialy/kombinacni_obvody.pptx) až po str. 14 | Postup návrhu kombinačních obvodů, příklad                   |           |               |          |
-| 23   | 20.11.2025 |                                                              |                                                              |           |               |          |
+| 23   | 20.11.2025 | [kombinacni_obvody.pptx](../../predmety/dig/materialy/kombinacni_obvody.pptx) až po str. 28 | dokončení příkladu, definice/schéma kombinačního obvodu, typy, dekodér |           |               |          |
 | 24   | 21.11.2025 |                                                              |                                                              |           |               |          |
 | 25   | 27.11.2025 |                                                              |                                                              |           |               |          |
 | 26   | 28.11.2025 |                                                              |                                                              |           |               |          |
