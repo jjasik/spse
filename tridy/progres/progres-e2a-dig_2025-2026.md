@@ -66,6 +66,6 @@
 | 3    | 13.10.2025 | Odpadá                                                       |           |               |          |
 | 4    | 27.10.2025 | Odpadá                                                       |           |               |          |
 | 5    | 10.11.2025 | Projití písemek, [Astabilní klopný obvod (a nepájivé pole)](../../predmety/dig/bloky/cviceni/astabilni-klopny-obvod/readme.md) - dokončení | Ukončeno  | 9             |          |
-| 6    | 24.11.2025 |                                                              |           |               |          |
+| 6    | 24.11.2025 | [Dekodér a 7segmentový displej](https://github.com/jjasik/spse/tree/main/predmety/dig/bloky/cviceni/sedm-segment) | Plánováno |               |          |
 | 7    | 08.12.2025 |                                                              |           |               |          |
 | 8    | 22.12.2025 | Odpadá                                                       |           |               |          |
