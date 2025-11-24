@@ -28,7 +28,7 @@
 | 22   | 11.11.2025 | [kombinacni_obvody.pptx](../../predmety/dig/materialy/kombinacni_obvody.pptx) až po str. 14 | Postup návrhu kombinačních obvodů, příklad                   |           |               |          |
 | 23   | 14.11.2025 | [kombinacni_obvody.pptx](../../predmety/dig/materialy/kombinacni_obvody.pptx) až po str. 20 | Revize písemek: poslední skupina, ostatní samostatně KM a minimalizace k příkladu |           |               |          |
 | 24   | 18.11.2025 | [kombinacni_obvody.pptx](../../predmety/dig/materialy/kombinacni_obvody.pptx) až po str. 33 | dokončení příkladu, definice/schéma kombinačního obvodu, typy, dekodér, 1 z N, BCD - 7segment |           |               |          |
-| 25   | 21.11.2025 |                                                              |                                                              |           |               |          |
+| 25   | 21.11.2025 | [kombinacni_obvody.pptx](../../predmety/dig/materialy/kombinacni_obvody.pptx) až po str. 37 | dekodér, 1 z N, BCD - 7segment, [video](https://www.youtube.com/watch?v=XCJqoae4hgY), kodér |           |               |          |
 | 26   | 25.11.2025 |                                                              |                                                              |           |               |          |
 | 27   | 28.11.2025 |                                                              |                                                              |           |               |          |
 | 28   | 02.12.2025 |                                                              |                                                              |           |               |          |
