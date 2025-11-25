@@ -29,7 +29,7 @@
 | 23   | 14.11.2025 | I/O Porty                                                    | [Základní práce s piny](https://www.youtube.com/watch?v=avwUAHjh1gM), I/O Porty: vlastnosti, vnitřní struktura, napěťové úrovně, ovládací registry |           |               |          |
 | 24   | 17.11.2025 | Odpadá                                                       |                                                              |           |               |          |
 | 25   | 21.11.2025 | I/O Porty: [sesit-gpio-cely.docx](../../predmety/mit/materialy/sesit-gpio-cely.docx) | I/O Porty: vlastnosti, vnitřní struktura, napěťové úrovně, ovládací registry, typické zapojení LED jako výstupu, tlačítka jako vstupu, příklady v C pro ovládání/čtení, maskování jednotlivých bitů |           |               |          |
-| 26   | 24.11.2025 |                                                              |                                                              |           |               |          |
+| 26   | 24.11.2025 | I/O Porty: [sesit-gpio-cely.docx](../../predmety/mit/materialy/sesit-gpio-cely.docx) | maskování jednotlivých bitů - vysvětlení                     |           |               |          |
 | 27   | 28.11.2025 |                                                              |                                                              |           |               |          |
 | 28   | 01.12.2025 |                                                              |                                                              |           |               |          |
 | 29   | 05.12.2025 |                                                              |                                                              |           |               |          |
