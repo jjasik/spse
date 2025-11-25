@@ -68,7 +68,7 @@
 | 3    | 30.09.2025 | CCNA1: cvičení 2.3.7 a 2.3.8 (PC+LAB HW)                     |           |               | [Tabule](materialy/t2a-pos_2025-2026/tabule-002.jpg) |
 | 4    | 14.10.2025 | Odpadá                                                       |           |               |                                                      |
 | 5    | 28.10.2025 | Odpadá                                                       |           |               |                                                      |
-| 6    | 11.11.2025 | CCNA1: cvičení 2.5.4, 2.5.5, 2.7.6, 2.9.1                    | Plánováno |               |                                                      |
-| 7    | 25.11.2025 |                                                              |           |               |                                                      |
-| 8    | 09.12.2025 |                                                              |           |               |                                                      |
+| 6    | 11.11.2025 | CCNA1: cvičení 2.5.4, 2.5.5, 2.7.6, 2.9.1                    |           |               |                                                      |
+| 7    | 25.11.2025 | CCNA1: cvičení 2.5.4, 2.5.5, 2.7.6, 2.9.1                    | Ukončeno  | 3             |                                                      |
+| 8    | 09.12.2025 | CCNA1: cvičení 2.9.2 Lab - Basic Switch and End Device Configuration (Packet Tracer + Lab HW) | Plánováno |               |                                                      |
 | 9    | 23.12.2025 | Odpadá                                                       |           |               |                                                      |
