@@ -53,8 +53,8 @@
 | 3    | 01.10.2025 | [Převody číselných soustav, bitové operace](https://tomaschovanec.github.io/MIT/03_Bitove_operace.html), [Práce s tlačítky](https://tomaschovanec.github.io/MIT/04_Tlacitka_podminky.html) | Ukončeno  | 2             |          |
 | 4    | 15.10.2025 | Odpadá                                                       |           |               |          |
 | 5    | 29.10.2025 | Odpadá                                                       |           |               |          |
-| 6    | 12.11.2025 | [Sedmisegmentový displej](https://tomaschovanec.github.io/MIT/05_Sedmisegmentovy_displej.html) | Ukončeno  | 1             |          |
-| 7    | 26.11.2025 |                                                              |           |               |          |
+| 6    | 12.11.2025 | [Sedmisegmentový displej](https://tomaschovanec.github.io/MIT/05_Sedmisegmentovy_displej.html) | Ukončeno  | 0             |          |
+| 7    | 26.11.2025 | [Klávesnice](https://tomaschovanec.github.io/MIT/06_Klavesnice.html) | Ukončeno  | 0             |          |
 | 8    | 10.12.2025 |                                                              |           |               |          |
 | 9    | 24.12.2025 | Odpadá                                                       |           |               |          |
 
