@@ -79,12 +79,14 @@ Viz. ŠVP: [POS](svp-temata.md)
    7. 2.7.6 Packet Tracer - Implement Basic Connectivity (PacketTracer)
    8. 2.9.1 Packet Tracer - Basic Switch and End Device Configuration (Packet Tracer)
    9. 2.9.2 Lab - Basic Switch and End Device Configuration (Packet Tracer + Lab HW)
-   10. 3.5.5 Packet Tracer - Investigate the TCP/IP and OSI Models in Action (Packet Tracer)
+   10. * 3.5.5 Packet Tracer - Investigate the TCP/IP and OSI Models in Action (Packet Tracer)
    11. 3.7.9 Lab - Install Wireshark (Lab HW)
-   12. 3.7.10 Lab - Use Wireshark to View Network Traffic (Lab HW)
+   12. * 3.7.10 Lab - Use Wireshark to View Network Traffic (Lab HW)
    13. 4.6.5 Packet Tracer - Connect a Wired and Wireless LAN (Packet Tracer)
    14. 4.6.6 Lab - View Wired and Wireless NIC Information (Lab HW)
-   15. 4.7.1 Packet Tracer - Physical Layer Exploration (Packet Tracer)
-   16. 4.7.2 Packet Tracer - Connect the Physical Layer (Packet Tracer)
-   17. ...
+   15. * 4.7.1 Packet Tracer - Physical Layer Exploration (Packet Tracer)
+   16. * 4.7.2 Packet Tracer - Connect the Physical Layer (Packet Tracer)
+   17. * 7.1.6 Lab - Use Wireshark to Examine Ethernet Frames Topology
+   18. * 7.2.7 Lab - View Network Device MAC Addresses
+   19. * 7.3.7 Lab - View the Switch MAC Address Table
 
