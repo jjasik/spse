@@ -29,13 +29,13 @@
 | 23   | 20.11.2025 | [kombinacni_obvody.pptx](../../predmety/dig/materialy/kombinacni_obvody.pptx) až po str. 28 | dokončení příkladu, definice/schéma kombinačního obvodu, typy, dekodér |           |               |                          |
 | 24   | 21.11.2025 | [kombinacni_obvody.pptx](../../predmety/dig/materialy/kombinacni_obvody.pptx) až po str. 35 | dekodér, 1 z N, BCD - 7segment, [video](https://www.youtube.com/watch?v=XCJqoae4hgY), kodér |           |               |                          |
 | 25   | 27.11.2025 | [kombinacni_obvody.pptx](../../predmety/dig/materialy/kombinacni_obvody.pptx) až po str. 40 | kodér, multiplexor                                           |           |               |                          |
-| 26   | 28.11.2025 | [kombinacni_obvody.pptx](../../predmety/dig/materialy/kombinacni_obvody.pptx) | multiplexor, demultiplexor, sčítačka, komparátor, generátor parity, dynamický displej |           |               |                          |
+| 26   | 28.11.2025 | [kombinacni_obvody.pptx](../../predmety/dig/materialy/kombinacni_obvody.pptx) až po str. 48 | multiplexor, demultiplexor, sčítačka - začátek               |           |               |                          |
 | 27   | 04.12.2025 |                                                              |                                                              |           |               | +prezentace témata: TODO |
-| 28   | 05.12.2025 |                                                              |                                                              |           |               |                          |
+| 28   | 05.12.2025 | Odpadá                                                       |                                                              |           |               | jsem na exkurzi s T2A    |
 | 29   | 11.12.2025 |                                                              |                                                              |           |               |                          |
-| 30   | 12.12.2025 | Písemka                                                      |                                                              |           |               |                          |
-| 31   | 18.12.2025 |                                                              |                                                              |           |               |                          |
-| 32   | 19.12.2025 |                                                              |                                                              |           |               |                          |
+| 30   | 12.12.2025 | Písemka                                                      | Témata: TODO                                                 | Plánováno |               |                          |
+| 31   | 18.12.2025 | Odpadá                                                       |                                                              |           |               |                          |
+| 32   | 19.12.2025 | ?                                                            |                                                              |           |               |                          |
 | 33   | 25.12.2025 | Odpadá                                                       |                                                              |           |               |                          |
 | 34   | 26.12.2025 | Odpadá                                                       |                                                              |           |               |                          |
 | 35   | 01.01.2026 | Odpadá                                                       |                                                              |           |               |                          |
@@ -53,7 +53,7 @@
 | 4    | 20.10.2025 | [Astabilní klopný obvod (a nepájivé pole)](../../predmety/dig/bloky/cviceni/astabilni-klopny-obvod/readme.md) - dokončení | Ukončeno  | 0             |          |
 | 5    | 03.11.2025 | [příklady](../../predmety/dig/materialy/sbirka-prikladu-1.pdf): 6.3: a, c, d, e (nedokončeno) |           |               |          |
 | 6    | 17.11.2025 | Odpadá                                                       |           |               |          |
-| 7    | 01.12.2025 |                                                              |           |               |          |
+| 7    | 01.12.2025 | [Dekodér a 7segmentový displej](https://github.com/jjasik/spse/tree/main/predmety/dig/bloky/cviceni/sedm-segment) | Plánováno |               |          |
 | 8    | 15.12.2025 |                                                              |           |               |          |
 | 9    | 29.12.2025 | Odpadá                                                       |           |               |          |
 
