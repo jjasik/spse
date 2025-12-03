@@ -29,7 +29,7 @@ Není
 | 4    | 20.10.2025 | VHDL: intro viz.sekce materiály, úloha #1 (log. funkce: [Zprovoznění nástrojů, jednoduchá úloha](../../predmety/pra/bloky/zprovozneni/readme.md): sekce Alternace bod 1), #2 (4tl. vs. 4LED) - začátek |           |               |          |
 | 5    | 03.11.2025 | VHDL: úloha #1 (log. funkce), #2 (4tl. vs. 4LED), viz. tabule: [1](materialy/e2b-pra_2025-2026/tabule-001.jpg), [2](materialy/e2b-pra_2025-2026/tabule-002.jpg), [3](materialy/e2b-pra_2025-2026/tabule-003.jpg) | Ukončeno  | 6             |          |
 | 6    | 17.11.2025 | Odpadá                                                       |           |               |          |
-| 7    | 01.12.2025 |                                                              |           |               |          |
+| 7    | 01.12.2025 | VHDL: úloha #3 (dvě varianty sčítačky)                       | Ukončeno  | 4             |          |
 | 8    | 15.12.2025 |                                                              |           |               |          |
 | 9    | 29.12.2025 | Odpadá                                                       |           |               |          |
 
