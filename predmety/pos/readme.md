@@ -49,7 +49,10 @@ Viz. ŠVP: [POS](svp-temata.md)
    1. 2.ročník: CCNA1 (Introduction to Networks)
    2. 3.ročník: CCNA2 (Switching, Routing, and Wireless Essentials)
    3. 4.ročník: CCNA3 (Enterprise Networking, Security, and Automation)
-
+2. Prezentace k předmětu:
+   1. [NSWI090v4_01.pdf](materialy/NSWI090v4_01.pdf) - Lekce 1: Základní pojmy a paradigmata počítačových sítí
+   2. [NSWI045v3_03.pdf](materialy/NSWI045v3_03.pdf) - Téma 3: Architektura TCP/IP
+   3. [NSWI045v3_05.pdf](materialy/NSWI045v3_05.pdf) - Téma 5: Protokol IPv4
 
 #### Dema
 
