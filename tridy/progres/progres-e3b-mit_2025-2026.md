@@ -33,7 +33,7 @@
 | 27   | 28.11.2025 | [jazyk C](../../predmety/mit/materialy/jazyk_c.pptx) po str.20 | množiny čísel, uložení v paměťi,  datové typy, celočíselné typy, reálné typy, proměnná |           |               |          |
 | 28   | 01.12.2025 | [jazyk C](../../predmety/mit/materialy/jazyk_c.pptx) po str.31 | proměnná - příklady v simulátoru, pravidla zápisu ; a blok, větvení: if-else-if |           |               |          |
 | 29   | 05.12.2025 | Odpadá                                                       |                                                              |           |               |          |
-| 30   | 08.12.2025 | Písemka                                                      | Témata: TODO                                                 | Plánováno |               |          |
+| 30   | 08.12.2025 | Písemka                                                      | [Témata](materialy/e3b-mit_2025-2026/pisemka-temata-1.md)    | Plánováno |               |          |
 | 31   | 12.12.2025 | Odpadá                                                       |                                                              |           |               |          |
 | 32   | 15.12.2025 | jazyk C: switch-case                                         |                                                              |           |               |          |
 | 33   | 19.12.2025 |                                                              |                                                              |           |               |          |
