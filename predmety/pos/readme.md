@@ -53,6 +53,8 @@ Viz. ŠVP: [POS](svp-temata.md)
    1. [NSWI090v4_01.pdf](materialy/NSWI090v4_01.pdf) - Lekce 1: Základní pojmy a paradigmata počítačových sítí
    2. [NSWI045v3_03.pdf](materialy/NSWI045v3_03.pdf) - Téma 3: Architektura TCP/IP
    3. [NSWI045v3_05.pdf](materialy/NSWI045v3_05.pdf) - Téma 5: Protokol IPv4
+   4. [NSWI045v3_06.pdf](materialy/NSWI045v3_06.pdf) - Téma 6: Směrování v IP sítích
+   5. [NSWI045v3_08.pdf](materialy/NSWI045v3_08.pdf) - Téma 8: Protokol IPv6
 
 #### Dema
 
