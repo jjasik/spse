@@ -68,6 +68,6 @@
 | 4    | 22.10.2025 | [Klávesnice](https://tomaschovanec.github.io/MIT/06_Klavesnice.html) |           |               |          |
 | 5    | 05.11.2025 | [Klávesnice](https://tomaschovanec.github.io/MIT/06_Klavesnice.html) - dokončení | Ukončeno  | 0             |          |
 | 6    | 19.11.2025 | [Multiplex sedmisegmentového displeje](https://tomaschovanec.github.io/MIT/07_Multiplex_sedmisegmentoveho_displeje.html) | Ukončeno  | 2             |          |
-| 7    | 03.12.2025 |                                                              |           |               |          |
+| 7    | 03.12.2025 | [LCD displej](https://tomaschovanec.github.io/MIT/12_LCD.html) | Ukončeno  | 0             |          |
 | 8    | 17.12.2025 |                                                              |           |               |          |
 | 9    | 31.12.2025 | Odpadá                                                       |           |               |          |
