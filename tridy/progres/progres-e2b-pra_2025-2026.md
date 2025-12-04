@@ -11,6 +11,8 @@ Není
 | PČ   | Datum      | Obsah a materiály                                            | Hodnocení | Bez hodnocení | Poznámka |
 | ---- | ---------- | ------------------------------------------------------------ | --------- | ------------- | -------- |
 | 1    | 03.09.2025 | Organizace předmětu praxe, BOZP, hygiena práce, požární ochrana, zásady první pomoci. |           |               |          |
+| 2    | 10.12.2025 |                                                              |           |               |          |
+|      |            |                                                              |           |               |          |
 |      | 25.03.2025 | Střídání skupin, další: Skupina 3                            |           |               |          |
 
 ##### Skupina 2 (první v pořadí ve školním roce v mé učebně, cca 10 žáků)
@@ -30,8 +32,7 @@ Není
 | 11   | 12.11.2025 | VHDL: úloha: #5 (ovládání 7seg. displeje) - nedokončeno      |           |               |          |
 | 12   | 19.11.2025 | VHDL: úloha: #5 (ovládání 7seg. displeje) (4tl. vs. 4čísla)  | Ukončeno  | 1             |          |
 | 13   | 26.11.2025 | VHDL: úloha: #5 (ovládání 7seg. displeje) (vč. čítače)       | Ukončeno  | 1             |          |
-| 14   | 03.12.2025 |                                                              |           |               |          |
-|      | 10.12.2025 | Střídání skupin, další: Skupina 1                            |           |               |          |
+| 14   | 03.12.2025 | VHDL: úloha: #8 Ovládání 7seg. displeje, samo-počítání 4 pozice | Ukončeno  | 5             |          |
 
 ##### Skupina 3
 
