@@ -65,3 +65,6 @@ Nejsou
 1. "Dvě varianty sčítačky" -> VHDL: úloha #3 ([Tabule](bloky/scitacka/tabule-001.jpg))
 1. "Čítač" -> VHDL: úloha #4 ([Tabule](bloky/citac/tabule-001.jpg))
 1. "Ovládání 7seg. displeje" -> VHDL: úloha #5 ([Tabule](bloky/sedm-segment/tabule-001.jpg))
+1. "Blikání LED 1 sec." -> VHDL: úloha #6
+1. "Ovládání 7seg. displeje, samo-počítání 1 pozice" -> VHDL: úloha: #7 ([Tabule](bloky/samopocitani/tabule-001.jpg))
+1. "Ovládání 7seg. displeje, samo-počítání 4 pozice" -> VHDL: úloha: #8 ([Tabule](bloky/samopocitani/tabule-001.jpg))
