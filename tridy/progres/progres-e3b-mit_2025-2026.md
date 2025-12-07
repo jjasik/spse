@@ -36,7 +36,7 @@
 | 30   | 08.12.2025 | Písemka                                                      | [Témata](materialy/e3b-mit_2025-2026/pisemka-temata-1.md)    | Plánováno |               |          |
 | 31   | 12.12.2025 | Odpadá                                                       |                                                              |           |               |          |
 | 32   | 15.12.2025 | jazyk C: switch-case                                         |                                                              |           |               |          |
-| 33   | 19.12.2025 |                                                              |                                                              |           |               |          |
+| 33   | 19.12.2025 | Odpadá                                                       |                                                              |           |               |          |
 | 34   | 22.12.2025 | Odpadá                                                       |                                                              |           |               |          |
 | 35   | 26.12.2025 | Odpadá                                                       |                                                              |           |               |          |
 | 36   | 29.12.2025 | Odpadá                                                       |                                                              |           |               |          |
@@ -55,7 +55,7 @@
 | 5    | 29.10.2025 | Odpadá                                                       |           |               |          |
 | 6    | 12.11.2025 | [Sedmisegmentový displej](https://tomaschovanec.github.io/MIT/05_Sedmisegmentovy_displej.html) | Ukončeno  | 0             |          |
 | 7    | 26.11.2025 | [Klávesnice](https://tomaschovanec.github.io/MIT/06_Klavesnice.html) | Ukončeno  | 0             |          |
-| 8    | 10.12.2025 |                                                              |           |               |          |
+| 8    | 10.12.2025 | [Multiplex sedmisegmentového displeje](https://tomaschovanec.github.io/MIT/07_Multiplex_sedmisegmentoveho_displeje.html) | Plánováno |               |          |
 | 9    | 24.12.2025 | Odpadá                                                       |           |               |          |
 
 ##### Skupina 2
