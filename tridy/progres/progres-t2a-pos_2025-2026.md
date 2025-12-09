@@ -36,12 +36,13 @@
 | 29   | 04.12.2025 | CCNA1: dále až po 8.3.2 IPv6 Overview                        | IPv4 Packet: Header Fields, Limitations of IPv4, IPv6 improvements |           |               |          |
 | 30   | 09.12.2025 |                                                              | prezentace témata: IPV4 fragmentace                          |           |               |          |
 | 31   | 11.12.2025 | Písemka                                                      |                                                              |           |               |          |
-| 32   | 16.12.2025 |                                                              |                                                              |           |               |          |
-| 33   | 18.12.2025 | Odpadá                                                       |                                                              |           |               |          |
-| 34   | 23.12.2025 | Odpadá                                                       |                                                              |           |               |          |
-| 35   | 25.12.2025 | Odpadá                                                       |                                                              |           |               |          |
-| 36   | 30.12.2025 | Odpadá                                                       |                                                              |           |               |          |
-| 37   | 01.01.2026 | Odpadá                                                       |                                                              |           |               |          |
+| 32   | 12.12.2025 | Suplování, hodina navíc?                                     |                                                              |           |               |          |
+| 33   | 16.12.2025 |                                                              |                                                              |           |               |          |
+| 34   | 18.12.2025 | Odpadá                                                       |                                                              |           |               |          |
+| 35   | 23.12.2025 | Odpadá                                                       |                                                              |           |               |          |
+| 36   | 25.12.2025 | Odpadá                                                       |                                                              |           |               |          |
+| 37   | 30.12.2025 | Odpadá                                                       |                                                              |           |               |          |
+| 38   | 01.01.2026 | Odpadá                                                       |                                                              |           |               |          |
 
 #### Cvičení
 
