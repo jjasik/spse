@@ -23,4 +23,5 @@
 - nerušíme ostatní (pokud "mám tvůrčí krizi" v daný den, tak alespoň neruším ostatní!)
 - když chci mluvit/reagovat na otázku přihlásím se
 - při absenci si zjistím stav učiva na stránkách progresu výuky
+- dodržuje se zasedací pořádek, pokud si chci sednout na jiné místo, ptám se na začátku hodiny
 - díky
