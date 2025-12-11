@@ -35,8 +35,8 @@
 | 28   | 02.12.2025 | CCNA1: dále až po 8.1.6 Media Independent                    | Duplex and Speed Settings, Auto-MDIX, Síťová vrstva: vlastnosti/účel, adresování, zapouzdření, odpouzdření, routování obrázek, funguje: nespojovaně, nespolehlivě, stylem best effort, a jaké z tohoto jsou následky |           |               |                         |
 | 29   | 04.12.2025 | CCNA1: dále až po 8.3.2 IPv6 Overview                        | IPv4 Packet: Header Fields, Limitations of IPv4, IPv6 improvements |           |               |                         |
 | 30   | 09.12.2025 | CCNA1: dále až po 8.4.1 Host Forwarding Decision             | prezentace témata: IPV4 fragmentace, IPv6 Packet: Header Fields |           |               |                         |
-| 31   | 11.12.2025 | Písemka                                                      | [Témata](../../predmety/pos/materialy/pisemka-phy-dlnk-ether-ip.md) |           |               |                         |
-| 32   | 12.12.2025 |                                                              |                                                              |           |               |                         |
+| 31   | 11.12.2025 | CCNA1: dále až po TODO                                       | TODO                                                         |           |               |                         |
+| 32   | 12.12.2025 | Písemka                                                      | [Témata](../../predmety/pos/materialy/pisemka-phy-dlnk-ether-ip.md) |           |               |                         |
 | 33   | 16.12.2025 |                                                              |                                                              |           |               |                         |
 | 34   | 18.12.2025 | Odpadá                                                       |                                                              |           |               |                         |
 | 35   | 23.12.2025 | Odpadá                                                       |                                                              |           |               |                         |
@@ -71,5 +71,5 @@
 | 5    | 28.10.2025 | Odpadá                                                       |           |               |                                                      |
 | 6    | 11.11.2025 | CCNA1: cvičení 2.5.4, 2.5.5, 2.7.6, 2.9.1                    |           |               |                                                      |
 | 7    | 25.11.2025 | CCNA1: cvičení 2.5.4, 2.5.5, 2.7.6, 2.9.1                    | Ukončeno  | 3             |                                                      |
-| 8    | 09.12.2025 | CCNA1: cvičení 2.9.2 Lab - Basic Switch and End Device Configuration (Packet Tracer + Lab HW) | Plánováno |               |                                                      |
+| 8    | 09.12.2025 | CCNA1: cvičení 2.9.2 Lab - Basic Switch and End Device Configuration (Packet Tracer + Lab HW) | Ukončeno  | 4             |                                                      |
 | 9    | 23.12.2025 | Odpadá                                                       |           |               |                                                      |
