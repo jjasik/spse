@@ -34,8 +34,8 @@
 | 28   | 02.12.2025 | [kombinacni_obvody.pptx](../../predmety/dig/materialy/kombinacni_obvody.pptx) až po str.59 | doplnění: sčítačka, logický komparátor, aritmetický komparátor |           |               |                                                 |
 | 29   | 05.12.2025 | [kombinacni_obvody.pptx](../../predmety/dig/materialy/kombinacni_obvody.pptx) až po str.67 | aritmetický komparátor, generátor parity, prezentace témata: dynamický displej |           |               | neprobráno: BCD komparátor, BCD sčítačka        |
 | 30   | 09.12.2025 |                                                              | doplnění: dynamický displej, projití možných témat na písemku |           |               |                                                 |
-| 31   | 12.12.2025 | Písemka                                                      | [Témata](../../predmety/dig/materialy/pisemka-kombinacni-obvody.md) | Beží      | 15            | [Sešity](materialy/e2b-dig_2025-2026/sesity.md) |
-| 32   | 16.12.2025 |                                                              |                                                              |           |               |                                                 |
+| 31   | 12.12.2025 | Písemka                                                      | [Témata](../../predmety/dig/materialy/pisemka-kombinacni-obvody.md) | Běží      | 15            | [Sešity](materialy/e2b-dig_2025-2026/sesity.md) |
+| 32   | 16.12.2025 | Písemka (1/2 třídy)                                          | [Témata](../../predmety/dig/materialy/pisemka-kombinacni-obvody.md) |           |               |                                                 |
 | 33   | 19.12.2025 | Odpadá                                                       |                                                              |           |               |                                                 |
 | 34   | 23.12.2025 | Odpadá                                                       |                                                              |           |               |                                                 |
 | 35   | 26.12.2025 | Odpadá                                                       |                                                              |           |               |                                                 |
@@ -55,7 +55,7 @@
 | 5    | 04.11.2025 | [příklady](../../predmety/dig/materialy/sbirka-prikladu-1.pdf): 6.3: c, d, k |           |               |          |
 | 6    | 18.11.2025 | [Dekodér a 7segmentový displej](https://github.com/jjasik/spse/tree/main/predmety/dig/bloky/cviceni/sedm-segment) |           |               |          |
 | 7    | 02.12.2025 | [Dekodér a 7segmentový displej](https://github.com/jjasik/spse/tree/main/predmety/dig/bloky/cviceni/sedm-segment) vč.čítače | Plánováno |               |          |
-| 8    | 16.12.2025 |                                                              |           |               |          |
+| 8    | 16.12.2025 | [Dekodér a 7segmentový displej](https://github.com/jjasik/spse/tree/main/predmety/dig/bloky/cviceni/sedm-segment) vč.čítače |           |               |          |
 | 9    | 30.12.2025 | Odpadá                                                       |           |               |          |
 
 ##### Skupina 2
