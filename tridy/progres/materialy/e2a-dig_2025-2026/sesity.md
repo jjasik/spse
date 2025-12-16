@@ -18,7 +18,7 @@
 | MiSa  | OK (pěkný)                     |                                |
 | MiMi  | OK (pěkný)                     |                                |
 | MiDa  |                                |                                |
-| PaVo  |                                |                                |
+| PaVo  |                                | OK                             |
 | PeVi  | OK                             |                                |
 | SiJi  | OK                             |                                |
 | SoPe  |                                |                                |
