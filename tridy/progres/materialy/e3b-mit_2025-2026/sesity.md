@@ -24,7 +24,7 @@
 | VaKr |                                |      |
 | VaSe | NOK (=not OK, tj.nedobrý stav) |      |
 | VaOn | OK (pěkný)                     |      |
-| ViJi | OK (pěkný)                     |      |
+| ViJi | OK (pěkný)                     | ele  |
 | ViTo | OK                             |      |
 |      |                                |      |
 |      |                                |      |

@@ -33,14 +33,15 @@
 | 27   | 28.11.2025 | [jazyk C](../../predmety/mit/materialy/jazyk_c.pptx) po str.20 | množiny čísel, uložení v paměťi,  datové typy, celočíselné typy, reálné typy, proměnná |           |               |                                                 |
 | 28   | 01.12.2025 | [jazyk C](../../predmety/mit/materialy/jazyk_c.pptx) po str.31 | proměnná - příklady v simulátoru, pravidla zápisu ; a blok, větvení: if-else-if |           |               |                                                 |
 | 29   | 05.12.2025 | Odpadá                                                       |                                                              |           |               |                                                 |
-| 30   | 08.12.2025 | Písemka                                                      | [Témata](../../predmety/mit/materialy/pisemka-porty-c.md)    | Plánováno |               |                                                 |
+| 30   | 08.12.2025 | Písemka                                                      | [Témata](../../predmety/mit/materialy/pisemka-porty-c.md)    | Ukončeno  | 1             |                                                 |
 | 31   | 12.12.2025 | Odpadá                                                       |                                                              |           |               |                                                 |
-| 32   | 15.12.2025 | jazyk C: switch-case                                         |                                                              |           |               | [Sešity](materialy/e3b-mit_2025-2026/sesity.md) |
+| 32   | 15.12.2025 | switch-case, [jazyk C](../../predmety/mit/materialy/jazyk_c.pptx) po str.46 | switch-case, cyklus for, cyklus while, operátory (aritmetické, relační, logické) |           |               | [Sešity](materialy/e3b-mit_2025-2026/sesity.md) |
 | 33   | 19.12.2025 | Odpadá                                                       |                                                              |           |               |                                                 |
 | 34   | 22.12.2025 | Odpadá                                                       |                                                              |           |               |                                                 |
 | 35   | 26.12.2025 | Odpadá                                                       |                                                              |           |               |                                                 |
 | 36   | 29.12.2025 | Odpadá                                                       |                                                              |           |               |                                                 |
 | 37   | 02.01.2026 | Odpadá                                                       |                                                              |           |               |                                                 |
+| 38   | 05.01.2026 | TODO                                                         |                                                              |           |               |                                                 |
 
 #### Cvičení
 
@@ -57,6 +58,7 @@
 | 7    | 26.11.2025 | [Klávesnice](https://tomaschovanec.github.io/MIT/06_Klavesnice.html) | Ukončeno  | 0             |          |
 | 8    | 10.12.2025 | Revize písemek                                               |           |               |          |
 | 9    | 24.12.2025 | Odpadá                                                       |           |               |          |
+| 10   | 07.01.2025 | TODO                                                         |           |               |          |
 
 ##### Skupina 2
 
