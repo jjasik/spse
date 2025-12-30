@@ -33,13 +33,14 @@
 | 27   | 04.12.2025 |                                                              | prezentace témata: Sčítačka (binární), Logický komparátor    |           |               |                                                 |
 | 28   | 05.12.2025 | Odpadá                                                       |                                                              |           |               |                                                 |
 | 29   | 11.12.2025 | [kombinacni_obvody.pptx](../../predmety/dig/materialy/kombinacni_obvody.pptx) až po str.67 | doplnění: sčítačka, logický komparátor, aritmetický komparátor, generátor parity, projití témat písemky |           |               | neprobráno: BCD komparátor, BCD sčítačka        |
-| 30   | 12.12.2025 | Písemka                                                      | [Témata](../../predmety/dig/materialy/pisemka-kombinacni-obvody.md) | Běží      | 5             | [Sešity](materialy/e2a-dig_2025-2026/sesity.md) |
+| 30   | 12.12.2025 | Písemka                                                      | [Témata](../../predmety/dig/materialy/pisemka-kombinacni-obvody.md) | Ukončeno  | 5             | [Sešity](materialy/e2a-dig_2025-2026/sesity.md) |
 | 31   | 18.12.2025 | Odpadá                                                       |                                                              |           |               |                                                 |
 | 32   | 19.12.2025 | Odpadá                                                       |                                                              |           |               |                                                 |
 | 33   | 25.12.2025 | Odpadá                                                       |                                                              |           |               |                                                 |
 | 34   | 26.12.2025 | Odpadá                                                       |                                                              |           |               |                                                 |
 | 35   | 01.01.2026 | Odpadá                                                       |                                                              |           |               |                                                 |
 | 36   | 02.01.2026 | Odpadá                                                       |                                                              |           |               | prezentace témata: TODO                         |
+| 37   | 08.01.2026 | TODO                                                         |                                                              |           |               |                                                 |
 
 #### Cvičení
 
@@ -53,8 +54,8 @@
 | 4    | 20.10.2025 | [Astabilní klopný obvod (a nepájivé pole)](../../predmety/dig/bloky/cviceni/astabilni-klopny-obvod/readme.md) - dokončení | Ukončeno  | 0             |          |
 | 5    | 03.11.2025 | [příklady](../../predmety/dig/materialy/sbirka-prikladu-1.pdf): 6.3: a, c, d, e (nedokončeno) |           |               |          |
 | 6    | 17.11.2025 | Odpadá                                                       |           |               |          |
-| 7    | 01.12.2025 | [Dekodér a 7segmentový displej](https://github.com/jjasik/spse/tree/main/predmety/dig/bloky/cviceni/sedm-segment) | Plánováno |               |          |
-| 8    | 15.12.2025 |                                                              |           |               |          |
+| 7    | 01.12.2025 | [Dekodér a 7segmentový displej](https://github.com/jjasik/spse/tree/main/predmety/dig/bloky/cviceni/sedm-segment) |           |               |          |
+| 8    | 15.12.2025 | [Dekodér a 7segmentový displej](https://github.com/jjasik/spse/tree/main/predmety/dig/bloky/cviceni/sedm-segment) vč.čítače | Ukončeno  | 3             |          |
 | 9    | 29.12.2025 | Odpadá                                                       |           |               |          |
 
 ##### Skupina 2
@@ -69,3 +70,4 @@
 | 6    | 24.11.2025 | [Dekodér a 7segmentový displej](https://github.com/jjasik/spse/tree/main/predmety/dig/bloky/cviceni/sedm-segment) |           |               |          |
 | 7    | 08.12.2025 | [Dekodér a 7segmentový displej](https://github.com/jjasik/spse/tree/main/predmety/dig/bloky/cviceni/sedm-segment) vč.čítače | Ukončeno  | 8             |          |
 | 8    | 22.12.2025 | Odpadá                                                       |           |               |          |
+| 9    | 05.01.2026 | TODO                                                         |           |               |          |
