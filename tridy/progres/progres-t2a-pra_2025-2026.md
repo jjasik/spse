@@ -18,6 +18,7 @@ Není
 | 6    | 24.11.2025 | VHDL: úloha #1, VHDL: úloha #2 (zadání)                      |           |               |          |
 | 7    | 08.12.2025 | VHDL: úloha #1 (log. funkce), #2 (4tl. vs. 4LED)             | Ukončeno  | 5             |          |
 | 8    | 22.12.2025 | Odpadá                                                       |           |               |          |
+| 9    | 05.01.2026 | TODO                                                         |           |               |          |
 
 ##### Skupina 2
 
@@ -30,6 +31,6 @@ Není
 | 5    | 03.11.2025 | VHDL: úloha #1 (log. funkce), #2 (4tl. vs. 4LED), viz. tabule: [1](materialy/e2b-pra_2025-2026/tabule-001.jpg), [2](materialy/e2b-pra_2025-2026/tabule-002.jpg), [3](materialy/e2b-pra_2025-2026/tabule-003.jpg) | Ukončeno  | 6             |          |
 | 6    | 17.11.2025 | Odpadá                                                       |           |               |          |
 | 7    | 01.12.2025 | VHDL: úloha #3 (dvě varianty sčítačky)                       | Ukončeno  | 4             |          |
-| 8    | 15.12.2025 |                                                              |           |               |          |
+| 8    | 15.12.2025 | Revize písemek                                               |           |               |          |
 | 9    | 29.12.2025 | Odpadá                                                       |           |               |          |
 
