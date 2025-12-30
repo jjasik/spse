@@ -12,7 +12,8 @@ Není
 | ---- | ---------- | ------------------------------------------------------------ | --------- | ------------- | -------- |
 | 1    | 03.09.2025 | Organizace předmětu praxe, BOZP, hygiena práce, požární ochrana, zásady první pomoci. |           |               |          |
 | 2    | 10.12.2025 | Prošli jsme stránku [PRA](../../predmety/pra/readme.md), vysvětlili pojem FPGA a porovnání vs. MCU, dále info ohledně vývojového kitu: [Kit OMDAZZ](../../predmety/pra/fpga/altera-cyclone4/devbrd/omdazz/readme.md), vč. přehledu základní dokumentace k našemu FPGA, poté první úloha: [Zprovoznění nástrojů, jednoduchá úloha](../../predmety/pra/bloky/zprovozneni/readme.md) | Plánováno |               |          |
-| 3    | 17.12.2025 |                                                              |           |               |          |
+| 3    | 17.12.2025 | Pokračování na první úloze                                   |           |               |          |
+| 4    | 07.01.2025 | TODO                                                         |           |               |          |
 |      | 25.03.2025 | Střídání skupin, další: Skupina 3                            |           |               |          |
 
 ##### Skupina 2 (první v pořadí ve školním roce v mé učebně, cca 10 žáků)
