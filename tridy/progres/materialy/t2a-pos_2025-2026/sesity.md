@@ -1,7 +1,7 @@
 | ID   | 16.12.2025        |               |
 | ---- | ----------------- | ------------- |
-| BoOn |                   |               |
-| CaOn |                   | ele           |
+| BoOn | OK                | ele           |
+| CaOn | ?                 | ele           |
 | FrMa | -                 | pouze netacad |
 | GeMa | -                 | pouze netacad |
 | HeVi | OK                |               |

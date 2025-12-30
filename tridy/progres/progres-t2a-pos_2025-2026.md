@@ -36,13 +36,14 @@
 | 29   | 04.12.2025 | CCNA1: dále až po 8.3.2 IPv6 Overview                        | IPv4 Packet: Header Fields, Limitations of IPv4, IPv6 improvements |           |               |                                                 |
 | 30   | 09.12.2025 | CCNA1: dále až po 8.4.1 Host Forwarding Decision             | prezentace témata: IPV4 fragmentace, IPv6 Packet: Header Fields |           |               |                                                 |
 | 31   | 11.12.2025 | CCNA1: dále až po 8.4.1 Host Forwarding Decision             | projití témat písemky, Host Forwarding Decision: itself, Local host, Remote host |           |               |                                                 |
-| 32   | 12.12.2025 | Písemka                                                      | [Témata](../../predmety/pos/materialy/pisemka-phy-dlnk-ether-ip.md) |           |               |                                                 |
-| 33   | 16.12.2025 |                                                              |                                                              |           |               | [Sešity](materialy/t2a-pos_2025-2026/sesity.md) |
+| 32   | 12.12.2025 | Písemka                                                      | [Témata](../../predmety/pos/materialy/pisemka-phy-dlnk-ether-ip.md) | Ukončeno  | 2             |                                                 |
+| 33   | 16.12.2025 | Projití písemek, kontrola sešitů                             |                                                              |           |               | [Sešity](materialy/t2a-pos_2025-2026/sesity.md) |
 | 34   | 18.12.2025 | Odpadá                                                       |                                                              |           |               |                                                 |
 | 35   | 23.12.2025 | Odpadá                                                       |                                                              |           |               |                                                 |
 | 36   | 25.12.2025 | Odpadá                                                       |                                                              |           |               |                                                 |
 | 37   | 30.12.2025 | Odpadá                                                       |                                                              |           |               |                                                 |
 | 38   | 01.01.2026 | Odpadá                                                       |                                                              |           |               | prezentace témata: TODO                         |
+| 39   | 06.01.2026 | TODO                                                         |                                                              |           |               |                                                 |
 
 #### Cvičení
 
@@ -73,3 +74,4 @@
 | 7    | 25.11.2025 | CCNA1: cvičení 2.5.4, 2.5.5, 2.7.6, 2.9.1                    | Ukončeno  | 3             |                                                      |
 | 8    | 09.12.2025 | CCNA1: cvičení 2.9.2 Lab - Basic Switch and End Device Configuration (Packet Tracer + Lab HW) | Ukončeno  | 4             |                                                      |
 | 9    | 23.12.2025 | Odpadá                                                       |           |               |                                                      |
+| 10   | 06.01.2025 | TODO                                                         |           |               |                                                      |
