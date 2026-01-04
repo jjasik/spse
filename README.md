@@ -22,3 +22,6 @@
 
 - [O mně a pravidla](o-mne/readme.md)
 
+### Fotogalerie
+
+- [Přehled](fotogalerie/readme.md)
