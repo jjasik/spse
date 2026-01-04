@@ -70,4 +70,4 @@
 | 6    | 24.11.2025 | [Dekodér a 7segmentový displej](https://github.com/jjasik/spse/tree/main/predmety/dig/bloky/cviceni/sedm-segment) |           |               |          |
 | 7    | 08.12.2025 | [Dekodér a 7segmentový displej](https://github.com/jjasik/spse/tree/main/predmety/dig/bloky/cviceni/sedm-segment) vč.čítače | Ukončeno  | 8             |          |
 | 8    | 22.12.2025 | Odpadá                                                       |           |               |          |
-| 9    | 05.01.2026 | TODO                                                         |           |               |          |
+| 9    | 05.01.2026 | [Klopný obvod R-S](../../predmety/dig/bloky/cviceni/klopny-obvod-r-s/readme.md) | Plánováno |               |          |

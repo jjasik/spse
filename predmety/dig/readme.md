@@ -60,3 +60,5 @@ TODO
 
 1. [Jednoduchá logická funkce (a nepájivé pole)](bloky/cviceni/jednoducha-logicka-funkce/readme.md)
 1. [Astabilní klopný obvod (a nepájivé pole)](bloky/cviceni/astabilni-klopny-obvod/readme.md)
+1. [Dekodér a 7segmentový displej (a nepájivé pole)](https://github.com/jjasik/spse/tree/main/predmety/dig/bloky/cviceni/sedm-segment)
+1. [Klopný obvod R-S (a nepájivé pole)](bloky/cviceni/klopny-obvod-r-s/readme.md)
