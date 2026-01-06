@@ -7,24 +7,24 @@
 | FoFi  |                   | OK                |
 | GaMi  | OK (vcelku pěkný) |                   |
 | ChVl  | OK (vcelku pěkný) |                   |
-| JaDa  | -extrem sport? OK |                   |
+| JaDa  | OK                |                   |
 | KaSa  |                   | OK                |
 | KaTo  |                   | OK                |
 | KoVo  |                   | OK                |
-| KosSt |                   |                   |
+| KosSt |                   | ?                 |
 | KoPe  | OK                |                   |
-| KovSt |                   |                   |
-| KrMa  |                   |                   |
+| KovSt |                   | OK                |
+| KrMa  |                   | ?                 |
 | MiPa  | OK                |                   |
 | NoVo  | OK                |                   |
 | OnMa  |                   | OK (vcelku pěkný) |
 | OpMa  |                   | OK (pěkný)        |
 | OtAd  | OK (vcelku pěkný) |                   |
 | PaLu  | OK                |                   |
-| PeVl  |                   |                   |
+| PeVl  |                   | OK                |
 | PuVa  | OK                |                   |
 | SoJa  | OK (vcelku pěkný) |                   |
-| SpTo  |                   |                   |
+| SpTo  |                   | OK                |
 | StMi  | OK (vcelku pěkný) |                   |
 | StTo  |                   | OK                |
 | StVi  |                   | OK (pěkný)        |
