@@ -22,9 +22,9 @@
 | PaDo |                   |               |
 | PiJa | OK                |               |
 | PoOl | -                 | pouze netacad |
-| StMa |                   |               |
+| StMa | OK                |               |
 | StMi | OK                |               |
-| StOn |                   |               |
+| StOn | OK                |               |
 | ToLu | OK                |               |
 | TuDa | OK (vcelku pěkný) |               |
 | VaMi | -                 | pouze netacad |
