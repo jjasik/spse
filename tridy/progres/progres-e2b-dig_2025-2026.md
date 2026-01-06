@@ -40,8 +40,9 @@
 | 34   | 23.12.2025 | Odpadá                                                       |                                                              |           |               |                                                 |
 | 35   | 26.12.2025 | Odpadá                                                       |                                                              |           |               |                                                 |
 | 36   | 30.12.2025 | Odpadá                                                       |                                                              |           |               |                                                 |
-| 37   | 02.01.2026 | Odpadá                                                       |                                                              |           |               | prezentace témata: TODO                         |
-| 38   | 06.01.2026 | TODO                                                         |                                                              |           |               |                                                 |
+| 37   | 02.01.2026 | Odpadá                                                       |                                                              |           |               |                                                 |
+| 38   | 06.01.2026 |                                                              |                                                              |           |               |                                                 |
+|      |            |                                                              |                                                              |           |               | prezentace témata: TODO                         |
 
 #### Cvičení
 
@@ -72,4 +73,4 @@
 | 7    | 25.11.2025 | [Dekodér a 7segmentový displej](https://github.com/jjasik/spse/tree/main/predmety/dig/bloky/cviceni/sedm-segment) |           |               |          |
 | 8    | 09.12.2025 | [Dekodér a 7segmentový displej](https://github.com/jjasik/spse/tree/main/predmety/dig/bloky/cviceni/sedm-segment) vč.čítače | Ukončeno  | 2             |          |
 | 9    | 23.12.2025 | Odpadá                                                       |           |               |          |
-| 10   | 06.01.2026 | TODO                                                         |           |               |          |
+| 10   | 06.01.2026 | [Klopný obvod R-S](../../predmety/dig/bloky/cviceni/klopny-obvod-r-s/readme.md) | Plánováno |               |          |
