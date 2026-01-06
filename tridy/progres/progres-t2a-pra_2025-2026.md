@@ -16,7 +16,7 @@ Není
 | 4    | 27.10.2025 | Odpadá                                                       |           |               |          |
 | 5    | 10.11.2025 | Dokončení úlohy z minula                                     | Ukončeno  | 4             |          |
 | 6    | 24.11.2025 | VHDL: úloha #1, VHDL: úloha #2 (zadání)                      |           |               |          |
-| 7    | 08.12.2025 | VHDL: úloha #1 (log. funkce), #2 (4tl. vs. 4LED)             | Ukončeno  | 5             |          |
+| 7    | 08.12.2025 | VHDL: úloha #1 (log. funkce), #2 (4tl. vs. 4LED)             | Ukončeno  | 1             |          |
 | 8    | 22.12.2025 | Odpadá                                                       |           |               |          |
 | 9    | 05.01.2026 | VHDL: úloha #3 (dvě varianty sčítačky)                       | Plánováno |               |          |
 
