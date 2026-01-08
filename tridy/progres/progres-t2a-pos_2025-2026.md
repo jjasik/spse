@@ -76,4 +76,5 @@
 | 7    | 25.11.2025 | CCNA1: cvičení 2.5.4, 2.5.5, 2.7.6, 2.9.1                    | Ukončeno  | 3             |                                                      |
 | 8    | 09.12.2025 | CCNA1: cvičení 2.9.2 Lab - Basic Switch and End Device Configuration (Packet Tracer + Lab HW) | Ukončeno  | 4             |                                                      |
 | 9    | 23.12.2025 | Odpadá                                                       |           |               |                                                      |
-| 10   | 06.01.2025 | viz.: https://jjasik.github.io/spse/predmety/pos/            | Plánováno |               |                                                      |
+| 10   | 06.01.2025 | CCNA1: cvičení 3.5.5                                         | Ukončeno  | 3             |                                                      |
+| 11   | 20.01.2025 | CCNA1: cvičení 3.7.10, 4.7.1, 4.7.2                          | Plánováno |               |                                                      |
