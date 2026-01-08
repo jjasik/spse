@@ -41,7 +41,8 @@
 | 35   | 26.12.2025 | Odpadá                                                       |                                                              |           |               |                                                 |
 | 36   | 30.12.2025 | Odpadá                                                       |                                                              |           |               |                                                 |
 | 37   | 02.01.2026 | Odpadá                                                       |                                                              |           |               |                                                 |
-| 38   | 06.01.2026 |                                                              |                                                              |           |               |                                                 |
+| 38   | 06.01.2026 | [sekvencni_obvody.pptx](../../predmety/dig/materialy/sekvencni_obvody.pptx) až po str.5 | organizační změny, vysvětlení písemek, klopný obvod R-S (schéma) |           |               |                                                 |
+| 39   | 09.01.2026 |                                                              |                                                              |           |               | dodatečné zkoušení pro: KosSt, KovSt, StTo      |
 |      |            |                                                              |                                                              |           |               | prezentace témata: TODO                         |
 
 #### Cvičení
