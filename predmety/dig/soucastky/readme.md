@@ -21,3 +21,7 @@
 19. (in stock) MZH115S: 4-ch, 2-input, NAND gates (DTL),
 20. (in stock) MH54ALS51: dual 2-wide AND-OR-INVERT,
 21. (in stock) MH74ALS21: 2-ch, 4-input, 2-V to 6-V 5.2 mA drive strength AND gate
+
+#### Display
+
+1. BS-A552RD: 7-segmentový LED displej, dsh.512-181.1.pdf
