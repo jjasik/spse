@@ -48,6 +48,13 @@
 | 41   | 08.01.2026 | CCNA1: dále až po 8.5.2 IP Router Routing Table              | Router Routing table (directly connected, remote networks, default route) |           |               |                                                 |
 |      |            |                                                              |                                                              |           |               | prezentace témata: TODO                         |
 
+#### Prezentace
+
+| PČ   | Datum      | Téma               | Autoři     |
+| ---- | ---------- | ------------------ | ---------- |
+| 1    | 09.12.2025 | FRAGMENTACE v IPV4 | VyLu, KoMa |
+| 2    |            |                    | JaVi, GeMa |
+
 #### Cvičení
 
 ##### Skupina 1

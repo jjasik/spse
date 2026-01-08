@@ -42,7 +42,14 @@
 | 36   | 02.01.2026 | Odpadá                                                       |                                                              |           |               |                                                 |
 | 37   | 08.01.2026 | [kombinacni_obvody.pptx](../../predmety/dig/materialy/kombinacni_obvody.pptx) až po str.71 | organizační změny, vysvětlení písemek, Dynamický displej     |           |               |                                                 |
 | 38   | 09.01.2026 |                                                              |                                                              |           |               | dodatečné zkoušení pro: PaVo, SoPe              |
-|      |            |                                                              |                                                              |           |               | prezentace témata: TODO                         |
+|      |            |                                                              |                                                              |           |               |                                                 |
+
+#### Prezentace
+
+| PČ   | Datum      | Téma                   | Autoři      |
+| ---- | ---------- | ---------------------- | ----------- |
+| 1    | 04.12.2025 | SČÍTAČKA A  KOMPARÁTOR | ToOn, SaSe  |
+| 2    |            |                        | BabJa, MaJa |
 
 #### Cvičení
 

@@ -45,6 +45,14 @@
 | 39   | 09.01.2026 |                                                              |                                                              |           |               | dodatečné zkoušení pro: KosSt, KovSt, StTo      |
 |      |            |                                                              |                                                              |           |               | prezentace témata: TODO                         |
 
+#### Prezentace
+
+| PČ   | Datum      | Téma                   | Autoři      |
+| ---- | ---------- | ---------------------- | ----------- |
+| 1    | 28.11.2025 | SČÍTAČKA A  KOMPARÁTOR | KoPe, MiPa  |
+| 2    | 05.12.2025 | Dynamický displej      | KaTo, KrMa  |
+| 3    |            |                        | KosSt, OnMa |
+
 #### Cvičení
 
 ##### Skupina 1
