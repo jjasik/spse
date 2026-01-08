@@ -39,8 +39,10 @@
 | 33   | 25.12.2025 | Odpadá                                                       |                                                              |           |               |                                                 |
 | 34   | 26.12.2025 | Odpadá                                                       |                                                              |           |               |                                                 |
 | 35   | 01.01.2026 | Odpadá                                                       |                                                              |           |               |                                                 |
-| 36   | 02.01.2026 | Odpadá                                                       |                                                              |           |               | prezentace témata: TODO                         |
-| 37   | 08.01.2026 | TODO                                                         |                                                              |           |               |                                                 |
+| 36   | 02.01.2026 | Odpadá                                                       |                                                              |           |               |                                                 |
+| 37   | 08.01.2026 | [kombinacni_obvody.pptx](../../predmety/dig/materialy/kombinacni_obvody.pptx) až po str.71 | organizační změny, vysvětlení písemek, Dynamický displej     |           |               |                                                 |
+| 38   | 09.01.2026 |                                                              |                                                              |           |               | dodatečné zkoušení pro: PaVo, SoPe              |
+|      |            |                                                              |                                                              |           |               | prezentace témata: TODO                         |
 
 #### Cvičení
 
