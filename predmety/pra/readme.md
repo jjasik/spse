@@ -33,6 +33,7 @@ Viz. ŠVP: [PRA](svp-temata.md), [DIG](../dig/svp-temata.md)
 2. Příprava a prezentace zvoleného tématu: není
 3. Cvičení: známka z každého bloku (primárně za aktivitu a snahu dokončit, vysvětlit úlohu a zdokumentovat do sešitu): váha 1.00
 4. Samostatná práce: není
+5. Poznámka: Obecně pokud usilujete o lepší hodnocení můžete navrhnout přezkoušení, dodatečnou písemku, či jinou aktivitu za kterou lze udělit známku.
 
 
 #### Materiály

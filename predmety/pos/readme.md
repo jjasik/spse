@@ -42,6 +42,7 @@ Viz. ŠVP: [POS](svp-temata.md)
 2. Příprava a prezentace zvoleného tématu: jedna známka za pololetí (rok): váha 1.00, [viz. tipy](../../spolecne/tipy/tipy-k-prezentaci-temat.md)
 3. Cvičení: známka z každého bloku (primárně za aktivitu a snahu dokončit, vysvětlit úlohu a zdokumentovat do sešitu): váha 0.50
 4. Samostatná práce: není
+5. Poznámka: Obecně pokud usilujete o lepší hodnocení můžete navrhnout přezkoušení, dodatečnou písemku, či jinou aktivitu za kterou lze udělit známku.
 
 #### Materiály
 
