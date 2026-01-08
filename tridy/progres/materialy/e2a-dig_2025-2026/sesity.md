@@ -17,7 +17,7 @@
 | MaJa  | OK                             |                                |
 | MiSa  | OK (pěkný)                     |                                |
 | MiMi  | OK (pěkný)                     |                                |
-| MiDa  |                                |                                |
+| MiDa  |                                | OK                             |
 | PaVo  |                                | OK                             |
 | PeVi  | OK                             |                                |
 | SiJi  | OK                             |                                |
