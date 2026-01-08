@@ -50,6 +50,8 @@ Nejsou
 
 #### Nástroje
 
+1. [Součástky](soucastky/readme.md)
+
 TODO
 
 #### Bloky
