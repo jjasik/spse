@@ -52,19 +52,19 @@
 
 ##### Skupina 1
 
-| PČ   | Datum      | Obsah a materiály                                            | Hodnocení | Bez hodnocení | Poznámka          |
-| ---- | ---------- | ------------------------------------------------------------ | --------- | ------------- | ----------------- |
-| 1    | 03.09.2025 | Dema, vývojový kit                                           |           |               |                   |
-| 2    | 17.09.2025 | [Výukový přípravek, nahrání programu](https://tomaschovanec.github.io/MIT/01_Uvod.html), [Blikání LEDkou, práce s registry](https://tomaschovanec.github.io/MIT/02_Blikani_LED.html) | Ukončeno  | 1             |                   |
-| 3    | 01.10.2025 | [Převody číselných soustav, bitové operace](https://tomaschovanec.github.io/MIT/03_Bitove_operace.html), [Práce s tlačítky](https://tomaschovanec.github.io/MIT/04_Tlacitka_podminky.html) | Ukončeno  | 2             |                   |
-| 4    | 15.10.2025 | Odpadá                                                       |           |               |                   |
-| 5    | 29.10.2025 | Odpadá                                                       |           |               |                   |
-| 6    | 12.11.2025 | [Sedmisegmentový displej](https://tomaschovanec.github.io/MIT/05_Sedmisegmentovy_displej.html) | Ukončeno  | 0             |                   |
-| 7    | 26.11.2025 | [Klávesnice](https://tomaschovanec.github.io/MIT/06_Klavesnice.html) | Ukončeno  | 0             |                   |
-| 8    | 10.12.2025 | Revize písemek                                               |           |               |                   |
-| 9    | 24.12.2025 | Odpadá                                                       |           |               |                   |
-| 10   | 07.01.2025 | [Multiplex sedmisegmentového displeje](https://tomaschovanec.github.io/MIT/07_Multiplex_sedmisegmentoveho_displeje.html) | Plánováno |               | váha zůstane 0,75 |
-| 11   | 21.01.2026 |                                                              |           |               |                   |
+| PČ   | Datum      | Obsah a materiály                                            | Hodnocení | Bez hodnocení | Poznámka |
+| ---- | ---------- | ------------------------------------------------------------ | --------- | ------------- | -------- |
+| 1    | 03.09.2025 | Dema, vývojový kit                                           |           |               |          |
+| 2    | 17.09.2025 | [Výukový přípravek, nahrání programu](https://tomaschovanec.github.io/MIT/01_Uvod.html), [Blikání LEDkou, práce s registry](https://tomaschovanec.github.io/MIT/02_Blikani_LED.html) | Ukončeno  | 1             |          |
+| 3    | 01.10.2025 | [Převody číselných soustav, bitové operace](https://tomaschovanec.github.io/MIT/03_Bitove_operace.html), [Práce s tlačítky](https://tomaschovanec.github.io/MIT/04_Tlacitka_podminky.html) | Ukončeno  | 2             |          |
+| 4    | 15.10.2025 | Odpadá                                                       |           |               |          |
+| 5    | 29.10.2025 | Odpadá                                                       |           |               |          |
+| 6    | 12.11.2025 | [Sedmisegmentový displej](https://tomaschovanec.github.io/MIT/05_Sedmisegmentovy_displej.html) | Ukončeno  | 0             |          |
+| 7    | 26.11.2025 | [Klávesnice](https://tomaschovanec.github.io/MIT/06_Klavesnice.html) | Ukončeno  | 0             |          |
+| 8    | 10.12.2025 | Revize písemek                                               |           |               |          |
+| 9    | 24.12.2025 | Odpadá                                                       |           |               |          |
+| 10   | 07.01.2025 | [Multiplex sedmisegmentového displeje](https://tomaschovanec.github.io/MIT/07_Multiplex_sedmisegmentoveho_displeje.html) | Plánováno |               |          |
+| 11   | 21.01.2026 |                                                              |           |               |          |
 
 ##### Skupina 2
 

@@ -10,7 +10,7 @@
 | KoKr | NOK (=not OK, tj.nedobrý stav) |      |
 | KuVo | NOK (=not OK, tj.nedobrý stav) |      |
 | MaJo | OK                             |      |
-| MaLu |                                |      |
+| MaLu | OK (ale není vše doplněno)     |      |
 | MaJa | NOK (=not OK, tj.nedobrý stav) |      |
 | MyAd | OK                             |      |
 | PaKr | OK                             |      |
