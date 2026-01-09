@@ -41,8 +41,7 @@
 | 35   | 01.01.2026 | Odpadá                                                       |                                                              |           |               |                                                 |
 | 36   | 02.01.2026 | Odpadá                                                       |                                                              |           |               |                                                 |
 | 37   | 08.01.2026 | [kombinacni_obvody.pptx](../../predmety/dig/materialy/kombinacni_obvody.pptx) až po str.71 | organizační změny, vysvětlení písemek, Dynamický displej     |           |               |                                                 |
-| 38   | 09.01.2026 |                                                              |                                                              |           |               | dodatečné zkoušení pro: PaVo, SoPe              |
-|      |            |                                                              |                                                              |           |               |                                                 |
+| 38   | 09.01.2026 | [kombinacni_obvody.pptx](../../predmety/dig/materialy/kombinacni_obvody.pptx) až po str.71, [sekvencni_obvody.pptx](../../predmety/dig/materialy/sekvencni_obvody.pptx) až po str.5 | Dynamický displej, klopný obvod R-S (schéma)                 |           |               |                                                 |
 
 #### Prezentace
 
@@ -66,6 +65,7 @@
 | 7    | 01.12.2025 | [Dekodér a 7segmentový displej](https://github.com/jjasik/spse/tree/main/predmety/dig/bloky/cviceni/sedm-segment) |           |               |          |
 | 8    | 15.12.2025 | [Dekodér a 7segmentový displej](https://github.com/jjasik/spse/tree/main/predmety/dig/bloky/cviceni/sedm-segment) vč.čítače | Ukončeno  | 3             |          |
 | 9    | 29.12.2025 | Odpadá                                                       |           |               |          |
+|      | 12.01.2025 | [Klopný obvod R-S](../../predmety/dig/bloky/cviceni/klopny-obvod-r-s/readme.md) | Plánováno |               |          |
 
 ##### Skupina 2
 
