@@ -46,7 +46,7 @@
 | 39   | 05.01.2026 | CCNA1: dále až po 8.4.2 Default Gateway                      | vysvětlení subnet mask a množství a typické rozdělení adres v dané síti pro IPV4 |           |               |                                                 |
 | 40   | 06.01.2026 | CCNA1: dále až po 8.4.4 Host Routing Tables                  | požadované vlastnosti Default Gateway, Host Routing Tables   |           |               |                                                 |
 | 41   | 08.01.2026 | CCNA1: dále až po 8.5.2 IP Router Routing Table              | Router Routing table (directly connected, remote networks, default route) |           |               |                                                 |
-|      |            |                                                              |                                                              |           |               | prezentace témata: TODO                         |
+| 42   | 13.01.2026 |                                                              |                                                              |           |               | Sešity?                                         |
 
 #### Prezentace
 
