@@ -41,9 +41,9 @@
 | 35   | 26.12.2025 | Odpadá                                                       |                                                              |           |               |                                                 |
 | 36   | 29.12.2025 | Odpadá                                                       |                                                              |           |               |                                                 |
 | 37   | 02.01.2026 | Odpadá                                                       |                                                              |           |               |                                                 |
-| 38   | 05.01.2026 | [jazyk C](../../predmety/mit/materialy/jazyk_c.pptx) po str.60 | opakování, operátory (bitové, přiřazení), pole, funkce       |           |               |                                                 |
-| 39   | 09.01.2026 |                                                              | pole, funkce...                                              |           |               | dodatečné zkoušení pro: InRa, MaLu, MyAd, PaKr  |
-| 40   | 12.01.2026 |                                                              |                                                              |           |               |                                                 |
+| 38   | 05.01.2026 | [jazyk C](../../predmety/mit/materialy/jazyk_c.pptx) po str.60 | operátory (bitové, přiřazení), pole                          |           |               |                                                 |
+| 39   | 09.01.2026 | [jazyk C](../../predmety/mit/materialy/jazyk_c.pptx) po str.67 | pole                                                         |           |               |                                                 |
+| 40   | 12.01.2026 |                                                              | funkce, struktura programu, příklady, video (proměnné a datové typy) |           |               |                                                 |
 | 41   | 16.01.2026 |                                                              |                                                              |           |               |                                                 |
 | 42   | 19.01.2026 |                                                              |                                                              |           |               |                                                 |
 | 43   | 23.01.2026 |                                                              |                                                              |           |               | uzavření klasifikací                            |
@@ -79,4 +79,4 @@
 | 7    | 03.12.2025 | [LCD displej](https://tomaschovanec.github.io/MIT/12_LCD.html) | Ukončeno  | 0             |          |
 | 8    | 17.12.2025 | Revize písemek                                               |           |               |          |
 | 9    | 31.12.2025 | Odpadá                                                       |           |               |          |
-| 10   | 14.01.2026 |                                                              |           |               |          |
+| 10   | 14.01.2026 | Bonusová úloha                                               | Plánováno |               |          |
