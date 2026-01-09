@@ -42,8 +42,8 @@
 | 36   | 30.12.2025 | Odpadá                                                       |                                                              |           |               |                                                 |
 | 37   | 02.01.2026 | Odpadá                                                       |                                                              |           |               |                                                 |
 | 38   | 06.01.2026 | [sekvencni_obvody.pptx](../../predmety/dig/materialy/sekvencni_obvody.pptx) až po str.5 | organizační změny, vysvětlení písemek, klopný obvod R-S (schéma) |           |               |                                                 |
-| 39   | 09.01.2026 |                                                              |                                                              |           |               | dodatečné zkoušení pro: KosSt, KovSt, StTo      |
-|      |            |                                                              |                                                              |           |               | prezentace témata: TODO                         |
+| 39   | 09.01.2026 | [sekvencni_obvody.pptx](../../predmety/dig/materialy/sekvencni_obvody.pptx) až po str.5 | klopný obvod R-S (schéma)                                    |           |               |                                                 |
+| 40   | 13.01.2026 |                                                              |                                                              |           |               | dodatečné zkoušení pro: KovSt, MiPa             |
 
 #### Prezentace
 
@@ -68,6 +68,7 @@
 | 7    | 02.12.2025 | [Dekodér a 7segmentový displej](https://github.com/jjasik/spse/tree/main/predmety/dig/bloky/cviceni/sedm-segment) vč.čítače |           |               |          |
 | 8    | 16.12.2025 | [Dekodér a 7segmentový displej](https://github.com/jjasik/spse/tree/main/predmety/dig/bloky/cviceni/sedm-segment) vč.čítače | Ukončeno  | 13            |          |
 | 9    | 30.12.2025 | Odpadá                                                       |           |               |          |
+| 10   | 13.01.2026 | [Klopný obvod R-S](../../predmety/dig/bloky/cviceni/klopny-obvod-r-s/readme.md) | Plánováno |               |          |
 
 ##### Skupina 2
 
