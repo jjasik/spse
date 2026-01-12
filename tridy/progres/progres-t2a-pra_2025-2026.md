@@ -33,4 +33,5 @@ Není
 | 7    | 01.12.2025 | VHDL: úloha #3 (dvě varianty sčítačky)                       | Ukončeno  | 4             |          |
 | 8    | 15.12.2025 | Revize písemek                                               |           |               |          |
 | 9    | 29.12.2025 | Odpadá                                                       |           |               |          |
+| 10   | 12.01.2026 | detailnější probraní syntaxe jazyka, úloha: #4 (čítač)       | Plánováno |               |          |
 
