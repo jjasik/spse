@@ -70,6 +70,8 @@
 | 7    | 02.12.2025 | CCNA1: cvičení 2.9.2 Lab - Basic Switch and End Device Configuration (Packet Tracer + Lab HW) | Ukončeno  | 2             |          |
 | 8    | 16.12.2025 | Projití písemek, reload default u zařízení                   |           |               |          |
 | 9    | 30.12.2025 | Odpadá                                                       |           |               |          |
+| 10   | 13.01.2026 | CCNA1: cvičení 3.5.5                                         | Ukončeno  | 2             |          |
+| 11   | 27.01.2026 | CCNA1: 3.7.10, 4.7.1, 4.7.2                                  | Plánováno |               |          |
 
 ##### Skupina 2
 
