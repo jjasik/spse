@@ -43,7 +43,7 @@
 | 37   | 02.01.2026 | Odpadá                                                       |                                                              |           |               |                                                 |
 | 38   | 06.01.2026 | [sekvencni_obvody.pptx](../../predmety/dig/materialy/sekvencni_obvody.pptx) až po str.5 | organizační změny, vysvětlení písemek, klopný obvod R-S (schéma) |           |               |                                                 |
 | 39   | 09.01.2026 | [sekvencni_obvody.pptx](../../predmety/dig/materialy/sekvencni_obvody.pptx) až po str.5 | klopný obvod R-S (schéma)                                    |           |               |                                                 |
-| 40   | 13.01.2026 |                                                              |                                                              |           |               | dodatečné zkoušení pro: KovSt, MiPa             |
+| 40   | 13.01.2026 | [sekvencni_obvody.pptx](../../predmety/dig/materialy/sekvencni_obvody.pptx) až po str.5 | klopný obvod R-S ( přechody stavů): [video #1](https://www.youtube.com/watch?v=tvsZ4VKO44U) |           |               |                                                 |
 
 #### Prezentace
 
