@@ -43,8 +43,8 @@
 | 37   | 02.01.2026 | Odpadá                                                       |                                                              |           |               |                                                 |
 | 38   | 05.01.2026 | [jazyk C](../../predmety/mit/materialy/jazyk_c.pptx) po str.60 | operátory (bitové, přiřazení), pole                          |           |               |                                                 |
 | 39   | 09.01.2026 | [jazyk C](../../predmety/mit/materialy/jazyk_c.pptx) po str.67 | pole                                                         |           |               |                                                 |
-| 40   | 12.01.2026 |                                                              | funkce, struktura programu, příklady, video (proměnné a datové typy) |           |               |                                                 |
-| 41   | 16.01.2026 |                                                              |                                                              |           |               |                                                 |
+| 40   | 12.01.2026 | [jazyk C](../../predmety/mit/materialy/jazyk_c.pptx) po str.89 | příklady (výběr bude v testu), deklarace funkce, struktura programu, [video #1](https://www.youtube.com/watch?v=iKYx76txQO4) (část) |           |               |                                                 |
+| 41   | 16.01.2026 |                                                              |                                                              |           |               | DIG přípravky?                                  |
 | 42   | 19.01.2026 |                                                              |                                                              |           |               |                                                 |
 | 43   | 23.01.2026 |                                                              |                                                              |           |               | uzavření klasifikací                            |
 
