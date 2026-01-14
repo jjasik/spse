@@ -13,7 +13,7 @@
 | KrDa | pouze netacad     |
 | KrJa | OK                |
 | LoAd | OK                |
-| MaAl | ?                 |
+| MaAl | OK                |
 | MaOn | OK                |
 | MiDe | OK                |
 | NoJo | OK                |
