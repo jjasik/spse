@@ -33,7 +33,7 @@
 | 27   | 04.12.2025 |                                                              | prezentace témata: Sčítačka (binární), Logický komparátor    |           |               |                                                 |
 | 28   | 05.12.2025 | Odpadá                                                       |                                                              |           |               |                                                 |
 | 29   | 11.12.2025 | [kombinacni_obvody.pptx](../../predmety/dig/materialy/kombinacni_obvody.pptx) až po str.67 | doplnění: sčítačka, logický komparátor, aritmetický komparátor, generátor parity, projití témat písemky |           |               | neprobráno: BCD komparátor, BCD sčítačka        |
-| 30   | 12.12.2025 | Písemka                                                      | [Témata](../../predmety/dig/materialy/pisemka-kombinacni-obvody.md) | Ukončeno  | 5             | [Sešity](materialy/e2a-dig_2025-2026/sesity.md) |
+| 30   | 12.12.2025 | Písemka                                                      | [Témata](../../predmety/dig/materialy/pisemka-kombinacni-obvody.md) | Ukončeno  | 5             |                                                 |
 | 31   | 18.12.2025 | Odpadá                                                       |                                                              |           |               |                                                 |
 | 32   | 19.12.2025 | Odpadá                                                       |                                                              |           |               |                                                 |
 | 33   | 25.12.2025 | Odpadá                                                       |                                                              |           |               |                                                 |
@@ -42,7 +42,7 @@
 | 36   | 02.01.2026 | Odpadá                                                       |                                                              |           |               |                                                 |
 | 37   | 08.01.2026 | [kombinacni_obvody.pptx](../../predmety/dig/materialy/kombinacni_obvody.pptx) až po str.71 | organizační změny, vysvětlení písemek, Dynamický displej     |           |               |                                                 |
 | 38   | 09.01.2026 | [kombinacni_obvody.pptx](../../predmety/dig/materialy/kombinacni_obvody.pptx) až po str.71, [sekvencni_obvody.pptx](../../predmety/dig/materialy/sekvencni_obvody.pptx) až po str.5 | Dynamický displej, klopný obvod R-S (schéma)                 |           |               |                                                 |
-| 39   | 15.01.2026 |                                                              |                                                              |           |               | Sešity?                                         |
+| 39   | 15.01.2026 |                                                              |                                                              |           |               | [Sešity](materialy/e2a-dig_2025-2026/sesity.md) |
 
 #### Prezentace
 
@@ -66,7 +66,7 @@
 | 7    | 01.12.2025 | [Dekodér a 7segmentový displej](https://github.com/jjasik/spse/tree/main/predmety/dig/bloky/cviceni/sedm-segment) |           |               |          |
 | 8    | 15.12.2025 | [Dekodér a 7segmentový displej](https://github.com/jjasik/spse/tree/main/predmety/dig/bloky/cviceni/sedm-segment) vč.čítače | Ukončeno  | 3             |          |
 | 9    | 29.12.2025 | Odpadá                                                       |           |               |          |
-|      | 12.01.2025 | [Klopný obvod R-S](../../predmety/dig/bloky/cviceni/klopny-obvod-r-s/readme.md) | Plánováno |               |          |
+| 10   | 12.01.2025 | [Klopný obvod R-S](../../predmety/dig/bloky/cviceni/klopny-obvod-r-s/readme.md) | Ukončeno  | 3             |          |
 
 ##### Skupina 2
 
