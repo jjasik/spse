@@ -79,4 +79,4 @@
 | 7    | 03.12.2025 | [LCD displej](https://tomaschovanec.github.io/MIT/12_LCD.html) | Ukončeno  | 0             |          |
 | 8    | 17.12.2025 | Revize písemek                                               |           |               |          |
 | 9    | 31.12.2025 | Odpadá                                                       |           |               |          |
-| 10   | 14.01.2026 | Bonusová úloha                                               | Plánováno |               |          |
+| 10   | 14.01.2026 | Sedmisegmentový displej: rotující text                       | Ukončeno  | 10            |          |
