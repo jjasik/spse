@@ -73,6 +73,8 @@ Viz. ŠVP: [POS](svp-temata.md)
 
 ##### Teorie
 
+viz.sekce Materiály
+
 ##### Cvičení
 
 1. 2.ročník:
@@ -95,4 +97,10 @@ Viz. ŠVP: [POS](svp-temata.md)
    17. * 7.1.6 Lab - Use Wireshark to Examine Ethernet Frames Topology
    18. * 7.2.7 Lab - View Network Device MAC Addresses
    19. * 7.3.7 Lab - View the Switch MAC Address Table
+   20. ?9.1.3 Packet Tracer - Identify MAC and IP Addresses
+   21. ?9.2.9 Packet Tracer - Examine the ARP Table
+   22. ?9.3.4 Packet Tracer - IPv6 Neighbor Discovery
+   23. ?10.1.4 Packet Tracer - Configure Initial Router Settings
+   24. ?10.3.4 Packet Tracer - Connect a Router to a LAN
+   25. ?10.3.5 Packet Tracer - Troubleshoot Default Gateway Issues
 
