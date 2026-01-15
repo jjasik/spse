@@ -21,6 +21,15 @@
 | MZH115S     | 4-ch, 2-input, NAND gates (DTL)                              |                 | InV1Stock |
 | MH54ALS51   | dual 2-wide AND-OR-INVERT                                    |                 | InV1Stock |
 | MH74ALS21   | 2-ch, 4-input, 2-V to 6-V 5.2 mA drive strength AND gate     |                 | InV1Stock |
+| MH74ALS192  | Dekadický synchronní vratný čítač                            |                 | InMyBox   |
+| MH74193     | Binární synchronní vratný čítač                              |                 | InMyBox   |
+| MH74ALS74   | Dvojice klopných obvodů D                                    |                 | InMyBox   |
+| SN74LS83AN  | 4-BIT BINARY FULL ADDER WITH FAST CARRY                      |                 | InMyBox   |
+| MH8641      | Čtyřnásobný budič/přijímač ... (UNIBUS)                      |                 | InV1Stock |
+| MH74ALS166  | Parallel-load 8-bit shift registers                          | sn54166.pdf     | InMyBox   |
+| MZH165S     | 4x převodník DTL / TTL                                       |                 | InV1Stock |
+| MH8224      | Hodinový a budící obvod ... MHB8080A                         |                 | InV1Stock |
+| MH54ALS51   | Dvojice pozitivních logických členů AND-OR-INVERT            |                 | InV1Stock |
 
 #### Display
 
