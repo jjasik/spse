@@ -36,12 +36,14 @@ Viz. ŠVP: [MIT](svp-temata.md)
 
 #### Materiály
 
-1. Kniha [PROGVRAMURJEME V JAZYKU C](materialy/programujeme-avr.pdf)
+1. Kniha [PROGRAMUJEME V JAZYKU C](materialy/programujeme-avr.pdf)
 1. Prezentace k předmětu:
    1. [modely_pocitacu.pptx](materialy/modely_pocitacu.pptx)
    2. [pameti.pptx](materialy/pameti.pptx)
    3. [avr_intro.pptx](materialy/avr_intro.pptx)
    4. [avr_instrukce.pptx](materialy/avr_instrukce.pptx)
+   5. [jazyk_c.pptx](materialy/jazyk_c.pptx)
+   6. [avr_preruseni.pptx](materialy/avr_preruseni.pptx)
 
 #### Dema
 
@@ -57,6 +59,8 @@ Viz. ŠVP: [MIT](svp-temata.md)
 #### Bloky
 
 ##### Teorie
+
+viz.sekce Materiály
 
 ##### Cvičení
 

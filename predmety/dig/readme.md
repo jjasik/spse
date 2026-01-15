@@ -41,6 +41,8 @@ Viz. ŠVP: [DIG](svp-temata.md)
    3. [kodovani_dat.pptx](materialy/kodovani_dat.pptx)
    4. [logicke_funkce.pptx](materialy/logicke_funkce.pptx)
    5. [kombinacni_obvody.pptx](materialy/kombinacni_obvody.pptx) ([errata-1](materialy/kombinacni_obvody_errata-1.pptx))
+   6. [sekvencni_obvody.pptx](materialy/sekvencni_obvody.pptx)
+   7. [klopne_obvody.pptx](materialy/klopne_obvody.pptx)
 2. Sbírky příkladů:
    1. [sbirka-prikladu-1.pdf](materialy/sbirka-prikladu-1.pdf)
 
@@ -51,13 +53,14 @@ Nejsou
 
 #### Nástroje
 
+1. [Nepájivé kontaktní pole](nastroje/nepajive-pole/nepaj-pole-pic-1.jpg)
 1. [Součástky](soucastky/readme.md)
-
-TODO
 
 #### Bloky
 
 ##### Teorie
+
+viz.sekce Materiály
 
 ##### Cvičení
 
