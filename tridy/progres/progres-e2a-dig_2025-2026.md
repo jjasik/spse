@@ -42,7 +42,8 @@
 | 36   | 02.01.2026 | Odpadá                                                       |                                                              |           |               |                                                 |
 | 37   | 08.01.2026 | [kombinacni_obvody.pptx](../../predmety/dig/materialy/kombinacni_obvody.pptx) až po str.71 | organizační změny, vysvětlení písemek, Dynamický displej     |           |               |                                                 |
 | 38   | 09.01.2026 | [kombinacni_obvody.pptx](../../predmety/dig/materialy/kombinacni_obvody.pptx) až po str.71, [sekvencni_obvody.pptx](../../predmety/dig/materialy/sekvencni_obvody.pptx) až po str.5 | Dynamický displej, klopný obvod R-S (schéma)                 |           |               |                                                 |
-| 39   | 15.01.2026 |                                                              |                                                              |           |               | [Sešity](materialy/e2a-dig_2025-2026/sesity.md) |
+| 39   | 15.01.2026 | [sekvencni_obvody.pptx](../../predmety/dig/materialy/sekvencni_obvody.pptx) až po str.26 | klopný obvod R-S ( přechody stavů): [video #1](https://www.youtube.com/watch?v=tvsZ4VKO44U), [video #2](https://www.youtube.com/watch?v=XYQB6ObFcbs), pojmy: Asynchronní, Synchronní (Úrovňové/Hranové) |           |               |                                                 |
+| 40   | 16.01.2026 |                                                              |                                                              |           |               | [Sešity](materialy/e2a-dig_2025-2026/sesity.md) |
 
 #### Prezentace
 
