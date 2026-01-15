@@ -46,7 +46,9 @@
 | 39   | 05.01.2026 | CCNA1: dále až po 8.4.2 Default Gateway                      | vysvětlení subnet mask a množství a typické rozdělení adres v dané síti pro IPV4 |           |               |                                                              |
 | 40   | 06.01.2026 | CCNA1: dále až po 8.4.4 Host Routing Tables                  | požadované vlastnosti Default Gateway, Host Routing Tables   |           |               |                                                              |
 | 41   | 08.01.2026 | CCNA1: dále až po 8.5.2 IP Router Routing Table              | Router Routing table (directly connected, remote networks, default route) |           |               |                                                              |
-| 42   | 13.01.2026 | CCNA1: dále až po 8.5.6 Introduction to an IPv4 Routing Table | Static Routing, Dynamic Routing, command: show ip route      |           |               | [Sešity](materialy/t2a-pos_2025-2026/sesity.md), další prezentace |
+| 42   | 13.01.2026 | CCNA1: dále až po 8.5.6 Introduction to an IPv4 Routing Table | Static Routing, Dynamic Routing, command: show ip route      |           |               |                                                              |
+| 43   | 15.01.2026 | CCNA1: dále až po 9.2.2 ARP Functions                        | host specific route+algoritmus směrování IP protokolu, ARP basic functions, ARP table |           |               |                                                              |
+| 44   | 20.01.2026 |                                                              |                                                              |           |               | [Sešity](materialy/t2a-pos_2025-2026/sesity.md), půjčení DIG sešitu, další prezentace |
 
 #### Prezentace
 
