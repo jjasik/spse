@@ -52,7 +52,7 @@
 | 46   | 03.02.2026 |                                                              |                                                              |           |               |                                                 |
 | 47   | 06.02.2026 | Písemka                                                      |                                                              |           |               |                                                 |
 
-Odložené témata: BCD komparátor/sčítačka, fyzikální parametry logických obvodů, technologie TTL a CMOS
+Odložené témata: BCD komparátor/sčítačka, fyzikální parametry logických obvodů, technologie TTL a CMOS, Mealy vs. Moore machines
 
 #### Prezentace
 
