@@ -1,4 +1,4 @@
-| ID    | 09.01.2026                     |
+| ID    | 18.01.2026                     |
 | ----- | ------------------------------ |
 | BabJa | OK                             |
 | BaTo  | NOK (=not OK, tj.nedobrý stav) |
@@ -21,7 +21,7 @@
 | PaVo  | OK                             |
 | PeVi  | OK                             |
 | SiJi  | OK                             |
-| SoPe  |                                |
+| SoPe  | OK                             |
 | StMe  | OK                             |
 | SaSe  | OK (pěkný)                     |
 | SiFi  | OK                             |
