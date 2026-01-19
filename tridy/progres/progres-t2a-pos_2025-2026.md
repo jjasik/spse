@@ -49,6 +49,11 @@
 | 42   | 13.01.2026 | CCNA1: dále až po 8.5.6 Introduction to an IPv4 Routing Table | Static Routing, Dynamic Routing, command: show ip route      |           |               |                                                              |
 | 43   | 15.01.2026 | CCNA1: dále až po 9.2.2 ARP Functions                        | host specific route+algoritmus směrování IP protokolu, ARP basic functions, ARP table |           |               |                                                              |
 | 44   | 20.01.2026 |                                                              |                                                              |           |               | [Sešity](materialy/t2a-pos_2025-2026/sesity.md), půjčení DIG sešitu, další prezentace |
+| 45   | 22.01.2026 |                                                              |                                                              |           |               |                                                              |
+| 46   | 27.01.2026 |                                                              |                                                              |           |               |                                                              |
+| 47   | 29.01.2026 |                                                              |                                                              |           |               |                                                              |
+| 48   | 03.02.2026 |                                                              |                                                              |           |               |                                                              |
+| 49   | 05.02.2026 | Písemka                                                      |                                                              |           |               |                                                              |
 
 #### Prezentace
 
@@ -75,7 +80,7 @@ Možné témata: OSPF, více detailů k příkladu routing table
 | 8    | 16.12.2025 | Projití písemek, reload default u zařízení                   |           |               |          |
 | 9    | 30.12.2025 | Odpadá                                                       |           |               |          |
 | 10   | 13.01.2026 | CCNA1: cvičení 3.5.5                                         | Ukončeno  | 2             |          |
-| 11   | 27.01.2026 | CCNA1: 3.7.10, 4.7.1, 4.7.2                                  | Plánováno |               |          |
+| 11   | 27.01.2026 | CCNA1: 3.7.10                                                | Plánováno |               |          |
 
 ##### Skupina 2
 
@@ -91,4 +96,4 @@ Možné témata: OSPF, více detailů k příkladu routing table
 | 8    | 09.12.2025 | CCNA1: cvičení 2.9.2 Lab - Basic Switch and End Device Configuration (Packet Tracer + Lab HW) | Ukončeno  | 4             |                                                      |
 | 9    | 23.12.2025 | Odpadá                                                       |           |               |                                                      |
 | 10   | 06.01.2025 | CCNA1: cvičení 3.5.5                                         | Ukončeno  | 3             |                                                      |
-| 11   | 20.01.2025 | CCNA1: cvičení 3.7.10, 4.7.1, 4.7.2                          | Plánováno |               |                                                      |
+| 11   | 20.01.2025 | CCNA1: cvičení 3.7.10                                        | Plánováno |               |                                                      |
