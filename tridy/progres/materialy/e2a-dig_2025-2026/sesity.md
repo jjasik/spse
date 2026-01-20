@@ -27,7 +27,7 @@
 | SiFi   | OK                             |
 | TomaMi | OK                             |
 | ToOn   | OK                             |
-| TomeMi |                                |
+| TomeMi | OK (pěkný)                     |
 | VaSt   | OK                             |
 | ZaEv   | OK                             |
 
