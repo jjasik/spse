@@ -13,8 +13,9 @@ Není
 | 1    | 03.09.2025 | Organizace předmětu praxe, BOZP, hygiena práce, požární ochrana, zásady první pomoci. |           |               |          |
 | 2    | 10.12.2025 | Prošli jsme stránku [PRA](../../predmety/pra/readme.md), vysvětlili pojem FPGA a porovnání vs.MCU, dále info ohledně vývojového kitu: [Kit OMDAZZ](../../predmety/pra/fpga/altera-cyclone4/devbrd/omdazz/readme.md), vč. přehledu základní dokumentace k našemu FPGA, poté první úloha: [Zprovoznění nástrojů, jednoduchá úloha](../../predmety/pra/bloky/zprovozneni/readme.md) |           |               |          |
 | 3    | 17.12.2025 | Pokračování na první úloze                                   |           |               |          |
-| 4    | 07.01.2025 | úloha: Zprovoznění nástrojů, jednoduchá úloha - dokončení    | Ukončeno  | 0             |          |
-| 5    | 14.01.2025 | VHDL: úloha #1 (log. funkce), #2 (4tl. vs. 4LED)             | Ukončeno  | 0/0           |          |
+| 4    | 07.01.2026 | úloha: Zprovoznění nástrojů, jednoduchá úloha - dokončení    | Ukončeno  | 0             |          |
+| 5    | 14.01.2026 | VHDL: úloha #1 (log. funkce), #2 (4tl. vs. 4LED)             | Ukončeno  | 0/0           |          |
+| 6    | 21.01.2026 | probraní syntaxe jazyka, VHDL: úloha #3 (dvě varianty sčítačky) | Plánováno |               |          |
 |      | 25.03.2025 | Střídání skupin, další: Skupina 3                            |           |               |          |
 
 ##### Skupina 2 (první v pořadí ve školním roce v mé učebně, cca 10 žáků)
