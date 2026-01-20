@@ -47,8 +47,9 @@
 | 41   | 16.01.2026 | [jazyk C](../../predmety/mit/materialy/jazyk_c.pptx) po str.89, [přerušení](../../predmety/mit/materialy/avr_preruseni.pptx) po str.6 | [video #1](https://www.youtube.com/watch?v=iKYx76txQO4) (části: 5, 6, 8, 9), [video #1](https://www.youtube.com/watch?v=AkRwPquXOws) (části: 3 a dále), pojem RESET |           |               |                                                 |
 | 42   | 19.01.2026 | [přerušení](../../predmety/mit/materialy/avr_preruseni.pptx) po str.11 | zdroje RESETU, koncepty: polling/interrupts, procedura přerušení, funkce zásobníku, tabulka možných zdrojů přerušení |           |               |                                                 |
 | 43   | 23.01.2026 | TODO                                                         |                                                              |           |               |                                                 |
-| 44   | 26.01.2026 | Písemka                                                      | témata od minulé písemky (TODO seznam)                       |           |               | známka bude do dalšího pololetí                 |
-| 45   | 30.01.2026 | Odpadá                                                       |                                                              |           |               |                                                 |
+| 44   | 23.01.2026 | TODO                                                         |                                                              |           |               |                                                 |
+| 45   | 26.01.2026 | Písemka                                                      | témata od minulé písemky (TODO seznam)                       |           |               | známka bude do dalšího pololetí                 |
+| 46   | 30.01.2026 | Odpadá                                                       |                                                              |           |               |                                                 |
 
 Odložené témata: TODO
 
