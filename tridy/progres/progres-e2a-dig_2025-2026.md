@@ -45,21 +45,22 @@
 | 39   | 15.01.2026 | [sekvencni_obvody.pptx](../../predmety/dig/materialy/sekvencni_obvody.pptx) až po str.26 | klopný obvod R-S ( přechody stavů): [video #1](https://www.youtube.com/watch?v=tvsZ4VKO44U), [video #2](https://www.youtube.com/watch?v=XYQB6ObFcbs), pojmy: Asynchronní, Synchronní (Úrovňové/Hranové) |           |               |                                                 |
 | 40   | 16.01.2026 | [sekvencni_obvody.pptx](../../predmety/dig/materialy/sekvencni_obvody.pptx) až po str.34 | Metody popisu sekvenčního obvodu (Časový diagram, Stavový diagram, Vývojová tabulka) |           |               |                                                 |
 | 40   | 19.01.2026 | [sekvencni_obvody.pptx](../../predmety/dig/materialy/sekvencni_obvody.pptx) až po str.41 | Metody popisu sekvenčního obvodu (Časový diagram, Stavový diagram, Vývojová tabulka) |           |               | [Sešity](materialy/e2a-dig_2025-2026/sesity.md) |
-| 41   | 22.01.2026 |                                                              |                                                              |           |               | další prezentace                                |
-| 42   | 23.01.2026 |                                                              |                                                              |           |               |                                                 |
-| 43   | 29.01.2026 | Odpadá?                                                      |                                                              |           |               |                                                 |
-| 44   | 30.01.2026 | Odpadá                                                       |                                                              |           |               |                                                 |
-| 45   | 05.02.2026 |                                                              |                                                              |           |               |                                                 |
-| 46   | 06.02.2026 | Písemka                                                      |                                                              |           |               |                                                 |
+| 41   | 22.01.2026 | [sekvencni_obvody.pptx](../../predmety/dig/materialy/sekvencni_obvody.pptx) až po str.42 (příklad 3), +str.45 Základní typy sekvenčních obvodů, [klopne_obvody.pptx](../../predmety/dig/materialy/klopne_obvody.pptx) až po str.6 (Symboly) | Stavový diagram: příklad                                     |           |               |                                                 |
+| 42   | 22.01.2026 | [klopne_obvody.pptx](../../predmety/dig/materialy/klopne_obvody.pptx) až po str.22 | R-S: blokové schéma, přechodová tabulka, časový diagram, R-S (s povolovacím vstupem): blokové schéma, [video #1](https://www.youtube.com/watch?v=8d2d03xauBU), D: jeho vznik z obvodu R-S, přechodová tabulka, D (s povolovacím vstupem): přechodová tabulka |           |               |                                                 |
+| 43   | 23.01.2026 |                                                              |                                                              |           |               |                                                 |
+| 44   | 29.01.2026 |                                                              |                                                              |           |               | určit plán na další prezentaci                  |
+| 45   | 30.01.2026 | Odpadá                                                       |                                                              |           |               |                                                 |
+| 46   | 05.02.2026 |                                                              |                                                              |           |               |                                                 |
+| 47   | 06.02.2026 | Písemka                                                      |                                                              |           |               |                                                 |
 
-Odložené témata: BCD komparátor/sčítačka, fyzikální parametry logických obvodů, technologie TTL a CMOS, Mealy vs. Moore machines
+Odložené témata: BCD komparátor/sčítačka, fyzikální parametry logických obvodů, technologie TTL a CMOS, Mealy vs. Moore state machines, Hazardní stavy
 
 #### Prezentace
 
-| PČ   | Datum      | Téma                   | Autoři      |
-| ---- | ---------- | ---------------------- | ----------- |
-| 1    | 04.12.2025 | SČÍTAČKA A  KOMPARÁTOR | ToOn, SaSe  |
-| 2    |            |                        | BabJa, MaJa |
+| PČ   | Datum      | Téma                                                         | Autoři      |
+| ---- | ---------- | ------------------------------------------------------------ | ----------- |
+| 1    | 04.12.2025 | SČÍTAČKA A  KOMPARÁTOR                                       | ToOn, SaSe  |
+| 2    | 23.01.2025 | [sekvencni_obvody.pptx](../../predmety/dig/materialy/sekvencni_obvody.pptx) až po str.42 (příklad 3): řešení přechodů, testovací sekvence | BabJa, MaJa |
 
 Možné témata: TODO
 
