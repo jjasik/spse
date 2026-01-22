@@ -49,11 +49,13 @@
 | 42   | 13.01.2026 | CCNA1: dále až po 8.5.6 Introduction to an IPv4 Routing Table | Static Routing, Dynamic Routing, command: show ip route      |           |               |                                                 |
 | 43   | 15.01.2026 | CCNA1: dále až po 9.2.2 ARP Functions                        | host specific route+algoritmus směrování IP protokolu, ARP basic functions, ARP table |           |               |                                                 |
 | 44   | 20.01.2026 | CCNA1: dále až po 10.0. Introduction                         | ARP Request, ARP Reply, show ip arp command, ARP issues, IPv6 Neighbor/Router Discovery |           |               | [Sešity](materialy/t2a-pos_2025-2026/sesity.md) |
-| 45   | 22.01.2026 |                                                              |                                                              |           |               | inspekce, další prezentace                      |
-| 46   | 27.01.2026 |                                                              |                                                              |           |               |                                                 |
+| 45   | 22.01.2026 | CCNA1: dále až po 10.2.3 Verify Interface Configuration      | Basic Router Configuration Steps, Configure Interfaces       |           |               |                                                 |
+| 46   | 27.01.2026 |                                                              |                                                              |           |               | určit plán na další prezentaci                  |
 | 47   | 29.01.2026 |                                                              |                                                              |           |               |                                                 |
 | 48   | 03.02.2026 |                                                              |                                                              |           |               |                                                 |
 | 49   | 05.02.2026 | Písemka                                                      |                                                              |           |               |                                                 |
+
+Odložené témata: konfigurační možnosti malého domácího routeru
 
 #### Prezentace
 
@@ -62,7 +64,7 @@
 | 1    | 09.12.2025 | FRAGMENTACE v IPV4 | VyLu, KoMa |
 | 2    |            |                    | JaVi, GeMa |
 
-Možné témata: OSPF, více detailů k příkladu routing table
+Možné témata: OSPF a více detailů k příkladu routing table (pro router)
 
 #### Cvičení
 
