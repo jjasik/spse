@@ -44,14 +44,14 @@
 | 38   | 05.01.2026 | [jazyk C](../../predmety/mit/materialy/jazyk_c.pptx) po str.60 | operátory (bitové, přiřazení), pole                          |           |               |                                                 |
 | 39   | 09.01.2026 | [jazyk C](../../predmety/mit/materialy/jazyk_c.pptx) po str.67 | pole                                                         |           |               |                                                 |
 | 40   | 12.01.2026 | [jazyk C](../../predmety/mit/materialy/jazyk_c.pptx) po str.89 | příklady (výběr bude v testu), deklarace funkce, struktura programu, [video #1](https://www.youtube.com/watch?v=iKYx76txQO4) (část) |           |               |                                                 |
-| 41   | 16.01.2026 | [jazyk C](../../predmety/mit/materialy/jazyk_c.pptx) po str.89, [přerušení](../../predmety/mit/materialy/avr_preruseni.pptx) po str.6 | [video #1](https://www.youtube.com/watch?v=iKYx76txQO4) (části: 5, 6, 8, 9), [video #1](https://www.youtube.com/watch?v=AkRwPquXOws) (části: 3 a dále), pojem RESET |           |               |                                                 |
+| 41   | 16.01.2026 | [jazyk C](../../predmety/mit/materialy/jazyk_c.pptx) po str.89, [přerušení](../../predmety/mit/materialy/avr_preruseni.pptx) po str.6 | [video #1](https://www.youtube.com/watch?v=iKYx76txQO4) (části: 5, 6, 8, 9), [video #2](https://www.youtube.com/watch?v=AkRwPquXOws) (části: 3 a dále), pojem RESET |           |               |                                                 |
 | 42   | 19.01.2026 | [přerušení](../../predmety/mit/materialy/avr_preruseni.pptx) po str.11 | zdroje RESETU, koncepty: polling/interrupts, procedura přerušení, funkce zásobníku, tabulka možných zdrojů přerušení |           |               |                                                 |
-| 43   | 23.01.2026 |                                                              |                                                              |           |               |                                                 |
-| 44   | 23.01.2026 |                                                              |                                                              |           |               |                                                 |
-| 45   | 26.01.2026 | Písemka                                                      | [Témata](../../predmety/mit/materialy/pisemka-c-prerus-cv.md) | Plánováno |               | známka bude do dalšího pololetí                 |
+| 43   | 23.01.2026 | [přerušení](../../predmety/mit/materialy/avr_preruseni.pptx) po str.27 | Uspořádání paměti programu [Tabule](materialy/e3b-mit_2025-2026/tabule-004.jpg), obslužný program přerušení (funkce ISR), globální/lokální povolení, rizika a doporučení při použití přerušení, příklad [Tabule](materialy/e3b-mit_2025-2026/tabule-005.jpg) |           |               |                                                 |
+| 44   | 23.01.2026 | [přerušení](../../predmety/mit/materialy/avr_preruseni.pptx) po str.27 | [video #1](https://www.youtube.com/watch?v=7vsHKwJp1Jk)      |           |               |                                                 |
+| 45   | 26.01.2026 | Písemka                                                      | [Témata](../../predmety/mit/materialy/pisemka-c-prerus-cv.md) | Plánováno |               |                                                 |
 | 46   | 30.01.2026 | Odpadá                                                       |                                                              |           |               |                                                 |
 
-Odložené témata: TODO
+Odložené témata:
 
 #### Cvičení
 
