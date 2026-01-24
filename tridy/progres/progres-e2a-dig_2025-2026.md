@@ -47,7 +47,7 @@
 | 40   | 19.01.2026 | [sekvencni_obvody.pptx](../../predmety/dig/materialy/sekvencni_obvody.pptx) až po str.41 | Metody popisu sekvenčního obvodu (Časový diagram, Stavový diagram, Vývojová tabulka) |           |               | [Sešity](materialy/e2a-dig_2025-2026/sesity.md) |
 | 41   | 22.01.2026 | [sekvencni_obvody.pptx](../../predmety/dig/materialy/sekvencni_obvody.pptx) až po str.42 (příklad 3), +str.45 Základní typy sekvenčních obvodů, [klopne_obvody.pptx](../../predmety/dig/materialy/klopne_obvody.pptx) až po str.6 (Symboly) | Stavový diagram: příklad                                     |           |               |                                                 |
 | 42   | 22.01.2026 | [klopne_obvody.pptx](../../predmety/dig/materialy/klopne_obvody.pptx) až po str.22 | R-S: blokové schéma, přechodová tabulka, časový diagram, R-S (s povolovacím vstupem): blokové schéma, [video #1](https://www.youtube.com/watch?v=8d2d03xauBU), D: jeho vznik z obvodu R-S, přechodová tabulka, D (s povolovacím vstupem): přechodová tabulka |           |               |                                                 |
-| 43   | 23.01.2026 |                                                              |                                                              |           |               |                                                 |
+| 43   | 23.01.2026 | [klopne_obvody.pptx](../../predmety/dig/materialy/klopne_obvody.pptx) až po str.26 (příště) | Stavový diagram: příklad - dořešení, [video #1](https://www.youtube.com/watch?v=yhy-QFU06Po) D (s povolovacím vstupem) |           |               |                                                 |
 | 44   | 29.01.2026 |                                                              |                                                              |           |               | určit plán na další prezentaci                  |
 | 45   | 30.01.2026 | Odpadá                                                       |                                                              |           |               |                                                 |
 | 46   | 05.02.2026 |                                                              |                                                              |           |               |                                                 |
@@ -57,10 +57,10 @@ Odložené témata: BCD komparátor/sčítačka, fyzikální parametry logickýc
 
 #### Prezentace
 
-| PČ   | Datum      | Téma                                                         | Autoři      |
-| ---- | ---------- | ------------------------------------------------------------ | ----------- |
-| 1    | 04.12.2025 | SČÍTAČKA A  KOMPARÁTOR                                       | ToOn, SaSe  |
-| 2    | 23.01.2025 | [sekvencni_obvody.pptx](../../predmety/dig/materialy/sekvencni_obvody.pptx) až po str.42 (příklad 3): řešení přechodů, testovací sekvence | BabJa, MaJa |
+| PČ   | Datum      | Téma                   | Autoři      |
+| ---- | ---------- | ---------------------- | ----------- |
+| 1    | 04.12.2025 | SČÍTAČKA A  KOMPARÁTOR | ToOn, SaSe  |
+| 2    | 29.01.2025 | Technologie TTL        | BabJa, MaJa |
 
 Možné témata: TODO
 
