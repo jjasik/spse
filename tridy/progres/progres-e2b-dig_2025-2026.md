@@ -45,14 +45,14 @@
 | 39   | 09.01.2026 | [sekvencni_obvody.pptx](../../predmety/dig/materialy/sekvencni_obvody.pptx) až po str.5 | klopný obvod R-S (schéma)                                    |           |               |                                                 |
 | 40   | 13.01.2026 | [sekvencni_obvody.pptx](../../predmety/dig/materialy/sekvencni_obvody.pptx) až po str.5 | klopný obvod R-S ( přechody stavů): [video #1](https://www.youtube.com/watch?v=tvsZ4VKO44U) |           |               |                                                 |
 | 41   | 16.01.2026 | [sekvencni_obvody.pptx](../../predmety/dig/materialy/sekvencni_obvody.pptx) až po str.33 | [video #2](https://www.youtube.com/watch?v=XYQB6ObFcbs), pojmy: Asynchronní, Synchronní (Úrovňové/Hranové), Metody popisu sekvenčního obvodu (Časový diagram, Stavový diagram, Vývojová tabulka) |           |               |                                                 |
-| 42   | 20.01.2026 | [sekvencni_obvody.pptx](../../predmety/dig/materialy/sekvencni_obvody.pptx) až po str.38 | Metody popisu sekvenčního obvodu (Časový diagram, Stavový diagram, Vývojová tabulka), příklad |           |               |                                                 |
-| 43   | 23.01.2026 |                                                              |                                                              |           |               | další prezentace                                |
-| 44   | 27.01.2026 |                                                              |                                                              |           |               |                                                 |
+| 42   | 20.01.2026 | [sekvencni_obvody.pptx](../../predmety/dig/materialy/sekvencni_obvody.pptx) až po str.38 | Metody popisu sekvenčního obvodu (Časový diagram, Stavový diagram, Vývojová tabulka), příklad 1 |           |               |                                                 |
+| 43   | 23.01.2026 | [sekvencni_obvody.pptx](../../predmety/dig/materialy/sekvencni_obvody.pptx) až po str.45 | příklad 2+3, Základní typy sekvenčních obvodů                |           |               |                                                 |
+| 44   | 27.01.2026 |                                                              | příklady?                                                    |           |               |                                                 |
 | 45   | 30.01.2026 | Odpadá                                                       |                                                              |           |               |                                                 |
-| 46   | 03.02.2026 |                                                              |                                                              |           |               |                                                 |
+| 46   | 03.02.2026 |                                                              |                                                              |           |               | určit plán na další prezentaci                  |
 | 47   | 06.02.2026 | Písemka                                                      |                                                              |           |               |                                                 |
 
-Odložené témata: BCD komparátor/sčítačka, fyzikální parametry logických obvodů, technologie TTL a CMOS, Mealy vs. Moore machines
+Odložené témata: BCD komparátor/sčítačka, fyzikální parametry logických obvodů, technologie TTL a CMOS, Mealy vs. Moore machines, Hazardní stavy
 
 #### Prezentace
 
@@ -60,7 +60,7 @@ Odložené témata: BCD komparátor/sčítačka, fyzikální parametry logickýc
 | ---- | ---------- | ---------------------- | ----------- |
 | 1    | 28.11.2025 | SČÍTAČKA A  KOMPARÁTOR | KoPe, MiPa  |
 | 2    | 05.12.2025 | Dynamický displej      | KaTo, KrMa  |
-| 3    |            |                        | KosSt, OnMa |
+| 3    | 03.02.2026 | Technologie TTL        | KosSt, OnMa |
 
 Možné témata: TODO
 
