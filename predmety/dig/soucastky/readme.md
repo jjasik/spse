@@ -30,6 +30,12 @@
 | MZH165S     | 4x převodník DTL / TTL                                       |                 | InV1Stock |
 | MH8224      | Hodinový a budící obvod ... MHB8080A                         |                 | InV1Stock |
 | MH54ALS51   | Dvojice pozitivních logických členů AND-OR-INVERT            |                 | InV1Stock |
+| SN74LS85N   | 4-bit magnitude comparators                                  | sn74ls85.pdf    | InMyBox   |
+| SN74LS194AN | 4-bit Bidirectional universal shift registers                | sn74ls194a.pdf  | InMyBox   |
+| SN74LS92    | Divide-By-Twelve Counter                                     | sn74ls92.pdf    | InMyBox   |
+| SN74LS137N  | 3-LINE TO 8-LINE DECODERS/DEMULTIPLEXERS                     | sn54ls137.pdf   | InMyBox   |
+| T74LS196BI  | 4-STAGE PRESETTABLE RIPPLE COUNTERS                          |                 | InMyBox   |
+| NE555N      | Single Precision Timer                                       | ne555.pdf       | InMyBox   |
 
 #### Display
 
