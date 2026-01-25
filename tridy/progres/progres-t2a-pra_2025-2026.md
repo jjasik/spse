@@ -35,5 +35,5 @@ Není
 | 8    | 15.12.2025 | Revize písemek                                               |           |               |          |
 | 9    | 29.12.2025 | Odpadá                                                       |           |               |          |
 | 10   | 12.01.2026 | VHDL: úloha: #4 (čítač)                                      | Plánováno | 11            |          |
-| 11   | 26.01.2026 | detailnější probraní syntaxe jazyka...                       |           |               |          |
+| 11   | 26.01.2026 |                                                              |           |               |          |
 
