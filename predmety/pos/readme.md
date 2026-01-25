@@ -103,4 +103,4 @@ viz.sekce Materiály
    23. ?10.1.4 Packet Tracer - Configure Initial Router Settings
    24. ?10.3.4 Packet Tracer - Connect a Router to a LAN
    25. ?10.3.5 Packet Tracer - Troubleshoot Default Gateway Issues
-
+   26. ?10.4.3 Lab - Build a Switch and Router Network
