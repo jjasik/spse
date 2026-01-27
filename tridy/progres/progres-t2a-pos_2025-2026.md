@@ -83,7 +83,7 @@ Možné témata: OSPF (či nějaký jiný routing protocol) a více detailů k p
 | 8    | 16.12.2025 | Projití písemek, reload default u zařízení                   |           |               |          |
 | 9    | 30.12.2025 | Odpadá                                                       |           |               |          |
 | 10   | 13.01.2026 | CCNA1: cvičení 3.5.5                                         | Ukončeno  | 2             |          |
-| 11   | 27.01.2026 | CCNA1: 3.7.10, 7.2.7, 7.3.7                                  | Plánováno |               |          |
+| 11   | 27.01.2026 | CCNA1: 3.7.10/7.2.7/7.3.7                                    | Ukončeno  | 2/5/13        |          |
 
 ##### Skupina 2
 
