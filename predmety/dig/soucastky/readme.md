@@ -36,6 +36,7 @@
 | SN74LS137N  | 3-LINE TO 8-LINE DECODERS/DEMULTIPLEXERS                     | sn54ls137.pdf   | InMyBox   |
 | T74LS196BI  | 4-STAGE PRESETTABLE RIPPLE COUNTERS                          |                 | InMyBox   |
 | NE555N      | Single Precision Timer                                       | ne555.pdf       | InMyBox   |
+| SN74LS08    | 4-ch, 2-input, 4.75-V to 5.25-V 16-mA drive strength bipolar AND gate |                 | InV1Stock |
 
 #### Display
 
