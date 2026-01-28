@@ -80,7 +80,7 @@ Možné témata: TODO
 | 8    | 16.12.2025 | [Dekodér a 7segmentový displej](https://github.com/jjasik/spse/tree/main/predmety/dig/bloky/cviceni/sedm-segment) vč.čítače | Ukončeno  | 13            |          |
 | 9    | 30.12.2025 | Odpadá                                                       |           |               |          |
 | 10   | 13.01.2026 | [Klopný obvod R-S](../../predmety/dig/bloky/cviceni/klopny-obvod-r-s/readme.md) | Ukončeno  | 9             |          |
-| 11   | 27.01.2026 | [Klopný obvod D](../../predmety/dig/bloky/cviceni/klopny-obvod-d/readme.md) | Plánováno |               |          |
+| 11   | 27.01.2026 | [Klopný obvod D](../../predmety/dig/bloky/cviceni/klopny-obvod-d/readme.md) | Plánováno | 9             |          |
 
 ##### Skupina 2
 
