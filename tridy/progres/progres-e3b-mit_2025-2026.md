@@ -86,4 +86,5 @@ Odložené témata:
 | 8    | 17.12.2025 | Revize písemek                                               |           |               |                             |
 | 9    | 31.12.2025 | Odpadá                                                       |           |               |                             |
 | 10   | 14.01.2026 | Sedmisegmentový displej: rotující text                       | Ukončeno  | 10            |                             |
-| 12   | 28.01.2026 |                                                              |           |               | DIG přípravky, ISR příklad? |
+| 12   | 28.01.2026 | Revize písemek                                               |           |               |                             |
+| 13   | 11.02.2026 |                                                              |           |               | DIG přípravky, ISR příklad? |
