@@ -47,7 +47,7 @@
 | 41   | 16.01.2026 | [sekvencni_obvody.pptx](../../predmety/dig/materialy/sekvencni_obvody.pptx) až po str.33 | [video #2](https://www.youtube.com/watch?v=XYQB6ObFcbs), pojmy: Asynchronní, Synchronní (Úrovňové/Hranové), Metody popisu sekvenčního obvodu (Časový diagram, Stavový diagram, Vývojová tabulka) |           |               |                                                 |
 | 42   | 20.01.2026 | [sekvencni_obvody.pptx](../../predmety/dig/materialy/sekvencni_obvody.pptx) až po str.38 | Metody popisu sekvenčního obvodu (Časový diagram, Stavový diagram, Vývojová tabulka), příklad 1 |           |               |                                                 |
 | 43   | 23.01.2026 | [sekvencni_obvody.pptx](../../predmety/dig/materialy/sekvencni_obvody.pptx) až po str.45 | příklad 2+3, Základní typy sekvenčních obvodů                |           |               |                                                 |
-| 44   | 27.01.2026 |                                                              | příklady?                                                    |           |               |                                                 |
+| 44   | 27.01.2026 |                                                              |                                                              |           |               |                                                 |
 | 45   | 30.01.2026 | Odpadá                                                       |                                                              |           |               |                                                 |
 | 46   | 03.02.2026 |                                                              |                                                              |           |               | určit plán na další prezentaci                  |
 | 47   | 06.02.2026 | Písemka                                                      |                                                              |           |               |                                                 |
@@ -79,7 +79,7 @@ Možné témata: TODO
 | 7    | 02.12.2025 | [Dekodér a 7segmentový displej](https://github.com/jjasik/spse/tree/main/predmety/dig/bloky/cviceni/sedm-segment) vč.čítače |           |               |          |
 | 8    | 16.12.2025 | [Dekodér a 7segmentový displej](https://github.com/jjasik/spse/tree/main/predmety/dig/bloky/cviceni/sedm-segment) vč.čítače | Ukončeno  | 13            |          |
 | 9    | 30.12.2025 | Odpadá                                                       |           |               |          |
-| 10   | 13.01.2026 | [Klopný obvod R-S](../../predmety/dig/bloky/cviceni/klopny-obvod-r-s/readme.md) | Plánováno | 9             |          |
+| 10   | 13.01.2026 | [Klopný obvod R-S](../../predmety/dig/bloky/cviceni/klopny-obvod-r-s/readme.md) | Ukončeno  | 9             |          |
 | 11   | 27.01.2026 | [Klopný obvod D](../../predmety/dig/bloky/cviceni/klopny-obvod-d/readme.md) | Plánováno |               |          |
 
 ##### Skupina 2
