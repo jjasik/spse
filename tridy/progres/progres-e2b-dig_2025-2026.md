@@ -62,7 +62,7 @@ Odložené témata: BCD komparátor/sčítačka, fyzikální parametry logickýc
 | 2    | 05.12.2025 | Dynamický displej      | KaTo, KrMa  |
 | 3    | 03.02.2026 | Technologie TTL        | KosSt, OnMa |
 
-Možné témata: TODO
+Možné témata: Technologie CMOS, jak funguje použití KO D/JK např.v čítačích, 
 
 #### Cvičení
 

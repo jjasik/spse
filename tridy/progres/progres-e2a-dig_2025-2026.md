@@ -48,8 +48,8 @@
 | 41   | 22.01.2026 | [sekvencni_obvody.pptx](../../predmety/dig/materialy/sekvencni_obvody.pptx) až po str.42 (příklad 3), +str.45 Základní typy sekvenčních obvodů, [klopne_obvody.pptx](../../predmety/dig/materialy/klopne_obvody.pptx) až po str.6 (Symboly) | Stavový diagram: příklad                                     |           |               |                                                 |
 | 42   | 22.01.2026 | [klopne_obvody.pptx](../../predmety/dig/materialy/klopne_obvody.pptx) až po str.22 | R-S: blokové schéma, přechodová tabulka, časový diagram, R-S (s povolovacím vstupem): blokové schéma, [video #1](https://www.youtube.com/watch?v=8d2d03xauBU), D: jeho vznik z obvodu R-S, přechodová tabulka, D (s povolovacím vstupem): přechodová tabulka |           |               |                                                 |
 | 43   | 23.01.2026 | [klopne_obvody.pptx](../../predmety/dig/materialy/klopne_obvody.pptx) až po str.26 (příště) | Stavový diagram: příklad - dořešení, [video #1](https://www.youtube.com/watch?v=yhy-QFU06Po) D (s povolovacím vstupem) |           |               |                                                 |
-| 44   | 26.01.2026 |                                                              | Klopný obvod D hranový, Klopný obvod J-K hranový             |           |               |                                                 |
-| 45   | 29.01.2026 |                                                              |                                                              |           |               | určit plán na další prezentaci                  |
+| 44   | 26.01.2026 | [klopne_obvody.pptx](../../predmety/dig/materialy/klopne_obvody.pptx) až po str.28 | KO D hranový, [video #1](https://www.youtube.com/watch?v=gelmZ5FnHUM) D (s CLK vstupem), [video #2](https://www.youtube.com/watch?v=FkDXuovRgyQ) D (jako dělič frekvence) |           |               |                                                 |
+| 45   | 29.01.2026 |                                                              | KO J-K hranový                                               |           |               | určit plán na další prezentaci                  |
 | 46   | 30.01.2026 | Odpadá                                                       |                                                              |           |               |                                                 |
 | 47   | 05.02.2026 |                                                              |                                                              |           |               |                                                 |
 | 48   | 06.02.2026 | Písemka                                                      |                                                              |           |               |                                                 |
@@ -63,7 +63,7 @@ Odložené témata: BCD komparátor/sčítačka, fyzikální parametry logickýc
 | 1    | 04.12.2025 | SČÍTAČKA A  KOMPARÁTOR | ToOn, SaSe  |
 | 2    | 29.01.2025 | Technologie TTL        | BabJa, MaJa |
 
-Možné témata: TODO
+Možné témata: Technologie CMOS, jak funguje použití KO D/JK např.v čítačích, 
 
 #### Cvičení
 
