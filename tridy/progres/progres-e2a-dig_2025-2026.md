@@ -54,16 +54,21 @@
 | 47   | 05.02.2026 |                                                              |                                                              |           |               |                                                 |
 | 48   | 06.02.2026 | Písemka                                                      |                                                              |           |               |                                                 |
 
-Odložené témata: BCD komparátor/sčítačka, fyzikální parametry logických obvodů, technologie TTL a CMOS, Mealy vs. Moore state machines, Hazardní stavy
+##### Odložené témata/Možné témata pro prezentaci:
+
+- BCD komparátor/sčítačka
+- fyzikální parametry logických obvodů
+- technologie TTL a CMOS
+- druhy sekv. obvodů Mealy/Moore
+- hazardní stavy
+- vysvětlení jak funguje použití KO D/JK např. v čítačích
 
 #### Prezentace
 
-| PČ   | Datum      | Téma                   | Autoři      |
-| ---- | ---------- | ---------------------- | ----------- |
-| 1    | 04.12.2025 | SČÍTAČKA A  KOMPARÁTOR | ToOn, SaSe  |
-| 2    | 29.01.2025 | Technologie TTL        | BabJa, MaJa |
-
-Možné témata: Technologie CMOS, jak funguje použití KO D/JK např.v čítačích, 
+| PČ   | Datum       | Téma                   | Autoři      |
+| ---- | ----------- | ---------------------- | ----------- |
+| 1    | 04.12.2025  | SČÍTAČKA A  KOMPARÁTOR | ToOn, SaSe  |
+| 2    | ?05.02.2026 | Technologie TTL        | BabJa, MaJa |
 
 #### Cvičení
 
@@ -81,7 +86,7 @@ Možné témata: Technologie CMOS, jak funguje použití KO D/JK např.v číta�
 | 8    | 15.12.2025 | [Dekodér a 7segmentový displej](https://github.com/jjasik/spse/tree/main/predmety/dig/bloky/cviceni/sedm-segment) vč.čítače | Ukončeno  | 3             |          |
 | 9    | 29.12.2025 | Odpadá                                                       |           |               |          |
 | 10   | 12.01.2025 | [Klopný obvod R-S](../../predmety/dig/bloky/cviceni/klopny-obvod-r-s/readme.md) | Ukončeno  | 2             |          |
-| 11   | 26.01.2025 | [Klopný obvod D](../../predmety/dig/bloky/cviceni/klopny-obvod-d/readme.md) | Plánováno |               |          |
+| 11   | 26.01.2025 | [Klopný obvod D](../../predmety/dig/bloky/cviceni/klopny-obvod-d/readme.md) | Ukončeno  | 2             |          |
 
 ##### Skupina 2
 
@@ -97,4 +102,4 @@ Možné témata: Technologie CMOS, jak funguje použití KO D/JK např.v číta�
 | 8    | 22.12.2025 | Odpadá                                                       |           |               |          |
 | 9    | 05.01.2026 | [Klopný obvod R-S](../../predmety/dig/bloky/cviceni/klopny-obvod-r-s/readme.md) | Ukončeno  | 7             |          |
 | 10   | 19.01.2026 | [Klopný obvod D](../../predmety/dig/bloky/cviceni/klopny-obvod-d/readme.md) | Plánováno | 13            |          |
-| 11   | 02.02.2026 | [Klopný obvod D](../../predmety/dig/bloky/cviceni/klopny-obvod-d/readme.md) |           |               |          |
+| 11   | 02.02.2026 | [Klopný obvod D](../../predmety/dig/bloky/cviceni/klopny-obvod-d/readme.md) ? |           |               |          |
