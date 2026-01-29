@@ -52,14 +52,14 @@
 | 45   | 22.01.2026 | CCNA1: dále až po 10.2.3 Verify Interface Configuration      | Basic Router Configuration Steps, Configure Interfaces       |           |               |                                                 |
 | 46   | 26.01.2026 | CCNA1: dále až po 11.1.5 Video - Network, Host and Broadcast Addresses | Configuration Verification Commands, Configure the Default Gateway, IPv4 Address Structure, Prefix, Network/Host/Broadcast addresses |           |               |                                                 |
 | 47   | 27.01.2026 | CCNA1: dále až po 11.4.1 Broadcast Domains and Segmentation  | Unicast/Broadcast (IP Directed)/Multicast, Public and Private IPv4 Addresses, NAT basics, Loopback address, Legacy Classful Addressing |           |               |                                                 |
-| 48   | 29.01.2026 |                                                              |                                                              |           |               | určit plán na další prezentaci                  |
-| 49   | 03.02.2026 |                                                              |                                                              |           |               |                                                 |
+| 48   | 29.01.2026 | CCNA1: dále až po 11.7. Subnet to Meet Requirements          | Broadcast Domain, subnetting concept, subnets in IPV4, 11.7. Subnet to Meet Requirements (příště) |           |               |                                                 |
+| 49   | 03.02.2026 |                                                              |                                                              |           |               | určit plán na další prezentaci                  |
 | 50   | 05.02.2026 | Písemka                                                      |                                                              |           |               |                                                 |
 
 ##### Odložené témata/Možné témata pro prezentaci:
 
-- konfigurační možnosti malého domácího routeru Mikrotik
 - OSPF (či nějaký jiný routing protocol) a více detailů k příkladu routing table (pro router)
+- konfigurační možnosti malého domácího routeru Mikrotik
 
 #### Prezentace
 
