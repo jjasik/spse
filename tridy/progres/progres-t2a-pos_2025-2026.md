@@ -56,7 +56,10 @@
 | 49   | 03.02.2026 |                                                              |                                                              |           |               |                                                 |
 | 50   | 05.02.2026 | Písemka                                                      |                                                              |           |               |                                                 |
 
-Odložené témata: konfigurační možnosti malého domácího routeru
+##### Odložené témata/Možné témata pro prezentaci:
+
+- konfigurační možnosti malého domácího routeru Mikrotik
+- OSPF (či nějaký jiný routing protocol) a více detailů k příkladu routing table (pro router)
 
 #### Prezentace
 
@@ -64,8 +67,6 @@ Odložené témata: konfigurační možnosti malého domácího routeru
 | ---- | ---------- | ------------------ | ---------- |
 | 1    | 09.12.2025 | FRAGMENTACE v IPV4 | VyLu, KoMa |
 | 2    |            |                    | JaVi, GeMa |
-
-Možné témata: OSPF (či nějaký jiný routing protocol) a více detailů k příkladu routing table (pro router)
 
 #### Cvičení
 

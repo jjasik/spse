@@ -51,7 +51,9 @@
 | 45   | 26.01.2026 | Písemka                                                      | [Témata](../../predmety/mit/materialy/pisemka-c-prerus-cv.md) | Plánováno |               |                                                 |
 | 46   | 30.01.2026 | Odpadá                                                       |                                                              |           |               |                                                 |
 
-Odložené témata:
+##### Odložené témata/Možné témata pro prezentaci:
+
+- 
 
 #### Cvičení
 
