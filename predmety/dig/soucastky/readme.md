@@ -37,6 +37,11 @@
 | T74LS196BI  | 4-STAGE PRESETTABLE RIPPLE COUNTERS                          |                 | InMyBox   |
 | NE555N      | Single Precision Timer                                       | ne555.pdf       | InMyBox   |
 | SN74LS08    | 4-ch, 2-input, 4.75-V to 5.25-V 16-mA drive strength bipolar AND gate |                 | InV1Stock |
+| T74LS168B1  | Synchronous Bi-Directional BCD Decade Counter                | 74LS168.PDF     | InMyBox   |
+| T74LS152B1  | 8-INPUT MULTIPLEXER                                          |                 | InMyBox   |
+| SN74LS153N  | Dual 4-Line To 1-Line Data Selectors/Multiplexers            | sn74ls153.pdf   | InMyBox   |
+| MH84154S    | Převodník BCD na 1 z 16                                      |                 | InMyBox   |
+| SN74LS161AN |                                                              |                 |           |
 
 #### Display
 
