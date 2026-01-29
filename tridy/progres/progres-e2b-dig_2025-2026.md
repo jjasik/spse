@@ -52,7 +52,14 @@
 | 46   | 03.02.2026 |                                                              |                                                              |           |               | určit plán na další prezentaci                  |
 | 47   | 06.02.2026 | Písemka                                                      |                                                              |           |               |                                                 |
 
-Odložené témata: BCD komparátor/sčítačka, fyzikální parametry logických obvodů, technologie TTL a CMOS, Mealy vs. Moore machines, Hazardní stavy
+##### Odložené témata/Možné témata pro prezentaci:
+
+- BCD komparátor/sčítačka
+- fyzikální parametry logických obvodů
+- technologie TTL a CMOS
+- druhy sekv. obvodů Mealy/Moore
+- hazardní stavy
+- vysvětlení jak funguje použití KO D/JK např. v čítačích
 
 #### Prezentace
 
@@ -61,8 +68,6 @@ Odložené témata: BCD komparátor/sčítačka, fyzikální parametry logickýc
 | 1    | 28.11.2025 | SČÍTAČKA A  KOMPARÁTOR | KoPe, MiPa  |
 | 2    | 05.12.2025 | Dynamický displej      | KaTo, KrMa  |
 | 3    | 03.02.2026 | Technologie TTL        | KosSt, OnMa |
-
-Možné témata: Technologie CMOS, jak funguje použití KO D/JK např.v čítačích, 
 
 #### Cvičení
 
