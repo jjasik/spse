@@ -41,7 +41,7 @@
 | T74LS152B1  | 8-INPUT MULTIPLEXER                                          |                 | InMyBox   |
 | SN74LS153N  | Dual 4-Line To 1-Line Data Selectors/Multiplexers            | sn74ls153.pdf   | InMyBox   |
 | MH84154S    | Převodník BCD na 1 z 16                                      |                 | InMyBox   |
-| SN74LS161AN |                                                              |                 |           |
+| SN74LS161AN | SYNCHRONOUS 4-BIT COUNTERS                                   | SN54160.PDF     | InMyBox   |
 
 #### Display
 
