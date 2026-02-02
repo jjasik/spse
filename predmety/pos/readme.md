@@ -56,6 +56,9 @@ Viz. ŠVP: [POS](svp-temata.md)
    3. [NSWI045v3_05.pdf](materialy/NSWI045v3_05.pdf) - Téma 5: Protokol IPv4
    4. [NSWI045v3_06.pdf](materialy/NSWI045v3_06.pdf) - Téma 6: Směrování v IP sítích
    5. [NSWI045v3_08.pdf](materialy/NSWI045v3_08.pdf) - Téma 8: Protokol IPv6
+3. Pomůcky:
+   1. [IPv4_Subnetting.pdf](materialy/IPv4_Subnetting.pdf) - IPV4 SUBNETTING (packetlife.net)
+
 
 #### Dema
 
