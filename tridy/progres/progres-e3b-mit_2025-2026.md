@@ -50,6 +50,7 @@
 | 44   | 23.01.2026 | [přerušení](../../predmety/mit/materialy/avr_preruseni.pptx) po str.27 | [video #1](https://www.youtube.com/watch?v=7vsHKwJp1Jk)      |           |               |                                                 |
 | 45   | 26.01.2026 | Písemka                                                      | [Témata](../../predmety/mit/materialy/pisemka-c-prerus-cv.md) | Plánováno |               |                                                 |
 | 46   | 30.01.2026 | Odpadá                                                       |                                                              |           |               |                                                 |
+| 47   | 02.02.2026 | [Analogové rozhraní](../../predmety/mit/materialy/avr_adc.pptx) po str.19-20 | Regulační blokové schéma: příklad, základní pojmy/parametry pro A/D převodník, typy: komparační, zpětnovazební |           |               |                                                 |
 
 ##### Odložené témata/Možné témata pro prezentaci:
 

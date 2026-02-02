@@ -44,6 +44,7 @@ Viz. ŠVP: [MIT](svp-temata.md)
    4. [avr_instrukce.pptx](materialy/avr_instrukce.pptx)
    5. [jazyk_c.pptx](materialy/jazyk_c.pptx)
    6. [avr_preruseni.pptx](materialy/avr_preruseni.pptx)
+   7. [avr_adc.pptx](materialy/avr_adc.pptx)
 
 #### Dema
 
