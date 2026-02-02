@@ -102,4 +102,5 @@
 | 8    | 22.12.2025 | Odpadá                                                       |           |               |          |
 | 9    | 05.01.2026 | [Klopný obvod R-S](../../predmety/dig/bloky/cviceni/klopny-obvod-r-s/readme.md) | Ukončeno  | 7             |          |
 | 10   | 19.01.2026 | [Klopný obvod D](../../predmety/dig/bloky/cviceni/klopny-obvod-d/readme.md) |           |               |          |
-| 11   | 02.02.2026 | [Klopný obvod D](../../predmety/dig/bloky/cviceni/klopny-obvod-d/readme.md) (minule většina nedokončila či pracovala na KO RS?), alternativně ti co již zapojili KO D minule a dostali známku mohou zkusit KO D pomocí MH74ALS74 (v PDF se jedná obr.4.6) | Plánováno | 12            |          |
+| 11   | 02.02.2026 | [Klopný obvod D](../../predmety/dig/bloky/cviceni/klopny-obvod-d/readme.md) - dokončení | Ukončeno  | 8             |          |
+| 12   | 16.02.2026 | Klopný obvod D pomocí IO MH74ALS74 (v poslední úloze naznačeno na obr.4.6 v přiloženém PDF) |           |               |          |
