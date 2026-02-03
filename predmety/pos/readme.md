@@ -100,10 +100,14 @@ viz.sekce Materiály
    17. * 7.1.6 Lab - Use Wireshark to Examine Ethernet Frames Topology
    18. * 7.2.7 Lab - View Network Device MAC Addresses
    19. * 7.3.7 Lab - View the Switch MAC Address Table
-   20. ?9.1.3 Packet Tracer - Identify MAC and IP Addresses
-   21. ?9.2.9 Packet Tracer - Examine the ARP Table
-   22. ?9.3.4 Packet Tracer - IPv6 Neighbor Discovery
-   23. ?10.1.4 Packet Tracer - Configure Initial Router Settings
-   24. ?10.3.4 Packet Tracer - Connect a Router to a LAN
-   25. ?10.3.5 Packet Tracer - Troubleshoot Default Gateway Issues
-   26. ?10.4.3 Lab - Build a Switch and Router Network
+   20. 9.1.3 Packet Tracer - Identify MAC and IP Addresses
+   21. 9.2.9 Packet Tracer - Examine the ARP Table
+   22. 9.3.4 Packet Tracer - IPv6 Neighbor Discovery
+   23. 10.1.4 Packet Tracer - Configure Initial Router Settings
+   24. 10.3.4 Packet Tracer - Connect a Router to a LAN
+   25. 10.3.5 Packet Tracer - Troubleshoot Default Gateway Issues
+   26. * 10.4.3 Lab - Build a Switch and Router Network (Packet Tracer + Lab HW)
+   27. ?11.5.5 Packet Tracer - Subnet an IPv4 Network
+   28. ?11.6.6 Lab - Calculate IPv4 Subnets
+   29. ?11.7.5 Packet Tracer - Subnetting Scenario
+   30. ?11.9.3 Packet Tracer - VLSM Design and Implementation Practice
