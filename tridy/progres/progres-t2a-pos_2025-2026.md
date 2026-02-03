@@ -55,7 +55,7 @@
 | 48   | 29.01.2026 | CCNA1: dále až po 11.7. Subnet to Meet Requirements          | Broadcast Domain, subnetting concept, subnets in IPV4, 11.7. Subnet to Meet Requirements (příště) |           |               |                                                 |
 | 49   | 02.02.2026 | CCNA1: dále až po 11.8.1 Video - VLSM Basics                 | Subnet Private versus Public IPv4 Address Space, Private: using /16 /24, příklad na efektivní rozdělení přidělených veřejných IP adres, VLSM Basics |           |               |                                                 |
 | 50   | 03.02.2026 | CCNA1: dále až po 11.8.2 Video - VLSM Example                | více příkladů na subnetting, 11.8.1 video a část videa 11.8.2 |           |               |                                                 |
-| 51   | 05.02.2026 | Písemka                                                      |                                                              |           |               |                                                 |
+| 51   | 05.02.2026 | Písemka                                                      | [Témata](../../predmety/pos/materialy/pisemka-arp-routing-ether-ipv4addr-subnet.pdf) | Plánováno |               |                                                 |
 | 52   | 10.02.2026 |                                                              |                                                              |           |               | určit plán na další prezentaci                  |
 
 ##### Odložené témata/Možné témata pro prezentaci:
