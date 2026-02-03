@@ -16,8 +16,8 @@
 | 10   | 03.10.2025 | [logicke_funkce.pptx](../../predmety/dig/materialy/logicke_funkce.pptx) až po str.11-12 | Logická proměnná, Výrok, Složený výrok, Kombinační/Sekvenční logický obvod, Popis logického obvodu |           |               |                                                 |
 | 11   | 07.10.2025 | [logicke_funkce.pptx](../../predmety/dig/materialy/logicke_funkce.pptx) až po str.32 | Způsoby popisu, Základní logické funkce, Pravdivostní tabulka, Karnaughova mapa |           |               |                                                 |
 | 12   | 10.10.2025 | [logicke_funkce.pptx](../../predmety/dig/materialy/logicke_funkce.pptx) až po str.49 | Karnaughova mapa: 2/3/4 proměnné, příklad, Booleova algebra  |           |               |                                                 |
-| 13   | 14.10.2025 | Suplování (ELE)                                              |                                                              |           |               |                                                 |
-| 14   | 17.10.2025 | Suplování (ELE)                                              |                                                              |           |               |                                                 |
+| 13   | 14.10.2025 | Odpadá                                                       |                                                              |           |               |                                                 |
+| 14   | 17.10.2025 | Odpadá                                                       |                                                              |           |               |                                                 |
 | 15   | 21.10.2025 | [logicke_funkce.pptx](../../predmety/dig/materialy/logicke_funkce.pptx) až po str.52 (včetně) | Dokončení zákonů (Booleova algebra) a jeden příklad, video [KM](https://www.youtube.com/watch?v=N8E9psq2Ieo), příklady 6.17: a |           |               |                                                 |
 | 16   | 24.10.2025 | [příklady](../../predmety/dig/materialy/sbirka-prikladu-1.pdf): 6.17, 6.23, 6.54 |                                                              |           |               |                                                 |
 | 17   | 28.10.2025 | Odpadá                                                       |                                                              |           |               |                                                 |
@@ -49,8 +49,10 @@
 | 43   | 23.01.2026 | [sekvencni_obvody.pptx](../../predmety/dig/materialy/sekvencni_obvody.pptx) až po str.45 | příklad 2+3, Základní typy sekvenčních obvodů                |           |               |                                                 |
 | 44   | 27.01.2026 | [klopne_obvody.pptx](../../predmety/dig/materialy/klopne_obvody.pptx) až po str.21 (příště) | KO R-S: blokové schéma, přechodová tabulka, časový diagram, R-S (s povolovacím vstupem): blokové schéma, [video #1](https://www.youtube.com/watch?v=8d2d03xauBU), D: jeho vznik z obvodu R-S, blokové schéma, přechodová tabulka |           |               |                                                 |
 | 45   | 30.01.2026 | Odpadá                                                       |                                                              |           |               |                                                 |
-| 46   | 03.02.2026 |                                                              |                                                              |           |               | určit plán na další prezentaci                  |
-| 47   | 06.02.2026 | Písemka                                                      |                                                              |           |               |                                                 |
+| 46   | 03.02.2026 | [klopne_obvody.pptx](../../predmety/dig/materialy/klopne_obvody.pptx) až po str.28 | KO D (s povolovacím vstupem): blokové schéma, přechodová tabulka, [video #1](https://www.youtube.com/watch?v=yhy-QFU06Po) D (s povolovacím vstupem), KO D hranový: blokové schéma, přechodová tabulka/časový diagram |           |               |                                                 |
+| 47   | 06.02.2026 |                                                              | [video #1](https://www.youtube.com/watch?v=gelmZ5FnHUM) D (s CLK vstupem), [video #2](https://www.youtube.com/watch?v=FkDXuovRgyQ) D (jako dělič frekvence), KO J-K hranový: blokové schéma, přechodová tabulka/časový diagram, [video #1](https://www.youtube.com/watch?v=5X8Jg-NpQ_0) JK (s CLK vstupem), [video #2](https://www.youtube.com/watch?v=YA3oXo1soQI)  JK (časový diagram), KO T hranový: jeho vznik z obvodu J-K |           |               |                                                 |
+| 48   | 10.02.2026 | Písemka                                                      |                                                              |           |               |                                                 |
+| 49   | 13.02.2026 |                                                              |                                                              |           |               | určit plán na další prezentaci                  |
 
 ##### Odložené témata/Možné témata pro prezentaci:
 
@@ -67,7 +69,7 @@
 | ---- | ---------- | ---------------------- | ----------- |
 | 1    | 28.11.2025 | SČÍTAČKA A  KOMPARÁTOR | KoPe, MiPa  |
 | 2    | 05.12.2025 | Dynamický displej      | KaTo, KrMa  |
-| 3    | 03.02.2026 | Technologie TTL        | KosSt, OnMa |
+| 3    | 13.02.2026 | Technologie TTL        | KosSt, OnMa |
 
 #### Cvičení
 
@@ -102,3 +104,4 @@
 | 9    | 23.12.2025 | Odpadá                                                       |           |               |          |
 | 10   | 06.01.2026 | [Klopný obvod R-S](../../predmety/dig/bloky/cviceni/klopny-obvod-r-s/readme.md) | Ukončeno  | 3             |          |
 | 11   | 20.01.2026 | [Klopný obvod D](../../predmety/dig/bloky/cviceni/klopny-obvod-d/readme.md) | Ukončeno  | 4             |          |
+| 12   | 03.02.2026 | Klopný obvod D pomocí IO MH74ALS74 (v poslední úloze naznačeno na obr.4.6 v přiloženém PDF) | Plánováno |               |          |
