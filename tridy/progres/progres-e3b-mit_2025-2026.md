@@ -73,7 +73,8 @@
 | 9    | 24.12.2025 | Odpadá                                                       |           |               |                             |
 | 10   | 07.01.2025 | [Multiplex sedmisegmentového displeje](https://tomaschovanec.github.io/MIT/07_Multiplex_sedmisegmentoveho_displeje.html) | Plánováno |               |                             |
 | 11   | 21.01.2026 | [LCD displej](https://tomaschovanec.github.io/MIT/12_LCD.html) | Plánováno |               | váha bude 0,75              |
-| 12   | 04.02.2026 |                                                              |           |               | DIG přípravky, ISR příklad? |
+| 12   | 04.02.2026 | Revize písemek                                               |           |               |                             |
+| 13   |            |                                                              |           |               | DIG přípravky, ISR příklad? |
 
 ##### Skupina 2
 
