@@ -104,4 +104,4 @@
 | 9    | 23.12.2025 | Odpadá                                                       |           |               |          |
 | 10   | 06.01.2026 | [Klopný obvod R-S](../../predmety/dig/bloky/cviceni/klopny-obvod-r-s/readme.md) | Ukončeno  | 3             |          |
 | 11   | 20.01.2026 | [Klopný obvod D](../../predmety/dig/bloky/cviceni/klopny-obvod-d/readme.md) | Ukončeno  | 4             |          |
-| 12   | 03.02.2026 | Klopný obvod D pomocí IO MH74ALS74 (v poslední úloze naznačeno na obr.4.6 v přiloženém PDF) | Plánováno |               |          |
+| 12   | 03.02.2026 | Klopný obvod D pomocí IO MH74ALS74 (v poslední úloze naznačeno na obr.4.6 v přiloženém PDF) | Ukončeno  | 1             |          |
