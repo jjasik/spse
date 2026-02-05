@@ -51,8 +51,8 @@
 | 44   | 26.01.2026 | [klopne_obvody.pptx](../../predmety/dig/materialy/klopne_obvody.pptx) až po str.28 | KO D hranový: blokové schéma, přechodová tabulka/časový diagram, [video #1](https://www.youtube.com/watch?v=gelmZ5FnHUM) D (s CLK vstupem), [video #2](https://www.youtube.com/watch?v=FkDXuovRgyQ) D (jako dělič frekvence) |           |               |                                                 |
 | 45   | 29.01.2026 | [klopne_obvody.pptx](../../predmety/dig/materialy/klopne_obvody.pptx) až po str.37 | KO J-K hranový: blokové schéma, přechodová tabulka/časový diagram, [video #1](https://www.youtube.com/watch?v=5X8Jg-NpQ_0) JK (s CLK vstupem), [video #2](https://www.youtube.com/watch?v=YA3oXo1soQI)  JK (časový diagram), KO T hranový: jeho vznik z obvodu J-K |           |               |                                                 |
 | 46   | 30.01.2026 | Odpadá                                                       |                                                              |           |               |                                                 |
-| 47   | 05.02.2026 |                                                              |                                                              |           |               | určit plán na další prezentaci                  |
-| 48   | 05.02.2026 |                                                              |                                                              |           |               |                                                 |
+| 47   | 05.02.2026 | [klopne_obvody.pptx](../../predmety/dig/materialy/klopne_obvody.pptx) až po str.47 | KO T hranový: blokové schéma, přechodová tabulka/časový diagram, [video #1](https://www.youtube.com/watch?v=gdMdMC0guDY&t=46s) T (s CLK vstupem), pojmy: Bistabilní/Monostabilní/Astabilní |           |               |                                                 |
+| 48   | 05.02.2026 |                                                              |                                                              |           |               | určit plán na další prezentaci                  |
 | 49   | 06.02.2026 | Písemka                                                      | [Témata](../../predmety/dig/materialy/pisemka-klopne-obvody-1.pdf) |           |               |                                                 |
 
 ##### Odložené témata/Možné témata pro prezentaci:
@@ -63,6 +63,7 @@
 - druhy sekv. obvodů Mealy/Moore
 - hazardní stavy
 - vysvětlení jak funguje použití KO D/JK např. v čítačích
+- Schmittův KO
 
 #### Prezentace
 
@@ -88,6 +89,7 @@
 | 9    | 29.12.2025 | Odpadá                                                       |           |               |          |
 | 10   | 12.01.2025 | [Klopný obvod R-S](../../predmety/dig/bloky/cviceni/klopny-obvod-r-s/readme.md) | Ukončeno  | 2             |          |
 | 11   | 26.01.2025 | [Klopný obvod D](../../predmety/dig/bloky/cviceni/klopny-obvod-d/readme.md) | Ukončeno  | 2             |          |
+| 12   | 09.02.2025 | Klopný obvod D pomocí IO MH74ALS74 (v poslední úloze naznačeno na obr.4.6 v přiloženém PDF) |           |               |          |
 
 ##### Skupina 2
 
