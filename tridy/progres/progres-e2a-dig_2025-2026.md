@@ -52,8 +52,9 @@
 | 45   | 29.01.2026 | [klopne_obvody.pptx](../../predmety/dig/materialy/klopne_obvody.pptx) až po str.37 | KO J-K hranový: blokové schéma, přechodová tabulka/časový diagram, [video #1](https://www.youtube.com/watch?v=5X8Jg-NpQ_0) JK (s CLK vstupem), [video #2](https://www.youtube.com/watch?v=YA3oXo1soQI)  JK (časový diagram), KO T hranový: jeho vznik z obvodu J-K |           |               |                                                 |
 | 46   | 30.01.2026 | Odpadá                                                       |                                                              |           |               |                                                 |
 | 47   | 05.02.2026 | [klopne_obvody.pptx](../../predmety/dig/materialy/klopne_obvody.pptx) až po str.47 | KO T hranový: blokové schéma, přechodová tabulka/časový diagram, [video #1](https://www.youtube.com/watch?v=gdMdMC0guDY&t=46s) T (s CLK vstupem), pojmy: Bistabilní/Monostabilní/Astabilní |           |               |                                                 |
-| 48   | 05.02.2026 |                                                              |                                                              |           |               | určit plán na další prezentaci                  |
+| 48   | 05.02.2026 | Projití témat písemky a příklady                             |                                                              |           |               |                                                 |
 | 49   | 06.02.2026 | Písemka                                                      | [Témata](../../predmety/dig/materialy/pisemka-klopne-obvody-1.pdf) |           |               |                                                 |
+| 50   | 12.02.2026 |                                                              | dokončení předchozí prezentace (obsah, hodnocení, další prezentace) |           |               | určit plán na další prezentaci                  |
 
 ##### Odložené témata/Možné témata pro prezentaci:
 
@@ -67,10 +68,10 @@
 
 #### Prezentace
 
-| PČ   | Datum       | Téma                   | Autoři      |
-| ---- | ----------- | ---------------------- | ----------- |
-| 1    | 04.12.2025  | SČÍTAČKA A  KOMPARÁTOR | ToOn, SaSe  |
-| 2    | ?05.02.2026 | Technologie TTL        | BabJa, MaJa |
+| PČ   | Datum      | Téma                   | Autoři      |
+| ---- | ---------- | ---------------------- | ----------- |
+| 1    | 04.12.2025 | SČÍTAČKA A  KOMPARÁTOR | ToOn, SaSe  |
+| 2    | 05.02.2026 | Technologie TTL        | BabJa, MaJa |
 
 #### Cvičení
 
