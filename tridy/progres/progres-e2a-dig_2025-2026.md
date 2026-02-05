@@ -53,7 +53,7 @@
 | 46   | 30.01.2026 | Odpadá                                                       |                                                              |           |               |                                                 |
 | 47   | 05.02.2026 |                                                              |                                                              |           |               | určit plán na další prezentaci                  |
 | 48   | 05.02.2026 |                                                              |                                                              |           |               |                                                 |
-| 49   | 06.02.2026 | Písemka                                                      |                                                              |           |               |                                                 |
+| 49   | 06.02.2026 | Písemka                                                      | [Témata](../../predmety/dig/materialy/pisemka-klopne-obvody-1.pdf) |           |               |                                                 |
 
 ##### Odložené témata/Možné témata pro prezentaci:
 
