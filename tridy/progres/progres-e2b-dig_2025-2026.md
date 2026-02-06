@@ -50,9 +50,10 @@
 | 44   | 27.01.2026 | [klopne_obvody.pptx](../../predmety/dig/materialy/klopne_obvody.pptx) až po str.21 (příště) | KO R-S: blokové schéma, přechodová tabulka, časový diagram, R-S (s povolovacím vstupem): blokové schéma, [video #1](https://www.youtube.com/watch?v=8d2d03xauBU), D: jeho vznik z obvodu R-S, blokové schéma, přechodová tabulka |           |               |                                                 |
 | 45   | 30.01.2026 | Odpadá                                                       |                                                              |           |               |                                                 |
 | 46   | 03.02.2026 | [klopne_obvody.pptx](../../predmety/dig/materialy/klopne_obvody.pptx) až po str.28 | KO D (s povolovacím vstupem): blokové schéma, přechodová tabulka, [video #1](https://www.youtube.com/watch?v=yhy-QFU06Po) D (s povolovacím vstupem), KO D hranový: blokové schéma, přechodová tabulka/časový diagram |           |               |                                                 |
-| 47   | 06.02.2026 |                                                              | [video #1](https://www.youtube.com/watch?v=gelmZ5FnHUM) D (s CLK vstupem), [video #2](https://www.youtube.com/watch?v=FkDXuovRgyQ) D (jako dělič frekvence), KO J-K hranový: blokové schéma, přechodová tabulka/časový diagram, [video #1](https://www.youtube.com/watch?v=5X8Jg-NpQ_0) JK (s CLK vstupem), [video #2](https://www.youtube.com/watch?v=YA3oXo1soQI)  JK (časový diagram), KO T hranový: jeho vznik z obvodu J-K, KO T hranový: blokové schéma, přechodová tabulka/časový diagram, [video #1](https://www.youtube.com/watch?v=gdMdMC0guDY&t=46s) T (s CLK vstupem), pojmy: Bistabilní/Monostabilní/Astabilní, Projití témat písemky a příklady |           |               |                                                 |
-| 48   | 10.02.2026 | Písemka - spíše až 13.02.2026                                | [Témata](../../predmety/dig/materialy/pisemka-klopne-obvody-1.pdf) |           |               |                                                 |
-| 49   | 13.02.2026 |                                                              |                                                              |           |               | prezentace, a určit plán na další prezentaci    |
+| 47   | 06.02.2026 | [klopne_obvody.pptx](../../predmety/dig/materialy/klopne_obvody.pptx) až po str.33 | [video #1](https://www.youtube.com/watch?v=gelmZ5FnHUM) D (s CLK vstupem), [video #2](https://www.youtube.com/watch?v=FkDXuovRgyQ) D (jako dělič frekvence), KO J-K hranový: blokové schéma, přechodová tabulka/časový diagram |           |               |                                                 |
+| 48   | 10.02.2026 | str.33 znovu                                                 | ukázka DS s použitím J-K, [video #1](https://www.youtube.com/watch?v=5X8Jg-NpQ_0) JK (s CLK vstupem), [video #2](https://www.youtube.com/watch?v=YA3oXo1soQI)  JK (časový diagram), KO T hranový: jeho vznik z obvodu J-K, KO T hranový: blokové schéma, přechodová tabulka/časový diagram, [video #1](https://www.youtube.com/watch?v=gdMdMC0guDY&t=46s) T (s CLK vstupem), pojmy: Bistabilní/Monostabilní/Astabilní, projití témat písemky a příklady |           |               |                                                 |
+| 49   | 13.02.2026 | Písemka                                                      | [Témata](../../predmety/dig/materialy/pisemka-klopne-obvody-1.pdf) |           |               |                                                 |
+| 50   | 17.02.2026 |                                                              |                                                              |           |               | prezentace, a určit plán na další prezentaci    |
 
 ##### Odložené témata/Možné témata pro prezentaci:
 
@@ -69,7 +70,7 @@
 | ---- | ---------- | ---------------------- | ----------- |
 | 1    | 28.11.2025 | SČÍTAČKA A  KOMPARÁTOR | KoPe, MiPa  |
 | 2    | 05.12.2025 | Dynamický displej      | KaTo, KrMa  |
-| 3    | 13.02.2026 | Technologie TTL        | KosSt, OnMa |
+| 3    | po písemce | Technologie TTL        | KosSt, OnMa |
 
 #### Cvičení
 
@@ -87,7 +88,8 @@
 | 8    | 16.12.2025 | [Dekodér a 7segmentový displej](https://github.com/jjasik/spse/tree/main/predmety/dig/bloky/cviceni/sedm-segment) vč.čítače | Ukončeno  | 13            |          |
 | 9    | 30.12.2025 | Odpadá                                                       |           |               |          |
 | 10   | 13.01.2026 | [Klopný obvod R-S](../../predmety/dig/bloky/cviceni/klopny-obvod-r-s/readme.md) | Ukončeno  | 9             |          |
-| 11   | 27.01.2026 | [Klopný obvod D](../../predmety/dig/bloky/cviceni/klopny-obvod-d/readme.md) | Plánováno | 9             |          |
+| 11   | 27.01.2026 | [Klopný obvod D](../../predmety/dig/bloky/cviceni/klopny-obvod-d/readme.md) | Ukončeno  | 9             |          |
+| 12   | 10.02.2026 | Klopný obvod D pomocí IO MH74ALS74 (v poslední úloze naznačeno na obr.4.6 v přiloženém PDF) | Plánováno |               |          |
 
 ##### Skupina 2
 
