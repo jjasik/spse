@@ -48,9 +48,11 @@
 | 42   | 19.01.2026 | [přerušení](../../predmety/mit/materialy/avr_preruseni.pptx) po str.11 | zdroje RESETU, koncepty: polling/interrupts, procedura přerušení, funkce zásobníku, tabulka možných zdrojů přerušení |           |               |                                                 |
 | 43   | 23.01.2026 | [přerušení](../../predmety/mit/materialy/avr_preruseni.pptx) po str.27 | Uspořádání paměti programu [Tabule](materialy/e3b-mit_2025-2026/tabule-004.jpg), obslužný program přerušení (funkce ISR), globální/lokální povolení, rizika a doporučení při použití přerušení, příklad [Tabule](materialy/e3b-mit_2025-2026/tabule-005.jpg) |           |               |                                                 |
 | 44   | 23.01.2026 | [přerušení](../../predmety/mit/materialy/avr_preruseni.pptx) po str.27 | [video #1](https://www.youtube.com/watch?v=7vsHKwJp1Jk)      |           |               |                                                 |
-| 45   | 26.01.2026 | Písemka                                                      | [Témata](../../predmety/mit/materialy/pisemka-c-prerus-cv.md) | Plánováno |               |                                                 |
+| 45   | 26.01.2026 | Písemka                                                      | [Témata](../../predmety/mit/materialy/pisemka-c-prerus-cv.md) | Ukončeno  | 4             |                                                 |
 | 46   | 30.01.2026 | Odpadá                                                       |                                                              |           |               |                                                 |
 | 47   | 02.02.2026 | [Analogové rozhraní](../../predmety/mit/materialy/avr_adc.pptx) po str.19-20 | Regulační blokové schéma: příklad, základní pojmy/parametry pro A/D převodník, typy: komparační, zpětnovazební |           |               |                                                 |
+| 48   | 06.02.2026 | [Analogové rozhraní](../../predmety/mit/materialy/avr_adc.pptx) po str.26  vč. | aproximační převodník, D/A převodník - funkce                |           |               |                                                 |
+| 49   | 09.02.2026 |                                                              |                                                              |           |               | Písemky absence dořešit                         |
 
 ##### Odložené témata/Možné témata pro prezentaci:
 
