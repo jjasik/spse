@@ -53,7 +53,7 @@
 | 46   | 30.01.2026 | Odpadá                                                       |                                                              |           |               |                                                 |
 | 47   | 05.02.2026 | [klopne_obvody.pptx](../../predmety/dig/materialy/klopne_obvody.pptx) až po str.47 | KO T hranový: blokové schéma, přechodová tabulka/časový diagram, [video #1](https://www.youtube.com/watch?v=gdMdMC0guDY&t=46s) T (s CLK vstupem), pojmy: Bistabilní/Monostabilní/Astabilní |           |               |                                                 |
 | 48   | 05.02.2026 | Projití témat písemky a příklady                             |                                                              |           |               |                                                 |
-| 49   | 06.02.2026 | Písemka                                                      | [Témata](../../predmety/dig/materialy/pisemka-klopne-obvody-1.pdf) |           |               |                                                 |
+| 49   | 06.02.2026 | Písemka                                                      | [Témata](../../predmety/dig/materialy/pisemka-klopne-obvody-1.pdf) | Plánováno | 1             |                                                 |
 | 50   | 12.02.2026 |                                                              | dokončení předchozí prezentace (obsah, hodnocení, další prezentace) |           |               | určit plán na další prezentaci                  |
 
 ##### Odložené témata/Možné témata pro prezentaci:
