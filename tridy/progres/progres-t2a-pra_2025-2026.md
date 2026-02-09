@@ -38,5 +38,5 @@ Není
 | 9    | 29.12.2025 | Odpadá                                                       |           |               |          |
 | 10   | 12.01.2026 | VHDL: úloha #4 (čítač)                                       |           |               |          |
 | 11   | 26.01.2026 | VHDL: úloha #4 (čítač) - dokončení, syntaxe jazyka - základy | Ukončeno  | 3             |          |
-| 12   | 09.02.2026 | VHDL: úloha: #5 (ovládání 7seg. displeje)                    | Plánováno |               |          |
+| 12   | 09.02.2026 | VHDL: úloha: #5 (ovládání 7seg. displeje): ad 1), ad 2)      | Ukončeno  | 5             |          |
 
