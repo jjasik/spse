@@ -90,7 +90,7 @@
 | 9    | 29.12.2025 | Odpadá                                                       |           |               |          |
 | 10   | 12.01.2025 | [Klopný obvod R-S](../../predmety/dig/bloky/cviceni/klopny-obvod-r-s/readme.md) | Ukončeno  | 2             |          |
 | 11   | 26.01.2025 | [Klopný obvod D](../../predmety/dig/bloky/cviceni/klopny-obvod-d/readme.md) | Ukončeno  | 2             |          |
-| 12   | 09.02.2025 | Revize písemek, Klopný obvod D pomocí IO MH74ALS74 (v poslední úloze naznačeno na obr.4.6 v přiloženém PDF) |           |               |          |
+| 12   | 09.02.2025 | Revize písemek, Klopný obvod D pomocí IO MH74ALS74 (v poslední úloze naznačeno na obr.4.6 v přiloženém PDF) | Ukončeno  | 4             |          |
 
 ##### Skupina 2
 
@@ -107,4 +107,4 @@
 | 9    | 05.01.2026 | [Klopný obvod R-S](../../predmety/dig/bloky/cviceni/klopny-obvod-r-s/readme.md) | Ukončeno  | 7             |          |
 | 10   | 19.01.2026 | [Klopný obvod D](../../predmety/dig/bloky/cviceni/klopny-obvod-d/readme.md) |           |               |          |
 | 11   | 02.02.2026 | [Klopný obvod D](../../predmety/dig/bloky/cviceni/klopny-obvod-d/readme.md) - dokončení | Ukončeno  | 8             |          |
-| 12   | 16.02.2026 | Revize písemek, Klopný obvod D pomocí IO MH74ALS74 (v poslední úloze naznačeno na obr.4.6 v přiloženém PDF) |           |               |          |
+| 12   | 16.02.2026 | Revize písemek, Klopný obvod D pomocí IO MH74ALS74 (v poslední úloze naznačeno na obr.4.6 v přiloženém PDF) | Plánováno |               |          |
