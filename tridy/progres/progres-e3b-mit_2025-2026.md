@@ -81,17 +81,18 @@
 
 ##### Skupina 2
 
-| PČ   | Datum      | Obsah a materiály                                            | Hodnocení | Bez hodnocení | Poznámka                    |
-| ---- | ---------- | ------------------------------------------------------------ | --------- | ------------- | --------------------------- |
-| 1    | 10.09.2025 | [Výukový přípravek, nahrání programu](https://tomaschovanec.github.io/MIT/01_Uvod.html), [Blikání LEDkou, práce s registry](https://tomaschovanec.github.io/MIT/02_Blikani_LED.html) | Ukončeno  | 0             |                             |
-| 2    | 24.09.2025 | [Převody číselných soustav, bitové operace](https://tomaschovanec.github.io/MIT/03_Bitove_operace.html), [Práce s tlačítky](https://tomaschovanec.github.io/MIT/04_Tlacitka_podminky.html) | Ukončeno  | 3             |                             |
-| 3    | 08.10.2025 | [Sedmisegmentový displej](https://tomaschovanec.github.io/MIT/05_Sedmisegmentovy_displej.html) | Ukončeno  | 0             |                             |
-| 4    | 22.10.2025 | [Klávesnice](https://tomaschovanec.github.io/MIT/06_Klavesnice.html) |           |               |                             |
-| 5    | 05.11.2025 | [Klávesnice](https://tomaschovanec.github.io/MIT/06_Klavesnice.html) - dokončení | Ukončeno  | 0             |                             |
-| 6    | 19.11.2025 | [Multiplex sedmisegmentového displeje](https://tomaschovanec.github.io/MIT/07_Multiplex_sedmisegmentoveho_displeje.html) | Ukončeno  | 2             |                             |
-| 7    | 03.12.2025 | [LCD displej](https://tomaschovanec.github.io/MIT/12_LCD.html) | Ukončeno  | 0             |                             |
-| 8    | 17.12.2025 | Revize písemek                                               |           |               |                             |
-| 9    | 31.12.2025 | Odpadá                                                       |           |               |                             |
-| 10   | 14.01.2026 | Sedmisegmentový displej: rotující text                       | Ukončeno  | 10            |                             |
-| 12   | 28.01.2026 | Revize písemek                                               |           |               |                             |
-| 13   | 11.02.2026 |                                                              |           |               | DIG přípravky, ISR příklad? |
+| PČ   | Datum      | Obsah a materiály                                            | Hodnocení | Bez hodnocení | Poznámka      |
+| ---- | ---------- | ------------------------------------------------------------ | --------- | ------------- | ------------- |
+| 1    | 10.09.2025 | [Výukový přípravek, nahrání programu](https://tomaschovanec.github.io/MIT/01_Uvod.html), [Blikání LEDkou, práce s registry](https://tomaschovanec.github.io/MIT/02_Blikani_LED.html) | Ukončeno  | 0             |               |
+| 2    | 24.09.2025 | [Převody číselných soustav, bitové operace](https://tomaschovanec.github.io/MIT/03_Bitove_operace.html), [Práce s tlačítky](https://tomaschovanec.github.io/MIT/04_Tlacitka_podminky.html) | Ukončeno  | 3             |               |
+| 3    | 08.10.2025 | [Sedmisegmentový displej](https://tomaschovanec.github.io/MIT/05_Sedmisegmentovy_displej.html) | Ukončeno  | 0             |               |
+| 4    | 22.10.2025 | [Klávesnice](https://tomaschovanec.github.io/MIT/06_Klavesnice.html) |           |               |               |
+| 5    | 05.11.2025 | [Klávesnice](https://tomaschovanec.github.io/MIT/06_Klavesnice.html) - dokončení | Ukončeno  | 0             |               |
+| 6    | 19.11.2025 | [Multiplex sedmisegmentového displeje](https://tomaschovanec.github.io/MIT/07_Multiplex_sedmisegmentoveho_displeje.html) | Ukončeno  | 2             |               |
+| 7    | 03.12.2025 | [LCD displej](https://tomaschovanec.github.io/MIT/12_LCD.html) | Ukončeno  | 0             |               |
+| 8    | 17.12.2025 | Revize písemek                                               |           |               |               |
+| 9    | 31.12.2025 | Odpadá                                                       |           |               |               |
+| 10   | 14.01.2026 | Sedmisegmentový displej: rotující text                       | Ukončeno  | 10            |               |
+| 12   | 28.01.2026 | Revize písemek                                               |           |               |               |
+| 13   | 11.02.2026 | příklad na ISR EINT (obousměrný čítač) a sedmisegmentový displej | Ukončeno  | 10            |               |
+|      |            |                                                              |           |               | DIG přípravky |
