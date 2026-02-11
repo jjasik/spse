@@ -45,6 +45,7 @@ Viz. ŠVP: [MIT](svp-temata.md)
    5. [jazyk_c.pptx](materialy/jazyk_c.pptx)
    6. [avr_preruseni.pptx](materialy/avr_preruseni.pptx)
    7. [avr_adc.pptx](materialy/avr_adc.pptx)
+1. [Sandbox](https://github.com/jjasik/spse/tree/main/predmety/mit/sandbox)
 
 #### Dema
 
