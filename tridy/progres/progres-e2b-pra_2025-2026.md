@@ -17,7 +17,8 @@ Není
 | 5    | 14.01.2026 | VHDL: úloha #1 (log. funkce), #2 (4tl. vs. 4LED)             | Ukončeno  | 0/0           |          |
 | 6    | 21.01.2026 | probraní syntaxe jazyka, VHDL: úloha #3 (dvě varianty sčítačky) | Ukončeno  | 2             |          |
 | 7    | 28.01.2026 | VHDL: úloha #4 (čítač)                                       | Ukončeno  | 3             |          |
-| 8    | 04.02.2026 | VHDL: úloha #5 (ovládání 7seg displeje)                      | Plánováno |               |          |
+| 8    | 04.02.2026 | VHDL: úloha #5 (ovládání 7seg displeje): ad1, ad2            |           |               |          |
+| 9    | 11.02.2026 | VHDL: úloha #5 (ovládání 7seg displeje): ad3, ad4            | Ukončeno  | 3             |          |
 |      | 25.03.2025 | Střídání skupin, další: Skupina 3                            |           |               |          |
 
 ##### Skupina 2 (první v pořadí ve školním roce v mé učebně, cca 10 žáků)
