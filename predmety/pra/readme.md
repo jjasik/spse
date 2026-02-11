@@ -45,6 +45,7 @@ Viz. ŠVP: [PRA](svp-temata.md), [DIG](../dig/svp-temata.md)
    3. [Stručný popis jazyku VHDL](materialy/strucny-popis-jazyku-vhdl_v-x.pdf)
    4. [Tahák VHDL](materialy/tahak-vhdl_v-x.pdf)
    5. [Šablony VHDL](materialy/sablony-vhdl_v-x.pdf)
+3. [Sandbox](https://github.com/jjasik/spse/tree/main/predmety/pra/sandbox)
 
 
 #### Dema
