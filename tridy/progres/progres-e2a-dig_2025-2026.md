@@ -54,7 +54,7 @@
 | 47   | 05.02.2026 | [klopne_obvody.pptx](../../predmety/dig/materialy/klopne_obvody.pptx) až po str.47 | KO T hranový: blokové schéma, přechodová tabulka/časový diagram, [video #1](https://www.youtube.com/watch?v=gdMdMC0guDY&t=46s) T (s CLK vstupem), pojmy: Bistabilní/Monostabilní/Astabilní |           |               |                                                 |
 | 48   | 05.02.2026 | Projití témat písemky a příklady                             |                                                              |           |               |                                                 |
 | 49   | 06.02.2026 | Písemka                                                      | [Témata](../../predmety/dig/materialy/pisemka-klopne-obvody-1.pdf) | Plánováno | 1             |                                                 |
-| 50   | 12.02.2026 |                                                              | "Takhle-ne", dokončení předchozí prezentace (obsah, hodnocení, další prezentace) |           |               | určit plán na další prezentaci                  |
+| 50   | 12.02.2026 |                                                              | 1) Absence při písemce: SoPe ?přezkoušení 13.02<br/>2) přípravky DIG "Takhle-ne"<br/>3) předchozí prezentace (moc hektické, bez zápisu, nepřesnosti...), dám inspiraci a poprosím o repete<br/>4) a) opravy písemek (nestihl jsem v pondělí), b) druhá skupina (ušetří mě čas ve cvi.) - sk. s nízkým počtem dokončení |           |               |                                                 |
 
 ##### Odložené témata/Možné témata pro prezentaci:
 

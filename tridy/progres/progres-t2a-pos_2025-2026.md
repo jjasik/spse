@@ -57,7 +57,7 @@
 | 50   | 03.02.2026 | CCNA1: dále až po 11.8.2 Video - VLSM Example                | více příkladů na subnetting, 11.8.1 video a část videa 11.8.2 |           |               |                                                 |
 | 51   | 05.02.2026 | Písemka                                                      | [Témata](../../predmety/pos/materialy/pisemka-arp-routing-ether-ipv4addr-subnet.pdf) | Plánováno |               |                                                 |
 | 52   | 10.02.2026 | CCNA1: dále až po 12.3.1 Unicast, Multicast, Anycast (příště) | VLSM příklad, strukturovaný návrh (seznam zařízení k zohlednění pří plánování rozdělení adresace), adresace IPV6: formát adresy, možnosti zkracování adresy |           |               |                                                 |
-| 53   | 12.02.2026 |                                                              | Zkoušení (absence na poslední písemce): 05.02.2026: ?CaOn, GeMa, KoMa, StMi, ViPa |           |               | určit plán na další prezentaci                  |
+| 53   | 12.02.2026 |                                                              | 1) Absence při písemce: přezkoušení 05.02.2026: ?CaOn, GeMa, KoMa, StMi, ViPa<br/>2) a) opravy písemek (nestihl jsem v pondělí nebo byla absence), b) druhá skupina (ušetří mě čas ve cvi.) |           |               | určit plán na další prezentaci                  |
 
 ##### Odložené témata/Možné témata pro prezentaci:
 
