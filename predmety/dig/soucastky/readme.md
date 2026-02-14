@@ -45,6 +45,8 @@
 | SN74LS247N  | BCD-to-Seven-Segment Decoders/Drivers datasheet              | sn74ls247.pdf              | InMyBox   |
 | MH1KK1      | Kodér pro bezkontaktní klávesnice                            | MH1KK1-1.gif, MH1KK1-2.gif | InMyBox   |
 | SN74LS259BN | 8-bit addressable latches                                    | sn74ls259b.pdf             | InMyBox   |
+| SN74LS96N   | 5-bit shift register                                         | sn74ls96.pdf               | InMyBox   |
+| 74LS260N    | DUAL 5-INPUT NOR GATE                                        | SN74F260.PDF               | InMyBox   |
 
 #### Display
 
