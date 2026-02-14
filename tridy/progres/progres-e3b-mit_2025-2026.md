@@ -53,7 +53,7 @@
 | 47   | 02.02.2026 | [Analogové rozhraní](../../predmety/mit/materialy/avr_adc.pptx) po str.19-20 | Regulační blokové schéma: příklad, základní pojmy/parametry pro A/D převodník, typy: komparační, zpětnovazební |           |               |                                                              |
 | 48   | 06.02.2026 | [Analogové rozhraní](../../predmety/mit/materialy/avr_adc.pptx) po str.26 | aproximační převodník, D/A převodník - funkce                |           |               |                                                              |
 | 49   | 09.02.2026 | [Analogové rozhraní](../../predmety/mit/materialy/avr_adc.pptx) po str.38 (příště: vysvětlit single/diff channels a pokračovat) | D/A převodník s váhovými rezistory: příklad výpočtu výstupního napětí pro 0/LSB/MSB/full range rozsah, D/A převodník s sítí R-2R (stejný princip), kontrolní otázky projítí, začátek ADC na AVR kapitoly (vlastnosti) |           |               | Písemky absence dořešit                                      |
-| 50   | 13.02.2026 |                                                              | kapitola ADC avr 38, 39, 40, 42 (DS 20str/example chapter): Features, intro, Block Schematic, ...pote ADC avr 43, a ukazat priklad: kit schema, ukazka programu ze cviceni 7seg multiplexu (zapsat si), humor |           |               | Zkoušení (absence na poslední písemce): 13.02.2026: InRa, KlJa, ?: PaKr, VaKr |
+| 50   | 13.02.2026 |                                                              | zkoušení, kapitola ADC avr 38, 39, 40, 42 (DS 20str/example chapter): Features, intro, Block Schematic, ...pote ADC avr 43, a ukazat priklad: pripravek schema, ukazka programu ze cviceni 7seg multiplexu (zapsat si tyto radky s vysvetlenim) |           |               | Zkoušení (absence na poslední písemce): 13.02.2026: InRa, KlJa, ?: PaKr, VaKr |
 
 ##### Odložené témata/Možné témata pro prezentaci:
 
@@ -63,21 +63,22 @@
 
 ##### Skupina 1
 
-| PČ   | Datum      | Obsah a materiály                                            | Hodnocení | Bez hodnocení | Poznámka                    |
-| ---- | ---------- | ------------------------------------------------------------ | --------- | ------------- | --------------------------- |
-| 1    | 03.09.2025 | Dema, vývojový kit                                           |           |               |                             |
-| 2    | 17.09.2025 | [Výukový přípravek, nahrání programu](https://tomaschovanec.github.io/MIT/01_Uvod.html), [Blikání LEDkou, práce s registry](https://tomaschovanec.github.io/MIT/02_Blikani_LED.html) | Ukončeno  | 1             |                             |
-| 3    | 01.10.2025 | [Převody číselných soustav, bitové operace](https://tomaschovanec.github.io/MIT/03_Bitove_operace.html), [Práce s tlačítky](https://tomaschovanec.github.io/MIT/04_Tlacitka_podminky.html) | Ukončeno  | 2             |                             |
-| 4    | 15.10.2025 | Odpadá                                                       |           |               |                             |
-| 5    | 29.10.2025 | Odpadá                                                       |           |               |                             |
-| 6    | 12.11.2025 | [Sedmisegmentový displej](https://tomaschovanec.github.io/MIT/05_Sedmisegmentovy_displej.html) | Ukončeno  | 0             |                             |
-| 7    | 26.11.2025 | [Klávesnice](https://tomaschovanec.github.io/MIT/06_Klavesnice.html) | Ukončeno  | 0             |                             |
-| 8    | 10.12.2025 | Revize písemek                                               |           |               |                             |
-| 9    | 24.12.2025 | Odpadá                                                       |           |               |                             |
-| 10   | 07.01.2025 | [Multiplex sedmisegmentového displeje](https://tomaschovanec.github.io/MIT/07_Multiplex_sedmisegmentoveho_displeje.html) | Plánováno |               |                             |
-| 11   | 21.01.2026 | [LCD displej](https://tomaschovanec.github.io/MIT/12_LCD.html) | Plánováno |               | váha bude 0,75              |
-| 12   | 04.02.2026 | Revize písemek                                               |           |               |                             |
-| 13   |            |                                                              |           |               | DIG přípravky, ISR příklad? |
+| PČ   | Datum      | Obsah a materiály                                            | Hodnocení     | Bez hodnocení | Poznámka       |
+| ---- | ---------- | ------------------------------------------------------------ | ------------- | ------------- | -------------- |
+| 1    | 03.09.2025 | Dema, vývojový kit                                           |               |               |                |
+| 2    | 17.09.2025 | [Výukový přípravek, nahrání programu](https://tomaschovanec.github.io/MIT/01_Uvod.html), [Blikání LEDkou, práce s registry](https://tomaschovanec.github.io/MIT/02_Blikani_LED.html) | Ukončeno      | 1             |                |
+| 3    | 01.10.2025 | [Převody číselných soustav, bitové operace](https://tomaschovanec.github.io/MIT/03_Bitove_operace.html), [Práce s tlačítky](https://tomaschovanec.github.io/MIT/04_Tlacitka_podminky.html) | Ukončeno      | 2             |                |
+| 4    | 15.10.2025 | Odpadá                                                       |               |               |                |
+| 5    | 29.10.2025 | Odpadá                                                       |               |               |                |
+| 6    | 12.11.2025 | [Sedmisegmentový displej](https://tomaschovanec.github.io/MIT/05_Sedmisegmentovy_displej.html) | Ukončeno      | 0             |                |
+| 7    | 26.11.2025 | [Klávesnice](https://tomaschovanec.github.io/MIT/06_Klavesnice.html) | Ukončeno      | 0             |                |
+| 8    | 10.12.2025 | Revize písemek                                               |               |               |                |
+| 9    | 24.12.2025 | Odpadá                                                       |               |               |                |
+| 10   | 07.01.2025 | [Multiplex sedmisegmentového displeje](https://tomaschovanec.github.io/MIT/07_Multiplex_sedmisegmentoveho_displeje.html) | Ukončeno      | 0             |                |
+| 11   | 21.01.2026 | [LCD displej](https://tomaschovanec.github.io/MIT/12_LCD.html) | **Plánováno** |               | váha bude 0,75 |
+| 12   | 04.02.2026 | Revize písemek                                               |               |               |                |
+| 13   | 18.02.2026 | příklad na ISR EINT (obousměrný čítač) a sedmisegmentový displej | Plánováno     |               |                |
+|      |            |                                                              |               |               | DIG přípravky  |
 
 ##### Skupina 2
 
