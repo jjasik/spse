@@ -53,9 +53,10 @@
 | 46   | 30.01.2026 | Odpadá                                                       |                                                              |           |               |                                                 |
 | 47   | 05.02.2026 | [klopne_obvody.pptx](../../predmety/dig/materialy/klopne_obvody.pptx) až po str.47 | KO T hranový: blokové schéma, přechodová tabulka/časový diagram, [video #1](https://www.youtube.com/watch?v=gdMdMC0guDY&t=46s) T (s CLK vstupem), pojmy: Bistabilní/Monostabilní/Astabilní |           |               |                                                 |
 | 48   | 05.02.2026 | Projití témat písemky a příklady                             |                                                              |           |               |                                                 |
-| 49   | 06.02.2026 | Písemka                                                      | [Témata](../../predmety/dig/materialy/pisemka-klopne-obvody-1.pdf) | Plánováno | 1             |                                                 |
+| 49   | 06.02.2026 | Písemka                                                      | [Témata](../../predmety/dig/materialy/pisemka-klopne-obvody-1.pdf) | Ukončeno  | 0             |                                                 |
 | 50   | 12.02.2026 | Revize písemek                                               |                                                              |           |               |                                                 |
 | 51   | 13.02.2026 | Revize písemek                                               |                                                              |           |               |                                                 |
+| 52   | 19.02.2026 |                                                              | Vrátíme se k prezentaci "Technologie TTL" a začneme nové téma. |           |               |                                                 |
 
 ##### Odložené témata/Možné témata pro prezentaci:
 
@@ -108,5 +109,4 @@
 | 9    | 05.01.2026 | [Klopný obvod R-S](../../predmety/dig/bloky/cviceni/klopny-obvod-r-s/readme.md) | Ukončeno  | 7             |          |
 | 10   | 19.01.2026 | [Klopný obvod D](../../predmety/dig/bloky/cviceni/klopny-obvod-d/readme.md) |           |               |          |
 | 11   | 02.02.2026 | [Klopný obvod D](../../predmety/dig/bloky/cviceni/klopny-obvod-d/readme.md) - dokončení | Ukončeno  | 8             |          |
-| 12   | 16.02.2026 | Revize písemek                                               |           |               |          |
-| 13   | 02.03.2026 | ?Klopný obvod D pomocí IO MH74ALS74 (v poslední úloze naznačeno na obr.4.6 v přiloženém PDF) - kdo již dokončil 02.02.2026? | Plánováno |               |          |
+| 12   | 16.02.2026 | Revize písemek, Klopný obvod D pomocí IO MH74ALS74 (v poslední úloze naznačeno na obr.4.6 v přiloženém PDF) | Plánováno |               |          |
