@@ -69,3 +69,4 @@ viz.sekce Materiály
 1. [Dekodér a 7segmentový displej (a nepájivé pole)](https://github.com/jjasik/spse/tree/main/predmety/dig/bloky/cviceni/sedm-segment)
 1. [Klopný obvod R-S (a nepájivé pole)](bloky/cviceni/klopny-obvod-r-s/readme.md)
 1. [Klopný obvod D (a nepájivé pole)](bloky/cviceni/klopny-obvod-d/readme.md)
+1. [Klopný obvod D pomocí IO 7474 (a nepájivé pole))](bloky/cviceni/klopny-obvod-d-7474/readme.md)
