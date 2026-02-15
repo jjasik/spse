@@ -20,8 +20,8 @@ Není
 | 8    | 22.12.2025 | Odpadá                                                       |           |               |          |
 | 9    | 05.01.2026 | VHDL: úloha #3 (dvě varianty sčítačky)                       |           |               |          |
 | 10   | 19.01.2026 | VHDL: úloha #3 (dvě varianty sčítačky) - dokončení           | Ukončeno  | 5             |          |
-| 11   | 02.02.2026 | syntaxe jazyka - základy, VHDL: úloha #4 (čítač)             | Plánováno |               |          |
-| 12   | 16.02.2026 | dokončení úlohy z minula/zadání do ŠOL, nová úloha           |           |               |          |
+| 11   | 02.02.2026 | syntaxe jazyka - základy, VHDL: úloha #4 (čítač)             | Ukončeno  | 1             |          |
+| 12   | 16.02.2026 | dokončení úlohy z minula (někteří), VHDL: úloha: #5 (ovládání 7seg. displeje) | Plánováno |               |          |
 
 ##### Skupina 2
 
