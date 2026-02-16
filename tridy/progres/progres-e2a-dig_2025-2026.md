@@ -109,4 +109,4 @@
 | 9    | 05.01.2026 | [Klopný obvod R-S](../../predmety/dig/bloky/cviceni/klopny-obvod-r-s/readme.md) | Ukončeno  | 7             |          |
 | 10   | 19.01.2026 | [Klopný obvod D](../../predmety/dig/bloky/cviceni/klopny-obvod-d/readme.md) |           |               |          |
 | 11   | 02.02.2026 | [Klopný obvod D](../../predmety/dig/bloky/cviceni/klopny-obvod-d/readme.md) - dokončení | Ukončeno  | 8             |          |
-| 12   | 16.02.2026 | Revize písemek, [Klopný obvod D pomocí IO 7474](../../predmety/dig/bloky/cviceni/klopny-obvod-d-7474/readme.md) | Plánováno |               |          |
+| 12   | 16.02.2026 | Revize písemek, [Klopný obvod D pomocí IO 7474](../../predmety/dig/bloky/cviceni/klopny-obvod-d-7474/readme.md) | Ukončeno  | 2             |          |
