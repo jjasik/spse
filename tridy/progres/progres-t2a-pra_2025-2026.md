@@ -21,7 +21,7 @@ Není
 | 9    | 05.01.2026 | VHDL: úloha #3 (dvě varianty sčítačky)                       |           |               |          |
 | 10   | 19.01.2026 | VHDL: úloha #3 (dvě varianty sčítačky) - dokončení           | Ukončeno  | 5             |          |
 | 11   | 02.02.2026 | syntaxe jazyka - základy, VHDL: úloha #4 (čítač)             | Ukončeno  | 1             |          |
-| 12   | 16.02.2026 | dokončení úlohy z minula (někteří), VHDL: úloha: #5 (ovládání 7seg. displeje) | Plánováno |               |          |
+| 12   | 16.02.2026 | VHDL: úloha: #5 (ovládání 7seg. displeje): ad 1), ad 2)      | Plánováno |               |          |
 
 ##### Skupina 2
 
