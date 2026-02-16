@@ -54,7 +54,9 @@
 | 48   | 06.02.2026 | [Analogové rozhraní](../../predmety/mit/materialy/avr_adc.pptx) po str.26 | aproximační převodník, D/A převodník - funkce                |           |               |                                                 |
 | 49   | 09.02.2026 | [Analogové rozhraní](../../predmety/mit/materialy/avr_adc.pptx) po str.38 (příště: vysvětlit single/diff channels a pokračovat) | D/A převodník s váhovými rezistory: příklad výpočtu výstupního napětí pro 0/LSB/MSB/full range rozsah, D/A převodník s sítí R-2R (stejný princip), kontrolní otázky projítí, začátek ADC na AVR kapitoly (vlastnosti) |           |               |                                                 |
 | 50   | 13.02.2026 | Zkoušení (absence na písemce)                                |                                                              |           |               |                                                 |
-| 51   | 16.02.2026 |                                                              |                                                              |           |               |                                                 |
+| 51   | 16.02.2026 | Zkoušení (absence na písemce), [Analogové rozhraní](../../predmety/mit/materialy/avr_adc.pptx) po str.42, ukázka obsahu kapitoly ADC převodníku z dokumentace | Pojmy: single-end channel, a diferenční zapojení vstupů ADC, princip práce s převodníkem, základní řídící a stavové registry, převodní vzorec pro oba typy zapojení vstupů |           |               |                                                 |
+| 52   | 20.02.2026 |                                                              |                                                              |           |               |                                                 |
+| 53   | 23.02.2026 | Zkoušení (absence na písemce): PaKr                          |                                                              |           |               |                                                 |
 
 ##### Odložené témata/Možné témata pro prezentaci:
 
