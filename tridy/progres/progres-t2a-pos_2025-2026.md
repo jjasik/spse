@@ -55,7 +55,7 @@
 | 48   | 29.01.2026 | CCNA1: dále až po 11.7. Subnet to Meet Requirements          | Broadcast Domain, subnetting concept, subnets in IPV4, 11.7. Subnet to Meet Requirements (příště) |           |               |                                                 |
 | 49   | 02.02.2026 | CCNA1: dále až po 11.8.1 Video - VLSM Basics                 | Subnet Private versus Public IPv4 Address Space, Private: using /16 /24, příklad na efektivní rozdělení přidělených veřejných IP adres, VLSM Basics |           |               |                                                 |
 | 50   | 03.02.2026 | CCNA1: dále až po 11.8.2 Video - VLSM Example                | více příkladů na subnetting, 11.8.1 video a část videa 11.8.2 |           |               |                                                 |
-| 51   | 05.02.2026 | Písemka                                                      | [Témata](../../predmety/pos/materialy/pisemka-arp-routing-ether-ipv4addr-subnet.pdf) | Plánováno |               |                                                 |
+| 51   | 05.02.2026 | Písemka                                                      | [Témata](../../predmety/pos/materialy/pisemka-arp-routing-ether-ipv4addr-subnet.pdf) | Ukončeno  | 5             |                                                 |
 | 52   | 10.02.2026 | CCNA1: dále až po 12.3.1 Unicast, Multicast, Anycast (příště) | VLSM příklad, strukturovaný návrh (seznam zařízení k zohlednění pří plánování rozdělení adresace), adresace IPV6: formát adresy, možnosti zkracování adresy |           |               |                                                 |
 | 53   | 12.02.2026 | Zkoušení (absence na písemce)                                |                                                              |           |               |                                                 |
 | 54   | 17.02.2026 | CCNA1: dále až po 12.3.5 IPv6 GUA                            | Unicast/Multicast/Anycast, Prefix Length, Global Unicast/Link-local/Loopback |           |               |                                                 |
@@ -91,6 +91,7 @@
 | 10   | 13.01.2026 | CCNA1: cvičení 3.5.5                                         | Ukončeno  | 2             |          |
 | 11   | 27.01.2026 | CCNA1: 3.7.10/7.2.7/7.3.7                                    | Ukončeno  | 2/5/13        |          |
 | 12   | 10.02.2026 | Projití písemek, CCNA1: cvičení 10.4.3 Lab - Build a Switch and Router Network (PT) | Ukončeno  | 9             |          |
+| 13   | 24.02.2026 | CCNA1: cvičení 10.4.3 Lab - Build a Switch and Router Network (Lab HW) | Plánováno |               |          |
 
 ##### Skupina 2
 
