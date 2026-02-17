@@ -107,4 +107,5 @@
 | 10   | 06.01.2026 | CCNA1: cvičení 3.5.5                                         | Ukončeno  | 3             |                                                      |
 | 11   | 20.01.2026 | CCNA1: cvičení 3.7.10/7.2.7/7.3.7                            | Ukončeno  | 3/7/13        |                                                      |
 | 12   | 03.02.2026 | CCNA1: cvičení 10.4.3 Lab - Build a Switch and Router Network (PT) | Ukončeno  | 3             |                                                      |
-| 13   | 17.02.2026 | Projití písemek, CCNA1: cvičení 10.4.3 Lab - Build a Switch and Router Network (Lab HW) | Plánováno |               |                                                      |
+| 13   | 17.02.2026 | Revize písemek                                               |           |               |                                                      |
+| 14   | 03.03.2026 | CCNA1: cvičení 10.4.3 Lab - Build a Switch and Router Network (Lab HW) | Plánováno |               |                                                      |
