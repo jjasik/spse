@@ -59,7 +59,9 @@
 | 52   | 10.02.2026 | CCNA1: dále až po 12.3.1 Unicast, Multicast, Anycast (příště) | VLSM příklad, strukturovaný návrh (seznam zařízení k zohlednění pří plánování rozdělení adresace), adresace IPV6: formát adresy, možnosti zkracování adresy |           |               |                                                 |
 | 53   | 12.02.2026 | Zkoušení (absence na písemce)                                |                                                              |           |               |                                                 |
 | 54   | 17.02.2026 | CCNA1: dále až po 12.3.5 IPv6 GUA                            | Unicast/Multicast/Anycast, Prefix Length, Global Unicast/Link-local/Loopback |           |               |                                                 |
-| 55   | 19.02.2026 | Zkoušení (absence na písemce): KoMa                          |                                                              |           |               | určit plán na další prezentaci                  |
+| 55   | 19.02.2026 | Příklady: subnetting, VLSM                                   | [priklady-subnetting-zadani.docx](../../predmety/pos/materialy/priklady-subnetting-zadani.docx), [priklady-vlsm-zadani.docx](../../predmety/pos/materialy/priklady-vlsm-zadani.docx) |           |               |                                                 |
+| 56   | 19.02.2026 | Příklady: subnetting, VLSM                                   |                                                              |           |               |                                                 |
+| 57   | 24.02.2026 | Zkoušení (absence na písemce): KoMa                          |                                                              |           |               | určit plán na další prezentaci                  |
 
 ##### Odložené témata/Možné témata pro prezentaci:
 
