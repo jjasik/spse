@@ -56,7 +56,8 @@
 | 49   | 06.02.2026 | Písemka                                                      | [Témata](../../predmety/dig/materialy/pisemka-klopne-obvody-1.pdf) | Ukončeno  | 0             |                                                 |
 | 50   | 12.02.2026 | Revize písemek                                               |                                                              |           |               |                                                 |
 | 51   | 13.02.2026 | Revize písemek                                               |                                                              |           |               |                                                 |
-| 52   | 19.02.2026 |                                                              | Vrátíme se k prezentaci "Technologie TTL" a začneme nové téma. |           |               |                                                 |
+| 52   | 19.02.2026 | Prezentace "Technologie TTL"                                 |                                                              |           |               |                                                 |
+| 53   | 20.02.2026 | "Kolik IO je potřeba?", kdo a co další?, DoEr: NAND TTL funkce, video #1, nová látka, příprava na cv. |                                                              |           |               |                                                 |
 
 ##### Odložené témata/Možné témata pro prezentaci:
 
@@ -73,7 +74,7 @@
 | PČ   | Datum      | Téma                   | Autoři      |
 | ---- | ---------- | ---------------------- | ----------- |
 | 1    | 04.12.2025 | SČÍTAČKA A  KOMPARÁTOR | ToOn, SaSe  |
-| 2    | 05.02.2026 | Technologie TTL        | BabJa, MaJa |
+| 2    | 19.02.2026 | Technologie TTL        | BabJa, MaJa |
 
 #### Cvičení
 
