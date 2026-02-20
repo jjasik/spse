@@ -57,7 +57,7 @@
 | 50   | 12.02.2026 | Revize písemek                                               |                                                              |           |               |                                                 |
 | 51   | 13.02.2026 | Revize písemek                                               |                                                              |           |               |                                                 |
 | 52   | 19.02.2026 | Prezentace "Technologie TTL"                                 |                                                              |           |               |                                                 |
-| 53   | 20.02.2026 | "Kolik IO je potřeba?", kdo a co další?, DoEr: NAND TTL funkce, video #1, nová látka, příprava na cv. |                                                              |           |               |                                                 |
+| 53   | 20.02.2026 | [citace.pptx](../../predmety/dig/materialy/citace.pptx) až po str.8 | [video #1](https://www.youtube.com/watch?v=jy7d__210sM), čítače: funkce/účel, blokové schéma, použití KO s toggle funkcí pro jejich konstrukci |           |               |                                                 |
 
 ##### Odložené témata/Možné témata pro prezentaci:
 
@@ -71,10 +71,11 @@
 
 #### Prezentace
 
-| PČ   | Datum      | Téma                   | Autoři      |
-| ---- | ---------- | ---------------------- | ----------- |
-| 1    | 04.12.2025 | SČÍTAČKA A  KOMPARÁTOR | ToOn, SaSe  |
-| 2    | 19.02.2026 | Technologie TTL        | BabJa, MaJa |
+| PČ   | Datum      | Téma                   | Autoři       |
+| ---- | ---------- | ---------------------- | ------------ |
+| 1    | 04.12.2025 | SČÍTAČKA A  KOMPARÁTOR | ToOn, SaSe   |
+| 2    | 19.02.2026 | Technologie TTL        | BabJa, MaJa  |
+| 3    | 26.02.2026 | Funkce NAND TTL prvku  | TomeMi, DzJu |
 
 #### Cvičení
 
@@ -94,6 +95,7 @@
 | 10   | 12.01.2025 | [Klopný obvod R-S](../../predmety/dig/bloky/cviceni/klopny-obvod-r-s/readme.md) | Ukončeno  | 2             |          |
 | 11   | 26.01.2025 | [Klopný obvod D](../../predmety/dig/bloky/cviceni/klopny-obvod-d/readme.md) | Ukončeno  | 2             |          |
 | 12   | 09.02.2025 | Revize písemek, Klopný obvod D pomocí IO MH74ALS74 (v poslední úloze naznačeno na obr.4.6 v přiloženém PDF) | Ukončeno  | 4             |          |
+| 13   | 23.02.2025 |                                                              |           |               |          |
 
 ##### Skupina 2
 
