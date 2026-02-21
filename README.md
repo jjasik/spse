@@ -4,13 +4,6 @@
 - [MIT](predmety/mit/readme.md)
 - [POS](predmety/pos/readme.md)
 
-### Které třídy učím
-
-- E2A (DIG, PRA): [rozvrh](tridy/rozvrhy/rozvrh-e2a_2025-2026.pdf)
-- E2B (DIG, PRA): [rozvrh](tridy/rozvrhy/rozvrh-e2b_2025-2026.pdf)
-- T2A (POS, PRA): [rozvrh](tridy/rozvrhy/rozvrh-t2a_2025-2026.pdf)
-- E3B (MIT): [rozvrh](tridy/rozvrhy/rozvrh-e3b_2025-2026.pdf)
-
 ### Progres výuky ve třídách
 
 - E2A: [DIG](tridy/progres/progres-e2a-dig_2025-2026.md), [PRA](tridy/progres/progres-e2a-pra_2025-2026.md)
