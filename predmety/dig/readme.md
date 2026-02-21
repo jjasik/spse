@@ -43,6 +43,7 @@ Viz. ŠVP: [DIG](svp-temata.md)
    5. [kombinacni_obvody.pptx](materialy/kombinacni_obvody.pptx) ([errata-1](materialy/kombinacni_obvody_errata-1.pptx))
    6. [sekvencni_obvody.pptx](materialy/sekvencni_obvody.pptx)
    7. [klopne_obvody.pptx](materialy/klopne_obvody.pptx)
+   8. [citace.pptx](materialy/citace.pptx)
 2. Sbírky příkladů:
    1. [sbirka-prikladu-1.pdf](materialy/sbirka-prikladu-1.pdf)
 
