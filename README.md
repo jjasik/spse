@@ -6,10 +6,10 @@
 
 ### Progres výuky ve třídách
 
-- E2A: [DIG](tridy/progres/2025-2026-e2a-dig.md), [PRA](tridy/progres/progres-e2a-pra_2025-2026.md)
-- E2B: [DIG](tridy/progres/progres-e2b-dig_2025-2026.md), [PRA](tridy/progres/progres-e2b-pra_2025-2026.md)
-- T2A: [POS](tridy/progres/progres-t2a-pos_2025-2026.md), [PRA](tridy/progres/progres-t2a-pra_2025-2026.md)
-- E3B: [MIT](tridy/progres/progres-e3b-mit_2025-2026.md)
+- E2A: [DIG](tridy/progres/2025-2026-e2a-dig.md), [PRA](tridy/progres/2025-2026-e2a-pra.md)
+- E2B: [DIG](tridy/progres/2025-2026-e2b-dig.md), [PRA](tridy/progres/2025-2026-e2b-pra.md)
+- T2A: [POS](tridy/progres/2025-2026-t2a-pos.md), [PRA](tridy/progres/2025-2026-t2a-pra.md)
+- E3B: [MIT](tridy/progres/2025-2026-e3b-mit.md)
 
 ### O mně (a několik našich pravidel)
 
