@@ -80,34 +80,41 @@ viz.sekce Materiály
 
 ##### Cvičení
 
-1. 2.ročník:
-   1. 1.0.4 Video - Getting Started in Cisco Packet Tracer
-   2. 1.0.5 Packet Tracer - Logical and Physical Mode Exploration (PacketTracer)
-   3. 2.3.7 Packet Tracer - Navigate the IOS (PacketTracer)
-   4. 2.3.8 Lab - Navigate the IOS by Using Tera Term for Console Connectivity (PacketTracer + Lab HW)
-   5. 2.5.4 Capture Configuration to a Text File (PacketTracer)
-   6. 2.5.5 Packet Tracer - Configure Initial Switch Settings (PacketTracer)
-   7. 2.7.6 Packet Tracer - Implement Basic Connectivity (PacketTracer)
-   8. 2.9.1 Packet Tracer - Basic Switch and End Device Configuration (Packet Tracer)
-   9. 2.9.2 Lab - Basic Switch and End Device Configuration (Packet Tracer + Lab HW)
-   10. * 3.5.5 Packet Tracer - Investigate the TCP/IP and OSI Models in Action (Packet Tracer)
-   11. 3.7.9 Lab - Install Wireshark (Lab HW)
-   12. * 3.7.10 Lab - Use Wireshark to View Network Traffic (Lab HW)
-   13. 4.6.5 Packet Tracer - Connect a Wired and Wireless LAN (Packet Tracer)
-   14. 4.6.6 Lab - View Wired and Wireless NIC Information (Lab HW)
-   15. * 4.7.1 Packet Tracer - Physical Layer Exploration (Packet Tracer)
-   16. * 4.7.2 Packet Tracer - Connect the Physical Layer (Packet Tracer)
-   17. * 7.1.6 Lab - Use Wireshark to Examine Ethernet Frames Topology
-   18. * 7.2.7 Lab - View Network Device MAC Addresses
-   19. * 7.3.7 Lab - View the Switch MAC Address Table
-   20. 9.1.3 Packet Tracer - Identify MAC and IP Addresses
-   21. 9.2.9 Packet Tracer - Examine the ARP Table
-   22. 9.3.4 Packet Tracer - IPv6 Neighbor Discovery
-   23. 10.1.4 Packet Tracer - Configure Initial Router Settings
-   24. 10.3.4 Packet Tracer - Connect a Router to a LAN
-   25. 10.3.5 Packet Tracer - Troubleshoot Default Gateway Issues
-   26. * 10.4.3 Lab - Build a Switch and Router Network (Packet Tracer + Lab HW)
-   27. ?11.5.5 Packet Tracer - Subnet an IPv4 Network
-   28. ?11.6.6 Lab - Calculate IPv4 Subnets
-   29. ?11.7.5 Packet Tracer - Subnetting Scenario
-   30. ?11.9.3 Packet Tracer - VLSM Design and Implementation Practice
+2.ročník:
+
+| Úloha                                                        | Doporučeno |
+| ------------------------------------------------------------ | ---------- |
+| 1.0.4 Video - Getting Started in Cisco Packet Tracer         | Ano        |
+| 1.0.5 Packet Tracer - Logical and Physical Mode Exploration (PacketTracer) | Ano        |
+| 1.5.5 Packet Tracer - Network Representation                 |            |
+| 1.9.3 Lab - Research IT and Networking Job Opportunities     |            |
+| 2.3.7 Packet Tracer - Navigate the IOS (PacketTracer)        | Ano        |
+| 2.3.8 Lab - Navigate the IOS by Using Tera Term for Console Connectivity (PacketTracer + Lab HW) | Ano        |
+| 2.5.4 Capture Configuration to a Text File (PacketTracer)    | Ano        |
+| 2.5.5 Packet Tracer - Configure Initial Switch Settings (PacketTracer) | Ano        |
+| 2.7.6 Packet Tracer - Implement Basic Connectivity (PacketTracer) | Ano        |
+| 2.9.1 Packet Tracer - Basic Switch and End Device Configuration (Packet Tracer) | Ano        |
+| 2.9.2 Lab - Basic Switch and End Device Configuration (Packet Tracer + Lab HW) | Ano        |
+| 3.4.4 Lab - Research Networking Standards                    |            |
+| 3.5.5 Packet Tracer - Investigate the TCP/IP and OSI Models in Action (Packet Tracer) | Ano        |
+| 3.7.9 Lab - Install Wireshark (Lab HW)                       |            |
+| 3.7.10 Lab - Use Wireshark to View Network Traffic (Lab HW)  | Ano        |
+| 4.6.5 Packet Tracer - Connect a Wired and Wireless LAN (Packet Tracer) |            |
+| 4.6.6 Lab - View Wired and Wireless NIC Information (Lab HW) |            |
+| 4.7.1 Packet Tracer - Physical Layer Exploration (Packet Tracer) |            |
+| 4.7.2 Packet Tracer - Connect the Physical Layer (Packet Tracer) |            |
+| 7.1.6 Lab - Use Wireshark to Examine Ethernet Frames Topology |            |
+| 7.2.7 Lab - View Network Device MAC Addresses                | Ano        |
+| 7.3.7 Lab - View the Switch MAC Address Table                | Ano        |
+| 9.1.3 Packet Tracer - Identify MAC and IP Addresses          |            |
+| 9.2.9 Packet Tracer - Examine the ARP Table                  |            |
+| 9.3.4 Packet Tracer - IPv6 Neighbor Discovery                |            |
+| 10.1.4 Packet Tracer - Configure Initial Router Settings     |            |
+| 10.3.4 Packet Tracer - Connect a Router to a LAN             |            |
+| 10.3.5 Packet Tracer - Troubleshoot Default Gateway Issues   |            |
+| 10.4.3 Lab - Build a Switch and Router Network (Packet Tracer + Lab HW) | Ano        |
+| 11.5.5 Packet Tracer - Subnet an IPv4 Network                | ?          |
+| 11.6.6 Lab - Calculate IPv4 Subnets                          | ?          |
+| 11.7.5 Packet Tracer - Subnetting Scenario                   | ?          |
+| 11.9.3 Packet Tracer - VLSM Design and Implementation Practice | ?          |
+
