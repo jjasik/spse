@@ -71,3 +71,4 @@ viz.sekce Materiály
 1. [Klopný obvod R-S (a nepájivé pole)](bloky/cviceni/klopny-obvod-r-s/readme.md)
 1. [Klopný obvod D (a nepájivé pole)](bloky/cviceni/klopny-obvod-d/readme.md)
 1. [Klopný obvod D pomocí IO 7474 (a nepájivé pole))](bloky/cviceni/klopny-obvod-d-7474/readme.md)
+1. [Klopný obvod JK pomocí IO 7473)](bloky/cviceni/klopny-obvod-jk-7473/readme.md)
