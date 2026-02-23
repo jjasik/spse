@@ -24,6 +24,7 @@
 3. Rozvrhněte si vhodné rozmístění součástek na nepájivém poli a při vypnutém napájení zapojte schéma pomocí propojovacích drátků (příklad rozvržení a zapojení [zde](rozvrzeni.jpg))
 4. Po zapnutí napájení ověřte funkci obvodu a do sešitu si zdokumentujte: elektrické zapojení, tabulku přechodů stavů/časový diagram
 5. Co se stane pokud budete držet dohromady vstupy J a K zmáčknuté a vyvolávat hrany na vstupu CLK? Jaký klopný obvod jste takto realizovali?
+6. Na PC v učebně je nainstalován program Atanua, zkuste se s ním seznámit (zaexperimentovat) a realizovat v něm simulaci stejného obvodu.
 
 #### Co by mohlo pomoci
 
