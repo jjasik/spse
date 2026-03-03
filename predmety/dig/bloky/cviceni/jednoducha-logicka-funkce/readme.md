@@ -1,4 +1,4 @@
-### Jednoduchá logická funkce (a nepájivé pole)
+### Jednoduchá logická funkce
 
 #### Doporučení
 
@@ -7,28 +7,28 @@
 
 #### Potřebné vybavení
 
-1. Nepájivé pole osazené zdrojem napájení, tlačítky a LEDkama, napájecí kabel např. USB, propojovací drátky
-2. IC (Integrated Circuit) 7400 (či alternativa)
+1. Nepájivé pole osazené zdrojem napájení, tlačítky a LEDkama (či alternativně prázdné nepájivé pole), napájecí kabel např. USB, propojovací drátky
+2. IO 7400 (či alternativa)
 3. Voltmetr, ohmmetr
+4. Další součástky nejsou potřeba (tlačítka, rezistory a LED diody se použijí tak jak jsou na standartním nepájivém poli)
 
 #### Cíle
 
-1. realizujte jednoduchou logickou funkci: Y = NEG (A*B), přičemž vstupní proměnné (A, B) jsou připojeny ke dvěma tlačítkům, a výstup na LED
-2. ověřte, že reálná implementace všech vstupních stavů odpovídá teorii
-3. Bonus: změřte odběr IC a srovnejte s jeho dokumentací
+1. realizujte jednoduchou logickou funkci: Y = NEG (A*B), přičemž vstupní proměnné (A, B) jsou připojeny ke dvěma tlačítkům, a výstup na jednu LED
+2. ověřte, že reálná implementace všech vstupních stavů odpovídá teorii (dvě tabulky: teoretická a změřená na přípravku a jejich porovnání)
 
 #### Návodka
 
-1. sestavte tabulku hodnot realizované logické funkce (teoreticky) na papír
-2. seznamte se s nepájivým polem, zjistěte jak jsou vnitřně pospojovány jednotlivé oblasti
-3. zjistěte jaké napájení generuje zdroj a zda-li je v toleranci pro IC (viz jeho dokumentace)
-4. seznamte se s IC 7400, zjistěte základní informace z dokumentace, úrovně napájení, funkce jednotlivých pinů, pokud máte dispozici pouze alternativu IC s jiným značením prověřte, že je použitelný pro naši úlohu
-5. při vypnutém napájení zapojte IC do nepájivého pole pomocí propojovacích drátků
-6. sestavte tabulku hodnot realizované logické funkce (reálných, ověřením implementace na nepájivém poli) na papír a porovnejte s teoretickou
+1. Sestavte teoretickou tabulku hodnot realizované logické funkce
+2. Seznamte se s nepájivým polem, zjistěte jak jsou vnitřně pospojovány jednotlivé oblasti
+3. Zjistěte jaké napájení generuje zdroj a zda-li je v toleranci pro daný použitý IO (viz. jeho dokumentace)
+4. Seznamte se s IO 7400: zjistěte základní informace z jeho dokumentace jako jsou úrovně napájení, funkce jednotlivých pinů, pokud máte dispozici pouze alternativu IO s jiným značením prověřte, že je použitelný i pro naši úlohu
+5. Při vypnutém napájení zapojte schéma pomocí propojovacích drátků (příklad rozvržení a zapojení [zde](rozvrzeni.jpg))
+6. Sestavte tabulku hodnot realizované logické funkce (reálnou, ověřením implementace na nepájivém poli) a porovnejte ji s teoretickou
 
 #### Co by mohlo pomoci
 
-1. Poznámky: [1](tabule-001.jpg) - může pomoci "jak zapojit", [2](tabule-002.jpg) - může pomoci se zapojením tlačítka a IC, [IC data sheet 7400](sn7400_v-2017-05.pdf)
+1. [IO 7400](sn7400.pdf)
 
 #### Alternace (další možnosti)
 
