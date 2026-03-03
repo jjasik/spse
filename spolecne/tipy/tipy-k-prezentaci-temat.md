@@ -1,50 +1,27 @@
 ##### Motivace:
 
--připravit se systematicky předem
-
--zlepšení komunikace, vyjadřování před publikem
-
--rozdělení práce ve dvou
-
--vyzkoušet si být "učitel"
-
--umění prodat se
-
--atd.
-
-
+- zlepšení komunikace a vyjadřování před publikem
+- schopnost připravit se systematicky předem
+- rozdělení práce ve dvou
+- vyzkoušet si být "učitel"
+- umění prodat se
+- atd.
 
 ##### Na co nezapomenout:
 
--popsat co bude obsahem (odhadnout čas)
-
--prezentace, video, tabule
-
--průběžně říkat co je důležité a co si poznačit (sešity)
-
--zminít reálné příklady, demonstrace, použití, obrázky
-
--příprava materialů k rozdání předem (mohu zajistit tisk)
-
--interakce s obecenstvem
-
--mělo by to být trochu FUN
-
-na závěr shrnutí, popř. kontrolní otázky 
-
-
+- popsat co bude obsahem (a odhadnout čas)
+- použít: prezentaci, video, tabuli
+- průběžně říkat co je důležité a co si poznačit (sešity)
+- zmínit reálné příklady, demonstrace, použití, obrázky
+- příprava materiálů k rozdání předem (mohu zajistit případně tisk)
+- interakce s obecenstvem
+- mělo by to být trochu FUN
+- na závěr shrnutí, popř. kontrolní opakovací otázky
 
 ##### Bude následovat:
 
--sebezhodnocení (...vč.množství přípravy, času atd.)
-
--zhodnoťte jestli to bylo těžké/lehké (obecenstvo poslouchalo, neposlouchalo?)
-
--vyberte si tři ať Vám sdělí názor (jednu, dvě věty)
-
--ja taktéž zhodnotím
-
--můžete určit další dvojičku (témata a termín, dohodneme později)
-
-
-
+- sebe-zhodnocení (vč. množství přípravy, času atd.)
+- těžké/lehké? (obecenstvo poslouchalo, neposlouchalo?)
+- vyberte si tři ať Vám sdělí názor (jednu či dvě věty)
+- já taktéž zhodnotím a poskytnu zpětnou vazbu
+- můžete určit další dvojici pro další téma (tém a termín dohodneme později)
