@@ -14,7 +14,7 @@
 
 #### Cíle
 
-1. realizujte bistabilní klopný obvod R-S na nepájivém poli - podrobnější schéma bude vysvětleno na tabuli!
+1. realizujte bistabilní klopný obvod RS na nepájivém poli - podrobnější schéma bude vysvětleno na tabuli!
 
 
 #### Návodka
