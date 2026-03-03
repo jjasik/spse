@@ -1,0 +1,36 @@
+### Čítač pomocí klopných obvodů JK
+
+#### Doporučení
+
+1. Pracovat lze samostatně či po dvojicích (doporučeno).
+1. Pokud je něco nejasné hned se ptejte.
+
+#### Potřebné vybavení
+
+1. Nepájivé pole osazené zdrojem napájení, tlačítky a LEDkama (či alternativně prázdné nepájivé pole), napájecí kabel např. USB, propojovací drátky
+2. IO 7400 (či alternativa) a IO 7473 (či alternativa)
+3. Voltmetr, ohmmetr
+4. Další součástky nejsou potřeba (tlačítka, rezistory a LED diody se použijí tak jak jsou na standartním nepájivém poli)
+
+#### Cíle
+
+1. realizujte 4-bitový asynchronní čítač pomocí klopných obvodů JK na nepájivém poli - podrobnější schéma bude vysvětleno na tabuli!
+
+
+#### Návodka
+
+1. Prostudujte schéma
+2. Zjistěte které součástky nemáte k dispozici
+3. Rozvrhněte si vhodné rozmístění součástek na nepájivém poli a při vypnutém napájení zapojte schéma pomocí propojovacích drátků (příklad rozvržení a zapojení [zde](rozvrzeni.jpg)): doporučuji napřed vyzkoušet každý klopný obvod zvlášť a teprve poté zapojovat jejich vzájemnou kaskádu (tj.spojení výstupu Q a dalšího vstupu CLK).
+4. Po zapnutí napájení ověřte funkci obvodu, popř. proveďte analýzu případných problémů zapojení a do sešitu si zdokumentujte: elektrické zapojení, tabulku přechodů stavů/časový diagram
+5. Na PC v učebně je nainstalován program Atanua, zkuste se s ním seznámit (zaexperimentovat) a realizovat v něm simulaci stejného obvodu.
+
+#### Co by mohlo pomoci
+
+1. [Klopný obvod JK](https://www.vovcr.cz/odz/tech/380/page30.html)
+1. [IO 7400](sn7400.pdf)
+1. [IO 7473](sn7473.pdf)
+
+#### Alternace (další možnosti)
+
+Nejsou
