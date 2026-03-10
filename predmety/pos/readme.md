@@ -113,8 +113,13 @@ viz.sekce Materiály
 | 10.3.4 Packet Tracer - Connect a Router to a LAN             |            |
 | 10.3.5 Packet Tracer - Troubleshoot Default Gateway Issues   |            |
 | 10.4.3 Lab - Build a Switch and Router Network (Packet Tracer + Lab HW) | Ano        |
-| 11.5.5 Packet Tracer - Subnet an IPv4 Network                | ?          |
-| 11.6.6 Lab - Calculate IPv4 Subnets                          | ?          |
-| 11.7.5 Packet Tracer - Subnetting Scenario                   | ?          |
-| 11.9.3 Packet Tracer - VLSM Design and Implementation Practice | ?          |
+| 11.5.5 Packet Tracer - Subnet an IPv4 Network                |            |
+| 11.6.6 Lab - Calculate IPv4 Subnets                          |            |
+| 11.7.5 Packet Tracer - Subnetting Scenario                   |            |
+| 11.9.3 Packet Tracer - VLSM Design and Implementation Practice |            |
+| 11.10.1 Packet Tracer - Design and Implement a VLSM Addressing Scheme | Ano        |
+| 11.10.2 Lab - Design and Implement a VLSM Addressing Scheme (Packet Tracer + Lab HW) | ?          |
+| 12.4.5 Packet Tracer - Basic Device Configuration            | ?          |
+| 12.6.6 Packet Tracer - Configure IPv6 Addressing             | ?          |
+| 12.7.4 Lab - Identify IPv6 Addresses                         | Ano        |
 
