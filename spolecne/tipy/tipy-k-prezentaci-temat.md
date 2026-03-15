@@ -18,6 +18,10 @@
 - mělo by to být trochu FUN
 - na závěr shrnutí, popř. kontrolní opakovací otázky
 
+##### Před prezentací:
+
+- zašlete materiály předem na můj email, postačí večer předem (mohu zhodnotit jestli je obsah dostatečný, v případě, že ne, domluvíme se na přepracování)
+
 ##### Bude následovat:
 
 - sebe-zhodnocení (vč. množství přípravy, času atd.)
