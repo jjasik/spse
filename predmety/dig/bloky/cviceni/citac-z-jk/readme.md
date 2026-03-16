@@ -21,7 +21,7 @@
 
 1. Prostudujte schéma
 2. Zjistěte které součástky nemáte k dispozici
-3. Rozvrhněte si vhodné rozmístění součástek na nepájivém poli a při vypnutém napájení zapojte schéma pomocí propojovacích drátků (příklad rozvržení a zapojení [zde](rozvrzeni.jpg)): doporučuji napřed vyzkoušet každý klopný obvod zvlášť a teprve poté zapojovat jejich vzájemnou kaskádu (tj.spojení výstupu Q a dalšího vstupu CLK).
+3. Rozvrhněte si vhodné rozmístění součástek na nepájivém poli a při vypnutém napájení zapojte schéma pomocí propojovacích drátků (příklad rozvržení a zapojení [zde](rozvrzeni.jpg), příklad schématu [zde](schema.jpg)): doporučuji napřed vyzkoušet každý klopný obvod zvlášť a teprve poté zapojovat jejich vzájemnou kaskádu (tj.spojení výstupu Q a dalšího vstupu CLK).
 4. Po zapnutí napájení ověřte funkci obvodu, popř. proveďte analýzu případných problémů zapojení a do sešitu si zdokumentujte: elektrické zapojení, tabulku přechodů stavů/časový diagram
 5. Na PC v učebně je nainstalován program Atanua, zkuste se s ním seznámit (zaexperimentovat) a realizovat v něm simulaci stejného obvodu.
 
