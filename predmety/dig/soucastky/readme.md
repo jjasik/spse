@@ -57,6 +57,7 @@
 | T74LS21     | DUAL 4-INPUT AND GATE                                        |                 | V1       |
 | MH74S201    | Statická bipolární paměť 256x1 bit                           | MH74S201-*.jpg  | MojeBoxy |
 | 74LS27N     | Triple 3-input positive NOR gates                            | sn74ls27.pdf    | V1       |
+| T74LS279    | QUADRUPLE S-R LATCHES                                        | sn74ls279a.pdf  | V1       |
 
 #### Display
 
