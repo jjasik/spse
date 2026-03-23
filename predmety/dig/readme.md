@@ -73,3 +73,4 @@ viz.sekce Materiály
 1. [Klopný obvod D pomocí IO 7474](bloky/cviceni/klopny-obvod-d-7474/readme.md)
 1. [Klopný obvod JK pomocí IO 7473](bloky/cviceni/klopny-obvod-jk-7473/readme.md)
 1. [Čítač pomocí klopných obvodů JK](bloky/cviceni/citac-z-jk/readme.md)
+1. [Synchronní čítač pomocí klopných obvodů JK](bloky/cviceni/synchr-citac-z-jk/readme.md)

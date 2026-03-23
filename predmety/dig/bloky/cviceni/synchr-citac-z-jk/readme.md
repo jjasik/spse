@@ -1,0 +1,36 @@
+### Synchronní čítač pomocí klopných obvodů JK
+
+#### Doporučení
+
+1. Pracovat lze samostatně či po dvojicích (doporučeno).
+1. Pokud je něco nejasné hned se ptejte.
+
+#### Potřebné vybavení
+
+1. Nepájivé pole osazené zdrojem napájení, tlačítky a LEDkama (či alternativně prázdné nepájivé pole), napájecí kabel např. USB, propojovací drátky
+2. IO 7400 (či alternativa) a IO 7473 (či alternativa)
+3. Voltmetr, ohmmetr
+4. Další součástky nejsou potřeba (tlačítka, rezistory a LED diody se použijí tak jak jsou na standartním nepájivém poli)
+
+#### Cíle
+
+1. realizujte 3-bitový synchronní čítač pomocí klopných obvodů JK na nepájivém poli - podrobnější schéma bude vysvětleno na tabuli!
+
+
+#### Návodka
+
+1. Prostudujte schéma
+2. Na PC v učebně je nainstalován program Atanua, zkuste se s ním seznámit (zaexperimentovat) a realizovat v něm simulaci stejného obvodu.
+3. Zjistěte které součástky nemáte k dispozici
+4. Rozvrhněte si vhodné rozmístění součástek na nepájivém poli a při vypnutém napájení zapojte schéma pomocí propojovacích drátků (příklad rozvržení a zapojení TODO, příklad schématu [zde](schema.jpg)): doporučuji napřed vyzkoušet každý klopný obvod zvlášť
+5. Po zapnutí napájení ověřte funkci obvodu, popř. proveďte analýzu případných problémů zapojení a do sešitu si zdokumentujte: elektrické zapojení, tabulku přechodů stavů/časový diagram
+
+#### Co by mohlo pomoci
+
+1. [Klopný obvod JK](https://www.vovcr.cz/odz/tech/380/page30.html)
+1. [IO 7400](sn7400.pdf)
+1. [IO 7473](sn7473.pdf)
+
+#### Alternace (další možnosti)
+
+Nejsou
