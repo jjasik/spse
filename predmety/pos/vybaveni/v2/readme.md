@@ -27,3 +27,9 @@ Každá skříň obsahuje zhruba tuto sestavu 4 krát (tj. učebna celkově 2 sk
 - do PC je potřeba se přihlásit pomocí osobního účtu, ten Vám zajistí, že budete tzv. síťoví administrátoři tj. můžete měnit nastavení adapterů
 - pokud se zařízení ptá po připojení např. přes konzoli na tzv. "initial configuration" doporučení je No, a nedělat tento konfigurační průvodce
 - po připojení např. přes konzoli k zařízení nepozorujete žádnou aktivitu je třeba stisknout např.jednou Enter a počkat na zobrazení promptu od zařízení
+
+#### Pozor
+
+V učebně se řeší nefunkčnost propoje/či zdířky ("14 nefunguje zdířka 7 na internet") u jednoho pracoviště a je nutné ponechat zapojené kabely 2ks (oranžové), jedná se o propoje: 14-5 na R2R3-1 a dále do hlavního WAN switche 10425/2, viz.fotky:
+
+ <img src="v2-pic-20_v1.0.jpg" width="300"/><img src="v2-pic-21_v1.0.jpg" width="300"/><img src="v2-pic-22_v1.0.jpg" width="300"/>
