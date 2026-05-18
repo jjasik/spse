@@ -65,12 +65,12 @@ viz.sekce Materiály
 
 ##### Cvičení
 
-1. [Jednoduchá logická funkce](bloky/cviceni/jednoducha-logicka-funkce/readme.md)
-1. [Astabilní klopný obvod](bloky/cviceni/astabilni-klopny-obvod/readme.md)
-1. [Dekodér a 7segmentový displej](https://github.com/jjasik/spse/tree/main/predmety/dig/bloky/cviceni/sedm-segment)
-1. [Klopný obvod RS pomocí hradel](bloky/cviceni/klopny-obvod-r-s/readme.md)
-1. [Klopný obvod D pomocí hradel](bloky/cviceni/klopny-obvod-d/readme.md)
-1. [Klopný obvod D pomocí IO 7474](bloky/cviceni/klopny-obvod-d-7474/readme.md)
-1. [Klopný obvod JK pomocí IO 7473](bloky/cviceni/klopny-obvod-jk-7473/readme.md)
-1. [Čítač pomocí klopných obvodů JK](bloky/cviceni/citac-z-jk/readme.md)
-1. [Synchronní čítač pomocí klopných obvodů JK](bloky/cviceni/synchr-citac-z-jk/readme.md)
+- [Jednoduchá logická funkce](bloky/cviceni/jednoducha-logicka-funkce/readme.md)
+- [Astabilní klopný obvod](bloky/cviceni/astabilni-klopny-obvod/readme.md)
+- [Dekodér a 7segmentový displej](https://github.com/jjasik/spse/tree/main/predmety/dig/bloky/cviceni/sedm-segment)
+- [Klopný obvod RS pomocí hradel](bloky/cviceni/klopny-obvod-r-s/readme.md)
+- [Klopný obvod D pomocí hradel](bloky/cviceni/klopny-obvod-d/readme.md)
+- [Klopný obvod D pomocí IO 7474](bloky/cviceni/klopny-obvod-d-7474/readme.md)
+- [Klopný obvod JK pomocí IO 7473](bloky/cviceni/klopny-obvod-jk-7473/readme.md)
+- [Asynchronní čítač pomocí klopných obvodů JK](bloky/cviceni/asynchr-citac-z-jk/readme.md)
+- [Synchronní čítač pomocí klopných obvodů JK](bloky/cviceni/synchr-citac-z-jk/readme.md)
