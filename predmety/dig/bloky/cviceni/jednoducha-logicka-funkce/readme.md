@@ -2,7 +2,7 @@
 
 #### Doporučení
 
-1. Pracovat lze samostatně či po dvojicích.
+1. Pracovat lze samostatně či po dvojicích (doporučeno).
 1. Pokud je něco nejasné hned se ptejte.
 
 #### Potřebné vybavení
