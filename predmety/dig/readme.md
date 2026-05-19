@@ -44,6 +44,7 @@ Viz. ŠVP: [DIG](svp-temata.md)
    6. [sekvencni_obvody.pptx](materialy/sekvencni_obvody.pptx)
    7. [klopne_obvody.pptx](materialy/klopne_obvody.pptx)
    8. [citace.pptx](materialy/citace.pptx)
+   9. [registry.pptx](materialy/registry.pptx)
 2. Sbírky příkladů:
    1. [sbirka-prikladu-1.pdf](materialy/sbirka-prikladu-1.pdf)
 
@@ -65,9 +66,9 @@ viz.sekce Materiály
 
 ##### Cvičení
 
-- [Jednoduchá logická funkce](bloky/cviceni/jednoducha-logicka-funkce/readme.md)
+- [Logická funkce](bloky/cviceni/logicka-funkce/readme.md)
 - [Astabilní klopný obvod](bloky/cviceni/astabilni-klopny-obvod/readme.md)
-- [Dekodér a 7segmentový displej](https://github.com/jjasik/spse/tree/main/predmety/dig/bloky/cviceni/sedm-segment)
+- [Dekodér a 7-segmentový displej](bloky/cviceni/dekoder-sedm-segment/readme.md)
 - [Klopný obvod RS pomocí hradel](bloky/cviceni/klopny-obvod-r-s/readme.md)
 - [Klopný obvod D pomocí hradel](bloky/cviceni/klopny-obvod-d/readme.md)
 - [Klopný obvod D pomocí IO 7474](bloky/cviceni/klopny-obvod-d-7474/readme.md)
