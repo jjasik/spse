@@ -58,6 +58,26 @@
 | MH74S201    | Statická bipolární paměť 256x1 bit                           | MH74S201-*.jpg  | MojeBoxy |
 | 74LS27N     | Triple 3-input positive NOR gates                            | sn74ls27.pdf    | V1       |
 | T74LS279    | QUADRUPLE S-R LATCHES                                        | sn74ls279a.pdf  | V1       |
+| MZH145S     | 2-ch, 5-input, NAND gates (DTL)                              |                 | V1       |
+| MZH165S     | 4x převodník 100 na 74                                       |                 | V1       |
+| T74LS126B1  | QUADRUPLE BUS BUFFERS WITH 3-STATE OUTPUTS                   |                 | V1       |
+| T74LS55B1   | Dual 2-Wide 2-Input, 2-Wide 3-Input AND-OR-INVERT Gate       |                 | V1       |
+| T74LS37B1   | QUAD 2-INPUT NAND BUFFER                                     |                 | V1       |
+| SN74LS183N  | DUAL CARRY SAVE FULL ADDERS                                  |                 | V1       |
+| SN74LS11N   | 3-ch, 3-input, 4.75-V to 5.25-V 16-mA drive strength bipolar AND gate |                 | V1       |
+| 74LS26N     | QUADRUPLE 2-INPUT HIGH-VOLTAGE INTERFACE POSITIVE-NAND GATES |                 | V1       |
+| SN74LS32N   | Quadruple 2-Input Positive-OR Gates datasheet                |                 | V1       |
+| SN74LS242N  | QUADRUPLE BUS TRANSCEIVERS                                   |                 | V1       |
+| T74LS196B1  | 4-STAGE PRESETTABLE RIPPLE COUNTERS                          |                 | V1       |
+| SN74LS156N  | Dual 2-Line to 4-Line Decoders/Demultiplexers with Open-Collector Outputs |                 | V1       |
+| SN74LS348   | 8-Line To 3-Line Priority Encoder                            |                 | V1       |
+| SN74LS321   | QUADRUPLE 2-INPUT POSITIVE-OR GATES                          |                 | V1       |
+| SN74LS322   | 8-BIT SHIFT REGISTERS WITH SIGN EXTEND                       |                 | V1       |
+| SN74LS290   | DECADE AND 4-BIT BINARY COUNTERS                             |                 | V1       |
+| T74LS33     | Quadruple 2-Input Positive-NOR Buffers With Open-            |                 | V1       |
+| T74LS38     | NAND Buffer, 74LS38, 2 Vstupy, 24 mA, 4,75 V až 5,25 V, DIP-14 |                 | V1       |
+| SN74LS266   | 4-ch, 2-input, 4.75-V to 5.25-V bipolar XNOR (exclusive NOR) gates with open-collector outputs |                 | V1       |
+| SN74LS171   | QUADRUPLE D-TYPE FLIP-FLOPS WITH CLEAR                       |                 | V1       |
 
 #### Display
 
