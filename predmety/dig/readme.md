@@ -75,3 +75,4 @@ viz.sekce Materiály
 - [Klopný obvod JK pomocí IO 7473](bloky/cviceni/klopny-obvod-jk-7473/readme.md)
 - [Asynchronní čítač pomocí klopných obvodů JK](bloky/cviceni/asynchr-citac-z-jk/readme.md)
 - [Synchronní čítač pomocí klopných obvodů JK](bloky/cviceni/synchr-citac-z-jk/readme.md)
+- [Kaskáda čítačů, počítadlo 0-99](bloky/cviceni/kaskada-citacu/readme.md)
