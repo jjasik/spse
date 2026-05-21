@@ -22,14 +22,15 @@
 1. Prostudujte schéma
 2. Na PC v učebně je nainstalován program Atanua, zkuste se s ním seznámit (zaexperimentovat) a realizovat v něm simulaci stejného obvodu.
 3. Zjistěte které součástky nemáte k dispozici
-4. Rozvrhněte si vhodné rozmístění součástek na nepájivém poli a při vypnutém napájení zapojte schéma pomocí propojovacích drátků (příklad rozvržení a zapojení TODO [zde](rozvrzeni.jpg), příklad schématu TODO [zde](schema.jpg)): doporučuji zapojovat a testovat funkčnost postupně (ve schématu zleva doprava)
-5. Po zapnutí napájení ověřte funkci obvodu, popř. proveďte analýzu případných problémů zapojení a do sešitu si zdokumentujte: elektrické zapojení, tabulku přechodů stavů/časový diagram
+4. Seznamte se se zapojením vývodů IO a LED displeje
+5. Rozvrhněte si vhodné rozmístění součástek na nepájivém poli a při vypnutém napájení zapojte schéma pomocí propojovacích drátků (příklad rozvržení a zapojení TODO [zde](rozvrzeni.jpg), příklad schématu TODO [zde](schema.jpg)): doporučuji zapojovat a testovat funkčnost postupně (ve schématu zleva doprava)
+6. Po zapnutí napájení ověřte funkci obvodu, popř. proveďte analýzu případných problémů zapojení a do sešitu si zdokumentujte: elektrické zapojení, tabulku přechodů stavů/časový diagram
 
 #### Co by mohlo pomoci
 
 1. [IO 74247](sn74ls247.pdf)
 1. [IO 74192](sn54192.pdf), nebo [1](MH74ALS192-1.jpg), [2](MH74ALS192-2.jpg), [3](MH74ALS192-3.jpg), [4](MH74ALS192-4.jpg)
-1. [LED displej](dsh.512-181.1.pdf)
+1. [LED displej](dsh.512-181.1.pdf), [pin 1](pin-1.png) 
 
 #### Alternace (další možnosti)
 
