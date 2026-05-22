@@ -25,11 +25,11 @@ Viz. ŠVP: [PRA](svp-temata.md), [DIG](../dig/svp-temata.md)
 
 #### Požadavky
 
-- Sešit A4 čtverečkovaný, či jiná forma zápisků (obsahuje jak teoretické hodiny, tak i cvičení). Ale není nutné vše přepisovat. Relevanci a detail zápisků si každý určuje sám.
+- Sešit A4 čtverečkovaný, či jiná forma zápisků (nejlépe stejný i pro předmět DIG, předmět PRA např.z druhé strany sešitu). Ale není nutné vše přepisovat. Relevanci a detail zápisků si každý určuje sám.
 
 #### Hodnocení
 
-1. Teoretická část: písemky (testy), jedna známka za celou periodu (skrze probrané témata): váha 1.00
+1. Teoretická část: písemky (testy): není
 2. Příprava a prezentace zvoleného tématu: není
 3. Cvičení: známka z každého bloku (primárně za aktivitu a snahu dokončit, vysvětlit úlohu a zdokumentovat do sešitu): váha 1.00
 4. Samostatná práce: není

@@ -8,13 +8,19 @@
 
 Nástroj je tvořen více částmi (vývoj, simulace, případně další) a některé části/vlastnosti se platí separátně.
 
-Nástroj je dostupný (2025/08) ve třech edicích (ve škole používáme "QuartusLiteSetup-18.1.0.625-windows + ModelSimSetup-18.1.0.625-windows"):
+Nástroj je dostupný (2025/08) ve třech edicích:
 
-1. Pro Edition - placená licence (pro ilustraci ze stránek mouser.com: ceny řádově 50-100t. Kč plus předplatné, ceny se pravděpodobně určují individuálně)
-2. Standard Edition - placená licence viz.výše
+1. Pro Edition - placená licence
+2. Standard Edition - placená licence
 3. Lite Edition - bezplatná licence (používáme my, nástroj poskytuje pouze základní vlastnosti)
 
 Důležitý je i simulátor.
+
+Ve škole používáme instalaci na základě těchto balíčků:
+
+1. QuartusLiteSetup-18.1.0.625-windows.exe (vývojové prostředí)
+2. ModelSimSetup-18.1.0.625-windows.exe (simulátor)
+3. cyclone-18.1.0.625.qdz (definice pro jednotlivé součástky)
 
 #### Obrázky
 
