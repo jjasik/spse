@@ -11,31 +11,31 @@ Obsazen:
 - Cena kitu (2025/07): cca 3000 Kč (hwkitchen.cz)
 - Orientační cena 1ks FPGA (2025/07): 430 Kč (digikey.cz)
 
-<img src="omdazz-per-1_v-a2.2.png" width="300"/>
+<img src="omdazz-per-1.png" width="300"/>
 
 - Součástí balení je i tzv.USB Blaster což je převodník mezi USB a JTAG rozhraním, např. pro programování konfigurace.
 
-<img src="usbblaster-pic-1_v-1.jpg" width="300"/>
+<img src="usbblaster-pic-1.jpg" width="300"/>
 
 #### Obrázky
 
-<img src="omdazz-pic-1_v-a2.2.jpg" width="300"/> <img src="omdazz-pic-2_v-a2.2.jpg" width="300"/><img src="omdazz-pic-3_v-a2.2.jpg" width="300"/>
-<img src="omdazz-pic-4_v-a2.2.jpg" width="300"/><img src="omdazz-pic-5_v-a2.2.jpg" width="300"/><img src="omdazz-pic-6_v-a2.2.jpg" width="300"/>
-<img src="omdazz-pic-7_v-a2.2.jpg" width="300"/><img src="omdazz-pic-8_v-a2.2.jpg" width="300"/><img src="omdazz-pic-9_v-a2.2.jpg" width="300"/>
+<img src="omdazz-pic-1.jpg" width="300"/> <img src="omdazz-pic-2.jpg" width="300"/><img src="omdazz-pic-3.jpg" width="300"/>
+<img src="omdazz-pic-4.jpg" width="300"/><img src="omdazz-pic-5.jpg" width="300"/><img src="omdazz-pic-6.jpg" width="300"/>
+<img src="omdazz-pic-7.jpg" width="300"/><img src="omdazz-pic-8.jpg" width="300"/><img src="omdazz-pic-9.jpg" width="300"/>
 
 #### Podklady
 
-1. Návod: [pdf](omdazz-manual_v-x.pdf)
-2. Elektrické schéma: [pdf](omdazz-schematic_v2014-12-09.pdf)
-3. Rozvržení pinů pro FPGA: [jpg](omdazz-pin-table_v-x.jpg) [pdf](omdazz-pin-table_v-x.pdf) [xls](omdazz-pin-table_v-x.xls)
-4. Přehled variant rodiny Cyclone IV FPGA (varianty, pouzdra, rychlostní varianty atd.): [pdf](cyiv-fam-overview_v-2016-03-r2.0.pdf) 
-5. Popis struktury Logic Elements a Logic Array Blocks rodiny Cyclone IV FPGA: [pdf](cyiv-le-lab-descr_v-2009-11-r1.0.pdf)
-6. Popis M9K memory blocks rodiny Cyclone IV FPGA: [pdf](cyiv-membl-descr_v-2011-11-r1.1.pdf)
-7. Popis Embedded Multipliers rodiny Cyclone IV FPGA: [pdf](cyiv-embmulti-descr_v-2010-02-r1.1.pdf)
-8. Device datasheet rodiny Cyclone IV FPGA (elektrické, časové vlastnosti, spotřeby atd.): [pdf](cyiv-dev-datasheet_v-2016-03-r2.0.pdf)
-9. Device handbook rodiny Cyclone IV FPGA (hlavní část dokumentace, obsahuje i kapitoly které jsem nedal do seznamu viz.výše): [pdf](cyiv-dev-handbook_v-2016-03-r2.2.pdf)
-10. Errata sheet rodiny Cyclone IV FPGA (přehled známých chyb popř.jejich oprav): [pdf](cyiv-dev-errata_v-2017-04-r2.5.pdf)
-11. Serial Configuration Devices Data Sheet (EPCS1, EPCS4, EPCS16, EPCS64, and EPCS128): [pdf](cyc-serial-conf-datasheet_v-2008-05-v3.1.pdf)
+1. Návod: [pdf](omdazz-manual.pdf)
+2. Elektrické schéma: [pdf](omdazz-schematic.pdf)
+3. Rozvržení pinů pro FPGA: [jpg](omdazz-pin-table.jpg) [pdf](omdazz-pin-table.pdf) [xls](omdazz-pin-table.xls)
+4. Přehled variant rodiny Cyclone IV FPGA (varianty, pouzdra, rychlostní varianty atd.): [pdf](cyiv-fam-overview.pdf) 
+5. Popis struktury Logic Elements a Logic Array Blocks rodiny Cyclone IV FPGA: [pdf](cyiv-le-lab-descr.pdf)
+6. Popis M9K memory blocks rodiny Cyclone IV FPGA: [pdf](cyiv-membl-descr.pdf)
+7. Popis Embedded Multipliers rodiny Cyclone IV FPGA: [pdf](cyiv-embmulti-descr.pdf)
+8. Device datasheet rodiny Cyclone IV FPGA (elektrické, časové vlastnosti, spotřeby atd.): [pdf](cyiv-dev-datasheet.pdf)
+9. Device handbook rodiny Cyclone IV FPGA (hlavní část dokumentace, obsahuje i kapitoly které jsem nedal do seznamu viz.výše): [pdf](cyiv-dev-handbook.pdf)
+10. Errata sheet rodiny Cyclone IV FPGA (přehled známých chyb popř.jejich oprav): [pdf](cyiv-dev-errata.pdf)
+11. Serial Configuration Devices Data Sheet (EPCS1, EPCS4, EPCS16, EPCS64, and EPCS128): [pdf](cyc-serial-conf-datasheet.pdf)
 
 #### Doporučení
 
