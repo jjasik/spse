@@ -10,7 +10,7 @@
 | SN74LS86AN  | QUADRUPLE 2-INPUT EXCLUSIVE-OR GATES                         | sn74ls86a.pdf                 | MojeBoxy     |
 | CD4543B     | CMOS BCD-to-Seven-Segment Latch/Decoder/Driver for Liquid-Crystal Displays | cd4543b.pdf                   | MojeBoxy     |
 | SN74LS73AN  | DUAL J-K FLIP-FLOPS WITH CLEAR                               | sn54ls73a.pdf                 | MojeBoxy     |
-| T74LS40B1   | Dual 4-Input NAND Buffer                                     | t74ls40.pdf                   | MojeBoxy     |
+| T74LS40B1   | Dual 4-Input NAND Buffer                                     | t74ls40.pdf                   | MojeBoxy, V1 |
 | D146D       | Prevodnik kodu BCD na kod sedmisegmentovych zobrazovacich    | D147C.pdf                     | MojeBoxy     |
 | MH5493AS    | 4-Bit Binary Counters                                        | (sn74ls93.pdf)                | MojeBoxy     |
 | MH7420      | 2-ch, 4-input, 4.75-V to 5.25-V bipolar NAND gates           |                               | MojeBoxy     |
@@ -29,14 +29,13 @@
 | MH74ALS166  | Parallel-load 8-bit shift registers                          | sn54166.pdf                   | MojeBoxy     |
 | MZH165S     | 4x převodník DTL / TTL                                       |                               | V1           |
 | MH8224      | Hodinový a budící obvod ... MHB8080A                         |                               | V1           |
-| MH54ALS51   | Dvojice pozitivních logických členů AND-OR-INVERT            |                               | V1           |
 | SN74LS85N   | 4-bit magnitude comparators                                  | sn74ls85.pdf                  | MojeBoxy     |
 | SN74LS194AN | 4-bit Bidirectional universal shift registers                | sn74ls194a.pdf                | MojeBoxy     |
 | SN74LS92    | Divide-By-Twelve Counter                                     | sn74ls92.pdf                  | MojeBoxy     |
 | SN74LS137N  | 3-LINE TO 8-LINE DECODERS/DEMULTIPLEXERS                     | sn54ls137.pdf                 | MojeBoxy     |
-| T74LS196BI  | 4-STAGE PRESETTABLE RIPPLE COUNTERS                          |                               | MojeBoxy     |
+| T74LS196B   | 4-STAGE PRESETTABLE RIPPLE COUNTERS                          |                               | MojeBoxy, V1 |
 | NE555N      | Single Precision Timer                                       | ne555.pdf                     | MojeBoxy     |
-| SN74LS08    | 4-ch, 2-input, 4.75-V to 5.25-V 16-mA drive strength bipolar AND gate |                               | V1           |
+| SN74LS08N   | 4-ch, 2-input, 4.75-V to 5.25-V 16-mA drive strength bipolar AND gate |                               | V1           |
 | T74LS168B1  | Synchronous Bi-Directional BCD Decade Counter                | 74LS168.PDF                   | MojeBoxy     |
 | T74LS152B1  | 8-INPUT MULTIPLEXER                                          |                               | MojeBoxy     |
 | SN74LS153N  | Dual 4-Line To 1-Line Data Selectors/Multiplexers            | sn74ls153.pdf                 | MojeBoxy     |
@@ -52,14 +51,12 @@
 | 74LS112N    | Dual J-K negative-edge triggered flip-flops with reset and clear | sn54ls112a.pdf                | MojeBoxy     |
 | SN74LS01N   | QUADRUPLE 2-INPUT POSITIVE-NAND GATES WITH OPEN-COLLECTOR OUTPUTS |                               | V1           |
 | MH7403      | QUADRUPLE 2-INPUT POSITIVE-NAND GATES WITH OPEN-COLLECTOR OUTPUTS |                               | V1           |
-| SN74LS08N   | 4-ch, 2-input, 4.75-V to 5.25-V 16-mA drive strength bipolar AND gate |                               | V1           |
 | SN74LS15N   | QUADRUPLE 2-INPUT POSITIVE-AND GATES WITH OPEN-COLLECTOR OUTPUTS |                               | V1           |
 | T74LS21     | DUAL 4-INPUT AND GATE                                        |                               | V1           |
 | MH74S201    | Statická bipolární paměť 256x1 bit                           | MH74S201-*.jpg                | MojeBoxy     |
 | 74LS27N     | Triple 3-input positive NOR gates                            | sn74ls27.pdf                  | V1           |
 | T74LS279    | QUADRUPLE S-R LATCHES                                        | sn74ls279a.pdf                | V1, MojeBoxy |
 | MZH145S     | 2-ch, 5-input, NAND gates (DTL)                              |                               | V1           |
-| MZH165S     | 4x převodník 100 na 74                                       |                               | V1           |
 | T74LS126B1  | QUADRUPLE BUS BUFFERS WITH 3-STATE OUTPUTS                   |                               | V1           |
 | T74LS55B1   | Dual 2-Wide 2-Input, 2-Wide 3-Input AND-OR-INVERT Gate       |                               | V1           |
 | T74LS37B1   | QUAD 2-INPUT NAND BUFFER                                     |                               | V1           |
@@ -68,10 +65,9 @@
 | 74LS26N     | QUADRUPLE 2-INPUT HIGH-VOLTAGE INTERFACE POSITIVE-NAND GATES |                               | V1           |
 | SN74LS32N   | Quadruple 2-Input Positive-OR Gates datasheet                |                               | V1           |
 | SN74LS242N  | QUADRUPLE BUS TRANSCEIVERS                                   |                               | V1           |
-| T74LS196B1  | 4-STAGE PRESETTABLE RIPPLE COUNTERS                          |                               | V1           |
 | SN74LS156N  | Dual 2-Line to 4-Line Decoders/Demultiplexers with Open-Collector Outputs |                               | V1, MojeBoxy |
 | SN74LS348   | 8-Line To 3-Line Priority Encoder                            | sn74ls348.pdf                 | V1, MojeBoxy |
-| SN74LS321   | QUADRUPLE 2-INPUT POSITIVE-OR GATES                          |                               | V1           |
+| SN74LS321   | CRYSTAL-CONTROLLED OSCILLATORS                               |                               | V1           |
 | SN74LS322   | 8-BIT SHIFT REGISTERS WITH SIGN EXTEND                       |                               | V1, MojeBoxy |
 | SN74LS290   | DECADE AND 4-BIT BINARY COUNTERS                             |                               | V1, MojeBoxy |
 | T74LS33     | Quadruple 2-Input Positive-NOR Buffers With Open-            |                               | V1           |
