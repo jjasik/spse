@@ -10,7 +10,8 @@
 1. Nepájivé pole osazené zdrojem napájení, tlačítky a LEDkama (či alternativně prázdné nepájivé pole), napájecí kabel např. USB, propojovací drátky
 2. 2x IO 74247 (či alternativa), 2x IO 74192 (či alternativa) a 2xLED displej (např. BS-A552RD)
 3. Voltmetr, ohmmetr
-4. Další součástky nejsou potřeba (tlačítka, rezistory a LED diody se použijí tak jak jsou na standartním nepájivém poli)
+4. Generátor impulzů 1 Hz
+5. Další součástky nejsou potřeba (tlačítka, rezistory a LED diody se použijí tak jak jsou na standartním nepájivém poli)
 
 #### Cíle
 
@@ -23,7 +24,7 @@
 2. Na PC v učebně je nainstalován program Atanua, zkuste se s ním seznámit (zaexperimentovat) a realizovat v něm simulaci stejného obvodu.
 3. Zjistěte které součástky nemáte k dispozici
 4. Seznamte se se zapojením vývodů IO a LED displeje
-5. Rozvrhněte si vhodné rozmístění součástek na nepájivém poli a při vypnutém napájení zapojte schéma pomocí propojovacích drátků (příklad rozvržení a zapojení TODO [zde](rozvrzeni.jpg), příklad schématu TODO [zde](schema.jpg)): doporučuji zapojovat a testovat funkčnost postupně (ve schématu zleva doprava)
+5. Rozvrhněte si vhodné rozmístění součástek na nepájivém poli a při vypnutém napájení zapojte schéma pomocí propojovacích drátků (příklad rozvržení a zapojení [zde](rozvrzeni.jpg), příklad schématu TODO [zde](schema.jpg)): doporučuji zapojovat a testovat funkčnost postupně (ve schématu zleva doprava)
 6. Po zapnutí napájení ověřte funkci obvodu, popř. proveďte analýzu případných problémů zapojení a do sešitu si zdokumentujte: elektrické zapojení, tabulku přechodů stavů/časový diagram
 
 #### Co by mohlo pomoci
@@ -34,4 +35,6 @@
 
 #### Alternace (další možnosti)
 
-Nejsou
+1. Přidání asynchronního resetu
+2. Předřadný rezistor pro každý segment LED displeje
+3. Nastavení vyšší frekvence na generátoru impulzů
