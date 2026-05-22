@@ -59,13 +59,4 @@ Není
 
 ##### Cvičení
 
-- Základy hradlových polí, vývojové prostředí a přehled dokumentace
-- [Zprovoznění nástrojů, jednoduchá úloha](bloky/zprovozneni/readme.md): pomocí BDF (Board Design File tj. použitím schématu) -> BDF: úloha #1
-- [Zprovoznění nástrojů, jednoduchá úloha](bloky/zprovozneni/readme.md): pomocí VHDL (na stránce jako bod alternace dole) -> VHDL: úloha #1
-- "4x tlačítka vs. 4x LED" -> VHDL: úloha #2 ([Tabule](bloky/ctyri-tlacitka/tabule-001.jpg))
-- "Dvě varianty sčítačky" -> VHDL: úloha #3 ([Tabule](bloky/scitacka/tabule-001.jpg))
-- "Čítač" -> VHDL: úloha #4 ([Tabule](bloky/citac/tabule-001.jpg))
-- "Ovládání 7seg. displeje" -> VHDL: úloha #5 ([Tabule](bloky/sedm-segment/tabule-001.jpg))
-- "Blikání LED 1 sec." -> VHDL: úloha #6
-- "Ovládání 7seg. displeje, samo-počítání 1 pozice" -> VHDL: úloha: #7 ([Tabule](bloky/samopocitani/tabule-001.jpg))
-- "Ovládání 7seg. displeje, samo-počítání 4 pozice" -> VHDL: úloha: #8 ([Tabule](bloky/samopocitani/tabule-001.jpg))
+Viz.stránky progresu u jednotlivých tříd.
