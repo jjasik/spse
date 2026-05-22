@@ -10,7 +10,8 @@
 1. Nepájivé pole osazené zdrojem napájení, tlačítky a LEDkama (či alternativně prázdné nepájivé pole), napájecí kabel např. USB, propojovací drátky
 2. IO 7400 (či alternativa) a IO 7473 (či alternativa)
 3. Voltmetr, ohmmetr
-4. Další součástky nejsou potřeba (tlačítka, rezistory a LED diody se použijí tak jak jsou na standartním nepájivém poli)
+4. Generátor impulzů 1 Hz
+5. Další součástky nejsou potřeba (tlačítka, rezistory a LED diody se použijí tak jak jsou na standartním nepájivém poli)
 
 #### Cíle
 
