@@ -21,7 +21,7 @@
 
 1. Prostudujte schéma
 2. Zjistěte které součástky nemáte k dispozici
-3. Rozvrhněte si vhodné rozmístění součástek na nepájivém poli a při vypnutém napájení zapojte schéma pomocí propojovacích drátků (příklad rozvržení a zapojení TODO)
+3. Rozvrhněte si vhodné rozmístění součástek na nepájivém poli a při vypnutém napájení zapojte schéma pomocí propojovacích drátků (příklad rozvržení a zapojení TODO [zde](rozvrzeni.jpg), příklad schématu TODO [zde](schema.jpg))
 4. Po zapnutí napájení ověřte funkci obvodu, popř. proveďte analýzu případných problémů zapojení a do sešitu si zdokumentujte: elektrické zapojení, tabulku přechodů stavů/časový diagram
 
 #### Co by mohlo pomoci
