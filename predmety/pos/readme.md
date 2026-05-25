@@ -46,23 +46,25 @@ Viz. ŠVP: [POS](svp-temata.md)
 
 #### Materiály
 
-1. Cisco Networking Academy (netacad.com, popř. jsou dostupné i off-line prezentace stejného obsahu)
+1. Cisco Networking Academy (netacad.com, popř. jsou dostupné i off-line prezentace stejného obsahu na interním sharepointu)
    1. 2.ročník: CCNA1 (Introduction to Networks)
    2. 3.ročník: CCNA2 (Switching, Routing, and Wireless Essentials)
    3. 4.ročník: CCNA3 (Enterprise Networking, Security, and Automation)
-2. Prezentace k předmětu:
-   1. [NSWI090v4_01.pdf](materialy/NSWI090v4_01.pdf) - Lekce 1: Základní pojmy a paradigmata počítačových sítí
-   2. [NSWI045v3_03.pdf](materialy/NSWI045v3_03.pdf) - Téma 3: Architektura TCP/IP
+2. Doplňující prezentace k předmětu (vše Jiří Peterka):
+   1. [NSWI045v3_03.pdf](materialy/NSWI045v3_03.pdf) - Téma 3: Architektura TCP/IP
+   2. [NSWI045v3_04.pdf](materialy/NSWI045v3_04.pdf) - Téma 4: Adresy a adresování v  TCP/IP, IP adresy verze 4
    3. [NSWI045v3_05.pdf](materialy/NSWI045v3_05.pdf) - Téma 5: Protokol IPv4
    4. [NSWI045v3_06.pdf](materialy/NSWI045v3_06.pdf) - Téma 6: Směrování v IP sítích
-   5. [NSWI045v3_08.pdf](materialy/NSWI045v3_08.pdf) - Téma 8: Protokol IPv6
+   5. [NSWI045v3_07.pdf](materialy/NSWI045v3_07.pdf) - Téma 7: IP adresy verze 6
+   6. [NSWI045v3_08.pdf](materialy/NSWI045v3_08.pdf) - Téma 8: Protokol IPv6
+   7. [NSWI045v3_09.pdf](materialy/NSWI045v3_09.pdf) - Téma 9: Transportní protokoly
 3. Pomůcky:
-   1. [IPv4_Subnetting.pdf](materialy/IPv4_Subnetting.pdf) - IPV4 SUBNETTING (packetlife.net)
+   1. [IPv4_Subnetting.pdf](materialy/IPv4_Subnetting.pdf) - pomůcka pro výpočty subnettingu/VLSM (packetlife.net)
 
 #### Nástroje
 
 1. [Učebna V2](vybaveni/v2/readme.md)
-1. CISCO PacketTracer (Packet_Tracer822)
+1. CISCO PacketTracer (ve škole používáme verzi: Packet_Tracer822)
 
 
 #### Bloky
