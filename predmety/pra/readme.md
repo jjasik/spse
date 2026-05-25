@@ -25,7 +25,7 @@ Viz. ŠVP: [PRA](svp-temata.md), [DIG](../dig/svp-temata.md)
 
 #### Požadavky
 
-- Sešit A4 čtverečkovaný, či jiná forma zápisků (nejlépe stejný i pro předmět DIG, předmět PRA např.z druhé strany sešitu). Ale není nutné vše přepisovat. Relevanci a detail zápisků si každý určuje sám.
+- Sešit A4 čtverečkovaný, či jiná forma zápisků (nejlépe stejný i pro předmět DIG, předmět PRA např.z druhé strany sešitu).
 
 #### Hodnocení
 

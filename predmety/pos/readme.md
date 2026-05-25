@@ -34,7 +34,7 @@ Viz. ŠVP: [POS](svp-temata.md)
 
 #### Požadavky
 
-- Sešit A4 čtverečkovaný, či jiná forma zápisků (obsahuje jak teoretické hodiny, tak i cvičení). Ale není nutné vše přepisovat. Relevanci a detail zápisků si každý určuje sám.
+- Sešit A4 čtverečkovaný, či jiná forma zápisků (obsahuje jak teoretické hodiny, tak i cvičení).
 
 #### Hodnocení
 
