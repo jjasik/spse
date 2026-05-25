@@ -38,8 +38,7 @@ Viz. ŠVP: [PRA](svp-temata.md), [DIG](../dig/svp-temata.md)
 
 #### Materiály
 
-1. Kniha [Data, čipy, procesory](materialy/data-cipy-procesory.pdf)
-3. [Sandbox](https://github.com/jjasik/spse/tree/main/predmety/pra/sandbox)
+1. Kniha [Data, čipy, procesory](materialy/data-cipy-procesory.pdf), Martin Malý
 
 #### Nástroje
 
