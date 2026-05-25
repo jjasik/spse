@@ -17,7 +17,7 @@
 
 ### Naše pravidla
 
-- TODO
+- [Pravidla](spolecne/pravidla/pravidla.md)
 
 ### O mně
 
