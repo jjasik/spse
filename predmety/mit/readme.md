@@ -36,7 +36,8 @@ Viz. ŠVP: [MIT](svp-temata.md)
 
 #### Materiály
 
-1. Kniha [PROGRAMUJEME V JAZYKU C](materialy/programujeme-avr.pdf)
+1. Kniha Programování mikrokontrolérů ATmega, David Matoušek
+1. Kniha [PROGRAMUJEME V JAZYKU C](materialy/programujeme-avr.pdf), Ondrej Závodský
 1. Prezentace k předmětu:
    1. [modely_pocitacu.pptx](materialy/modely_pocitacu.pptx)
    2. [pameti.pptx](materialy/pameti.pptx)
@@ -46,14 +47,6 @@ Viz. ŠVP: [MIT](svp-temata.md)
    6. [avr_preruseni.pptx](materialy/avr_preruseni.pptx)
    7. [avr_adc.pptx](materialy/avr_adc.pptx)
    8. [avr_timer.pptx](materialy/avr_timer.pptx)
-1. [Sandbox](https://github.com/jjasik/spse/tree/main/predmety/mit/sandbox)
-
-#### Dema
-
-1. [Megacomputer Cambridge](dema/megacomputer/readme.md)
-2. [Jednočipový mikropočítač MHB8035](dema/mhb-8035/readme.md)
-3. [Jednočipový mikroprocesor s vestavěným ethernetem](dema/mc9s12ne64/readme.md)
-4. [Reálná aplikace Continental HTS (High Temperature Sensor)](dema/hts/readme.md)
 
 #### Nástroje
 
