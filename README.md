@@ -11,9 +11,17 @@
 - T2A: [POS](tridy/progres/2025-2026-t2a-pos.md), [PRA](tridy/progres/2025-2026-t2a-pra.md)
 - E3B: [MIT](tridy/progres/2025-2026-e3b-mit.md)
 
-### O mně (a několik našich pravidel)
+### Sandbox
 
-- [O mně a pravidla](o-mne/readme.md)
+- Link na GITHub [Sandbox](https://github.com/jjasik/spse/tree/main/sandbox)
+
+### Naše pravidla
+
+- TODO
+
+### O mně
+
+- [O mně](o-mne/readme.md)
 
 ### Fotogalerie
 
