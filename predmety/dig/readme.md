@@ -48,11 +48,6 @@ Viz. ŠVP: [DIG](svp-temata.md)
 2. Sbírky příkladů:
    1. [sbirka-prikladu-1.pdf](materialy/sbirka-prikladu-1.pdf)
 
-
-#### Dema
-
-Nejsou
-
 #### Nástroje
 
 1. [Nepájivé kontaktní pole](nastroje/nepajive-pole/nepaj-pole-pic-1.jpg)

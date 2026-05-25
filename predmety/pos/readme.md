@@ -59,13 +59,6 @@ Viz. ŠVP: [POS](svp-temata.md)
 3. Pomůcky:
    1. [IPv4_Subnetting.pdf](materialy/IPv4_Subnetting.pdf) - IPV4 SUBNETTING (packetlife.net)
 
-
-#### Dema
-
-1. [Ethernetová kabeláž](dema/ethernet-cables/readme.md)
-2. [Desktop fast ethernet switch](dema/zyxel-es-108a/readme.md)
-3. [Ethernet router](dema/mikrotik-hexlite-rb750r2/readme.md)
-
 #### Nástroje
 
 1. [Učebna V2](vybaveni/v2/readme.md)

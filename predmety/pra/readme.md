@@ -41,11 +41,6 @@ Viz. ŠVP: [PRA](svp-temata.md), [DIG](../dig/svp-temata.md)
 1. Kniha [Data, čipy, procesory](materialy/data-cipy-procesory.pdf)
 3. [Sandbox](https://github.com/jjasik/spse/tree/main/predmety/pra/sandbox)
 
-
-#### Dema
-
-Nejsou
-
 #### Nástroje
 
 1. [Kit OMDAZZ](fpga/altera-cyclone4/devbrd/omdazz/readme.md)
