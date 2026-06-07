@@ -1,0 +1,7 @@
+-Jedná se pouze o příklady, ne přesné otázky!
+-Převeďte číslo 157 (v desítkové soustavě) do dvojkové a šestnáctkové soustavy.
+-Proveďte binární součet: 10110101 + 01101110. Výsledek zapište v binární i hexadecimální soustavě.
+-Zapište pravdivostní tabulku funkce F = A·B̄ + Ā·B
+-Klopný obvod a) RS (asynchronní) nebo b) D (spouštěného náběžnou hranou CLK): v časovém diagramu doplňte průběh výstupu Q
+-Kaskáda čítačů: Jak se pomocí kaskády binárních čítačů realizuje dělička frekvence? Jak velké dělení kmitočtu poskytuje kaskáda dvou 4-bitových čítačů? Navrhněte káskadu čítaču pro dělení frekvence X.
+-Registry: Nakreslete blokové schéma 4-bitového posuvného registru SISO (sériový vstup – sériový výstup) a popište, jak se data pohybují. Nakreslete blokové schéma 4-bitového posuvného registru PISO (paralelní vstup – sériový výstup) a popište, jak se data pohybují.
