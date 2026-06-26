@@ -1,7 +1,5 @@
-### Sport
+19.12.2025: Florbalový turnaj v městské hale
+26.04.2026: Soluň program Erasmus+
+22.06.2026: Výlet s E2A na Ostružnou
 
-19.12.2025: Florbalový turnaj v městské hale, [fotky](https://photos.app.goo.gl/ghWB9veVAYta81Au8)
-
-### Erasmus+
-
-26.04.2026: Soluň
+PS: Odkazy na webové alba jsou na vyžádání.
