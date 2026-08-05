@@ -1,10 +1,19 @@
 ### Předměty co učím
 
-- [DIG](predmety/dig/readme.md), a související část [PRA](predmety/pra/readme.md)
+- [DIG](predmety/dig/readme.md), [PRA](predmety/pra/readme.md)
 - [MIT](predmety/mit/readme.md)
 - [POS](predmety/pos/readme.md)
 
-### Progres výuky ve třídách
+### Progres výuky
+
+#### Aktuálně (2026-2027)
+
+- E2A: [DIG](tridy/progres/2026-2027-e2a-dig.md), [PRA](tridy/progres/2026-2027-e2a-pra.md)
+- E2B: [DIG](tridy/progres/2026-2027-e2b-dig.md), [PRA](tridy/progres/2026-2027-e2b-pra.md)
+
+#### Historie
+
+##### 2025-2026
 
 - E2A: [DIG](tridy/progres/2025-2026-e2a-dig.md), [PRA](tridy/progres/2025-2026-e2a-pra.md)
 - E2B: [DIG](tridy/progres/2025-2026-e2b-dig.md), [PRA](tridy/progres/2025-2026-e2b-pra.md)
@@ -15,7 +24,7 @@
 
 - Link na GITHub [Sandbox](https://github.com/jjasik/spse/tree/main/sandbox)
 
-### Naše pravidla
+### Všeobecné pravidla
 
 - [Pravidla](spolecne/pravidla/pravidla.md)
 

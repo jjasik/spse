@@ -20,7 +20,7 @@
 
 ##### Před prezentací:
 
-- zašlete materiály předem na můj email, postačí večer předem (mohu zhodnotit jestli je obsah dostatečný, v případě, že ne, domluvíme se na přepracování)
+- zašlete materiály předem na můj email, postačí večer (ne v průběhu noci) předem (mohu zhodnotit jestli je obsah dostatečný, v případě, že ne, domluvíme se na přepracování)
 
 ##### Bude následovat:
 
