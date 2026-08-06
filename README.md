@@ -35,3 +35,7 @@
 ### Fotogalerie
 
 - [Přehled](fotogalerie/readme.md)
+
+### Různé
+
+- [Dotazník pro žáky](spolecne/dotazniky/zpetna-vazba.md)
