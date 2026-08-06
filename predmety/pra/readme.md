@@ -18,22 +18,24 @@ Viz. ŠVP: [PRA](svp-temata.md), [DIG](../dig/svp-temata.md)
 
 - schopnost číst anglické texty (dokumentace, návody)
 - orientace v elektrickém schématu
-- základy digitální techniky
+- základy digitální techniky (předmět DIG)
 - práce s nějakým vývojovým prostředím (správa projektů, manipulace se soubory...)
-- základy měření: digitální sonda, digitální analyzátor
+- základy měření: voltmetr/ampérmetr, digitální analyzátor
 - opatrnost při práci (citlivá elektronika!)
 
 #### Požadavky
 
-- Sešit A4 čtverečkovaný, či jiná forma zápisků (nejlépe stejný i pro předmět DIG, předmět PRA např.z druhé strany sešitu).
+- Sešit A4 čtverečkovaný, či jiná forma zápisků (obsahuje jak teoretické hodiny, tak i cvičení), do jednoho sešitu budeme psát i DIG relevant část předmětu PRA, minimální úprava: u každé hodiny datum. Sešity si procházím každé pololetí.
 
 #### Hodnocení
 
 1. Teoretická část: písemky (testy): není
 2. Příprava a prezentace zvoleného tématu: není
 3. Cvičení: známka z každého bloku (primárně za aktivitu a snahu dokončit, vysvětlit úlohu a zdokumentovat do sešitu): váha 1.00
-4. Samostatná práce: není
-5. Poznámka: Obecně pokud usilujete o lepší hodnocení můžete navrhnout přezkoušení, dodatečnou písemku, či jinou aktivitu za kterou lze udělit známku.
+4. Sešit: známka jednou za pololetí: váha 0.50
+5. (Volitelně) Samostatná práce: není
+6. Zkoušení (primárně poslední probrané učivo): není
+7. Poznámka: Obecně pokud usilujete o lepší hodnocení můžete navrhnout přezkoušení, dodatečnou písemku, či jinou aktivitu za kterou lze udělit známku.
 
 
 #### Materiály
