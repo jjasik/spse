@@ -21,15 +21,17 @@ Four subjects live under `predmety/`:
 | `mit/` | MIT | 3rd year | Microcontroller architecture, AVR/ATmega2560, C programming |
 | `pos/` | POS | 2nd–4th year | Computer networks, TCP/IP, routing, Cisco certification |
 
-Each subject folder follows the same layout:
-- `readme.md` — subject overview (charakteristika, scope, grading, materials list, exercise list)
-- `materialy/` — presentations (`.pptx`), PDFs, books
-- `bloky/cviceni/` — one subdirectory per lab exercise, each with a `readme.md`
-- `demo/` or `sandbox/` — demonstrations and example code (where applicable)
+Every subject folder has a `readme.md` (subject overview: charakteristika, scope, grading, materials list, exercise list) and a `materialy/` folder (presentations, PDFs, books). Beyond that, layout differs per subject:
+- `dig/` — lab exercises live in `bloky/cviceni/`, one subdirectory per exercise, each with a `readme.md` following the convention below. Also has `nastroje/` (equipment notes) and `soucastky/` (components reference).
+- `pra/` — content lives in `fpga/`, split into `fpga/altera-cyclone4/` (dev board docs) and `fpga/tool/quartus-prime/` (tool docs). No `bloky/cviceni/` structure.
+- `mit/` — content lives in `mcu/atmega2560/`, e.g. `mcu/atmega2560/devbrd/readme.md` for dev board docs. No `bloky/cviceni/` structure.
+- `pos/` — only `materialy/` and `vybaveni/` (equipment); no lab-exercise subdirectory structure yet.
+
+`pra` and `mit` readmes outside `dig` use their own lighter headings (e.g. `#### Popis`, `#### Obrázky`, `#### Podklady`) rather than the exercise convention below.
 
 ## Exercise readme.md Convention
 
-Lab exercises follow a consistent structure. Use these exact Czech headings in order:
+Lab exercises under `dig/bloky/cviceni/` follow a consistent structure. Use these exact Czech headings in order:
 
 ```markdown
 ### <Exercise Title>
@@ -62,16 +64,14 @@ Lesson-by-lesson progress is tracked in `tridy/progres/` as Markdown tables:
 
 #### Teoretická část
 
-| Datum      | Obsah hodiny |
-| ---------- | ------------ |
-| DD.MM.YYYY | Description of lesson content |
+| Datum      | Obsah hodiny | Ostatní |
+| ---------- | ------------ | ------- |
+| DD.MM.YYYY | Description of lesson content |  |
 ```
 
 Dates use `DD.MM.YYYY` format. Separate sections exist for theory (`Teoretická část`) and lab (`Cvičení`). When updating, append new rows to the appropriate table.
 
-## Known Content Gaps (as of 2026-05-10)
+## Known Content Gaps (as of 2026-08-07)
 
-From `predmety/dig/bloky/cviceni/cviceni-comparison.txt`:
-- `sedm-segment/` — missing `readme.md` entirely
-- `klopny-obvod-r-s/readme.md` — has a TODO placeholder where `rozvrzeni.jpg` link should go
-- `klopny-obvod-d/readme.md` — same TODO placeholder issue
+- `predmety/dig/bloky/cviceni/klopny-obvod-r-s/readme.md` — has a TODO placeholder where the `rozvrzeni.jpg`/`schema.jpg` links should go
+- `predmety/dig/bloky/cviceni/klopny-obvod-d/readme.md` — same TODO placeholder issue
