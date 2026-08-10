@@ -24,6 +24,11 @@ Viz. ŠVP: [DIG](svp-temata.md)
 
 - Sešit A4 čtverečkovaný, či jiná forma zápisků (obsahuje jak teoretické hodiny, tak i cvičení), do jednoho sešitu budeme psát i DIG relevant část předmětu PRA, minimální úprava: u každé hodiny datum. Sešity si procházím každé pololetí.
 
+#### Pravidla
+
+- AI: V běžné výuce ne (výuka řeší základy a těm je dobré rozumět), pro případné složitější čí samostatné úkoly: na dotaz, ale bez patřičného vysvětlení co daná "vygenerovaná" věc reálně provádí/popisuje a proč bylo zvoleno toto řešení = špatné či žádné hodnocení. Používejte školní Copilot chat (po přihlášení), ne anonymní služby.
+- Použití PC techniky: priorita 1) výuka a úkoly ve výuce, jiné použití: na dotaz, jiné použití bez souhlasu = špatné či žádné hodnocení.
+
 #### Hodnocení
 
 1. Teoretická část: písemky (testy), 3-4 známky za pololetí (skrze probrané témata): váha 1.00
