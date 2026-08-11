@@ -63,3 +63,5 @@
    &nbsp;
 
    &nbsp;
+
+9. Celkové hodnocení (standartní stupnice 1-5): 
