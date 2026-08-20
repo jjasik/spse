@@ -17,7 +17,9 @@ Viz. ŠVP: [POS](svp-temata.md)
 
 ##### 3.ročník
 
-- 
+- práce v odborné učebně pro část třídy (cvičení)
+- členění:
+  - odborné učebny: 1x2 hodiny každý týden 1/2 třídy + 1x2 hodiny střídání co 2 týdny, ale po dobu celého roku, **tj. cca 57 bloků po 2 hodinách**
 
 ##### 4.ročník
 
@@ -40,7 +42,7 @@ Viz. ŠVP: [POS](svp-temata.md)
 - AI: V běžné výuce ne (výuka řeší základy a těm je dobré rozumět), pro případné složitější čí samostatné úkoly: na dotaz, ale bez patřičného vysvětlení co daná "vygenerovaná" věc reálně provádí/popisuje a proč bylo zvoleno toto řešení = špatné či žádné hodnocení. Používejte školní Copilot chat (po přihlášení), ne anonymní služby.
 - Použití PC techniky: priorita 1) výuka a úkoly ve výuce, jiné použití: na dotaz, jiné použití bez souhlasu = špatné či žádné hodnocení.
 
-#### Hodnocení
+#### Hodnocení (TODO, draft!)
 
 1. Teoretická část: písemky (testy), 3-4 známky za pololetí (skrze probrané témata): váha 1.00
 2. (Volitelně) Příprava a prezentace zvoleného tématu: jedna známka za pololetí (rok): váha 1.00, [viz. tipy](../../spolecne/tipy/tipy-k-prezentaci-temat.md)
