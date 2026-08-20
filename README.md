@@ -8,9 +8,10 @@
 
 #### Aktuálně (2026-2027)
 
-- E2A: [DIG](tridy/progres/2026-2027-e2a-dig.md), [PRA](tridy/progres/2026-2027-e2a-pra.md)
-- E2B: [DIG](tridy/progres/2026-2027-e2b-dig.md), [PRA](tridy/progres/2026-2027-e2b-pra.md)
-- T2A: [PRA](tridy/progres/2026-2027-t2a-pra.md)
+- E2A: [DIG](tridy/progres/2026-2027-e2a-dig.md) [2/2], [PRA](tridy/progres/2026-2027-e2a-pra.md) [0/3]
+- E2B: [DIG](tridy/progres/2026-2027-e2b-dig.md) [2/2], [PRA](tridy/progres/2026-2027-e2b-pra.md) [0/3]
+- T2A: [PRA](tridy/progres/2026-2027-t2a-pra.md) [0/3]
+- E3B: [MIT](tridy/progres/2026-2027-e3b-mit.md) [2/2]
 
 #### Historie
 
