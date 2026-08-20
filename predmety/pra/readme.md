@@ -11,7 +11,7 @@ Viz. ŠVP: [PRA](svp-temata.md), [DIG](../dig/svp-temata.md)
 - není samostatná teoretická část pro celou třídu, pouze práce v odborné učebně pro část třídy (cvičení)
 - členění:
   - třídy Ex: 1/3 třídy po dobu 1/3 roku, poté střídání, **tj. cca 13 bloků po 3 hodinách**
-  - třídy Tx: 1/2 třídy střídání co 2 týdny, ale po dobu celého roku, **tj. cca 19 bloků po 2 hodinách**
+  - třídy Tx: 1/2 třídy střídání co 2 týdny, ale po dobu celého roku, **tj. cca 19 bloků po 3 hodinách**
 
 
 #### Prerekvizity
@@ -25,7 +25,7 @@ Viz. ŠVP: [PRA](svp-temata.md), [DIG](../dig/svp-temata.md)
 
 #### Požadavky
 
-- Sešit A4 čtverečkovaný, či jiná forma zápisků (obsahuje jak teoretické hodiny, tak i cvičení), do jednoho sešitu budeme psát i DIG relevant část předmětu PRA, minimální úprava: u každé hodiny datum. Sešity si procházím každé pololetí.
+- Sešit A4 čtverečkovaný, či jiná forma zápisků (obsahuje jak teoretické hodiny, tak i cvičení), do jednoho sešitu budeme psát i DIG relevant část předmětu PRA (platí pro třídy Ex), pro třídy Tx použijeme sešity předmětu PRA, minimální úprava: u každé hodiny datum. Sešity si procházím každé pololetí.
 
 #### Pravidla
 
@@ -37,7 +37,7 @@ Viz. ŠVP: [PRA](svp-temata.md), [DIG](../dig/svp-temata.md)
 1. Teoretická část: písemky (testy): není
 2. Příprava a prezentace zvoleného tématu: není
 3. Cvičení: známka z každého bloku (primárně za aktivitu a snahu dokončit, vysvětlit úlohu a zdokumentovat do sešitu): váha 1.00
-4. Sešit: známka jednou za pololetí: váha 0.50
+4. Sešit: známka jednou za periodu praxe (platí pro třídy Ex), jednou za pololetí (platí pro třídy Tx): váha 0.50
 5. (Volitelně) Samostatná práce: není
 6. Zkoušení (primárně poslední probrané učivo): není
 7. Poznámka: Obecně pokud usilujete o lepší hodnocení můžete navrhnout přezkoušení, dodatečnou písemku, či jinou aktivitu za kterou lze udělit známku.
