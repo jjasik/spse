@@ -10,6 +10,7 @@
 
 - E2A: [DIG](tridy/progres/2026-2027-e2a-dig.md), [PRA](tridy/progres/2026-2027-e2a-pra.md)
 - E2B: [DIG](tridy/progres/2026-2027-e2b-dig.md), [PRA](tridy/progres/2026-2027-e2b-pra.md)
+- T2A: [PRA](tridy/progres/2026-2027-t2a-pra.md)
 
 #### Historie
 
