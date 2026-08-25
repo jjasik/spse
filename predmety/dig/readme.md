@@ -53,11 +53,14 @@ Viz. ŠVP: [DIG](svp-temata.md)
    9. [registry.pptx](materialy/registry.pptx)
 2. Sbírky příkladů:
    1. [sbirka-prikladu-1.pdf](materialy/sbirka-prikladu-1.pdf)
+3. Webové stránky:
+   1. [Základy digitální techniky](https://www.vovcr.cz/odz/tech/380/page00.html)
 
 #### Nástroje
 
 1. [Nepájivé kontaktní pole](nastroje/nepajive-pole/nepaj-pole-pic-1.jpg)
-1. [Součástky](soucastky/readme.md) a jejich dokumentace
+1. [Dostupné součástky](soucastky/readme.md)
+1. [Přehled řady 7400](https://cs.wikipedia.org/wiki/Seznam_logick%C3%BDch_integrovan%C3%BDch_obvod%C5%AF_%C5%99ady_7400)
 1. Multimetr
 1. Digitální analyzátor (HW+SW)
 1. [Simulační SW](https://solhsa.com/atanua/downloads.html)
