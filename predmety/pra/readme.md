@@ -45,7 +45,9 @@ Viz. ŠVP: [PRA](svp-temata.md), [DIG](../dig/svp-temata.md)
 
 #### Materiály
 
-1. Kniha [Data, čipy, procesory](materialy/data-cipy-procesory.pdf), Martin Malý
+1. Kniha [Data, čipy, procesory](materialy/data-cipy-procesory.pdf), Martin Malý ((sbírka příkladů)[https://github.com/datacipy/VHDL])
+2. Webové stránky:
+   1. [Úvod do jazyka VHDL I](https://www.vovcr.cz/odz/tech/561/page00.html)
 
 #### Nástroje
 
