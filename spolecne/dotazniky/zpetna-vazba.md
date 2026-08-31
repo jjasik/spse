@@ -1,5 +1,9 @@
 # Zpětná vazba
 
+Pište prosím čitelně, hodláme odpovědi automaticky zpracovat.
+
+
+
 1. Co ti v tomto předmětu vyhovovalo, co oceňuješ?
 
    &nbsp;
