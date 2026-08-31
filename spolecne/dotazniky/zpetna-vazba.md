@@ -16,7 +16,7 @@
 
    &nbsp;
 
-3. Jak proběhl předmět(y), který(é) tomuto předmětu tématicky předchází (např. vazba DIG–MIT apod.)?
+3. Co ti z jiných předmětů pomohlo v tomto předmětu?
 
    &nbsp;
 
