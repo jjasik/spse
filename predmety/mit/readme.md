@@ -20,6 +20,7 @@ Viz. ŠVP: [MIT](svp-temata.md)
 - základy digitální techniky (předmět DIG)
 - práce s nějakým vývojovým prostředím (správa projektů, manipulace se soubory...)
 - základy měření: voltmetr/ampérmetr, digitální analyzátor
+- základy programovacího jazyka C
 - opatrnost při práci (citlivá elektronika!)
 
 #### Požadavky
