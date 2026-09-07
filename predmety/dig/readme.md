@@ -41,7 +41,14 @@ Viz. ŠVP: [DIG](svp-temata.md)
 
 #### Materiály
 
-1. Prezentace k předmětu:
+1. Knihy:
+   1. Od logických obvodů k mikroprocesorům 1-4, Jean-Michel Bernard a kol.
+   2. Číslicová technika, Marcela Antošová a Vratislav Davídek
+   3. Digitální technika, Václav Malina
+   4. Elektronika 3 (číslicová technika), Jan Kesl
+2. Časopisy:
+   1. [Amatérské rádio 1989/5 (Úvod do číslicové a mikroprocesorové techniky)](materialy/ar-b-1989-05.pdf)
+3. Prezentace k předmětu:
    1. [zakladni_pojmy.pptx](materialy/zakladni_pojmy.pptx)
    2. [ciselne_soustavy.pptx](materialy/ciselne_soustavy.pptx)
    3. [kodovani_dat.pptx](materialy/kodovani_dat.pptx)
@@ -51,9 +58,9 @@ Viz. ŠVP: [DIG](svp-temata.md)
    7. [klopne_obvody.pptx](materialy/klopne_obvody.pptx)
    8. [citace.pptx](materialy/citace.pptx)
    9. [registry.pptx](materialy/registry.pptx)
-2. Sbírky příkladů:
+4. Sbírky příkladů:
    1. [sbirka-prikladu-1.pdf](materialy/sbirka-prikladu-1.pdf)
-3. Webové stránky:
+5. Webové stránky:
    1. [Základy digitální techniky](https://www.vovcr.cz/odz/tech/380/page00.html)
    2. [Přehled řady 7400](https://cs.wikipedia.org/wiki/Seznam_logick%C3%BDch_integrovan%C3%BDch_obvod%C5%AF_%C5%99ady_7400)
 
