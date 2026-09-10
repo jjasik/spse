@@ -13,6 +13,16 @@ Každá skříň obsahuje zhruba tuto sestavu 4 krát (tj. učebna celkově 2 sk
 - [CISCO ASA 5505 Series](https://www.cisco.com/c/en/us/products/collateral/security/asa-5500-series-next-generation-firewalls/datasheet-c78-733510.html): 1x
 - [MIKROTIK RouterBoard 1100 X2 AH](https://mikrotik.com/product/RB1100AHx2): 2x
 
+#### Detaily zařízení
+
+| Zařízení | Druh | Vlastnosti |
+|---|---|---|
+| CISCO CATALYST 3560-C Series POE | Switch (L2, s L3 routing funkcemi) | Kompaktní přístupový switch, podpora PoE (napájení koncových zařízení, např. IP telefonů, AP), volitelně statické směrování a základní L3 funkce, vhodný jako access/edge switch |
+| CISCO CATALYST 2960 Series | Switch (L2) | Přístupový switch bez L3 funkcí, VLAN, trunking, port security, bez podpory pokročilého směrování |
+| CISCO 2901 | Router | Integrovaný servisní router (ISR G2), modulární rozhraní (HWIC sloty), podpora WAN připojení, VPN, hlasové služby |
+| CISCO 1941 | Router | Integrovaný servisní router (ISR G2), menší/starší model než 2901, 2x GE porty, modulární rozšíření přes HWIC |
+| CISCO ASA 5505 Series | Firewall | Bezpečnostní appliance (firewall + VPN koncentrátor), stavová inspekce paketů (stateful inspection), NAT, integrovaný 8portový switch |
+
 #### Obrázky
 
 <img src="v2-pic-01.jpg" width="300"/><img src="v2-pic-02.jpg" width="300"/><img src="v2-pic-03.jpg" width="300"/>
