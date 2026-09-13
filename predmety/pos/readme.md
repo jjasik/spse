@@ -35,19 +35,18 @@ Viz. ŠVP: [POS](svp-temata.md)
 
 #### Požadavky
 
-- Sešit A4 čtverečkovaný, či jiná forma zápisků (obsahuje jak teoretické hodiny, tak i cvičení), minimální úprava: u každé hodiny datum. Sešity si procházím každé pololetí.
+- Sešit A4 čtverečkovaný, či jiná forma zápisků (obsahuje jak teoretické hodiny, tak i cvičení), minimální úprava: u každé hodiny datum.
 
 #### Pravidla
 
 - AI: V běžné výuce ne (výuka řeší základy a těm je dobré rozumět), pro případné složitější čí samostatné úkoly: na dotaz, ale bez patřičného vysvětlení co daná "vygenerovaná" věc reálně provádí/popisuje a proč bylo zvoleno toto řešení = špatné či žádné hodnocení. Používejte školní Copilot chat (po přihlášení), ne anonymní služby.
 - Použití PC techniky: priorita 1) výuka a úkoly ve výuce, jiné použití: na dotaz, jiné použití bez souhlasu = špatné či žádné hodnocení.
 
-#### Hodnocení (TODO, draft!)
+#### Hodnocení
 
 1. Teoretická část: písemky (testy), 3-4 známky za pololetí (skrze probrané témata): váha 1.00
 2. (Volitelně) Příprava a prezentace zvoleného tématu: jedna známka za pololetí (rok): váha 1.00, [viz. tipy](../../spolecne/tipy/tipy-k-prezentaci-temat.md)
 3. Cvičení: známka z každého bloku (primárně za aktivitu a snahu dokončit, vysvětlit úlohu a zdokumentovat do sešitu): váha 0.50
-4. Sešit: známka jednou za pololetí: váha 0.50
 5. (Volitelně) Samostatná práce: není
 6. Zkoušení (primárně poslední probrané učivo): váha 0.50
 7. Poznámka: Obecně pokud usilujete o lepší hodnocení můžete navrhnout přezkoušení, dodatečnou písemku, či jinou aktivitu za kterou lze udělit známku.
