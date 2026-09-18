@@ -134,4 +134,6 @@ viz.sekce Materiály
 | 13.3.1 Packet Tracer - Use ICMP to Test and Correct Network Connectivity | Ano           | Ne     |                           |            |
 | 13.3.2 Lab - Use Ping and Traceroute to Test Network Connectivity | Ano           | Ano    |                           |            |
 | 14.8.1 Packet Tracer - TCP and UDP Communications            | Ano           | Ne     |                           | Ano        |
+| 16.4.6 Packet Tracer - Configure Secure Passwords and SSH    | Ano           | Ne     |                           | Ano        |
+| 16.4.7 Lab - Configure Network Devices with SSH              | Ne            | Ano    |                           | Ano        |
 
