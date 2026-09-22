@@ -136,4 +136,8 @@ viz.sekce Materiály
 | 14.8.1 Packet Tracer - TCP and UDP Communications            | Ano           | Ne     |                           | Ano        |
 | 16.4.6 Packet Tracer - Configure Secure Passwords and SSH    | Ano           | Ne     |                           | Ano        |
 | 16.4.7 Lab - Configure Network Devices with SSH              | Ne            | Ano    |                           | Ano        |
+| 17.4.6 Lab - Test Network Latency with Ping and Traceroute   | Ne            | Ano    |                           | Ne         |
+| 17.5.9 Packet Tracer - Interpret show Command Output         | Ano           | Ne     |                           | Ne         |
+| 17.7.6 Packet Tracer - Troubleshoot Connectivity Issues      | Ano           | Ne     |                           | Ano        |
+| 17.7.7 Lab - Troubleshoot Connectivity Issues                | Ano           | Ano    |                           | Ne         |
 
