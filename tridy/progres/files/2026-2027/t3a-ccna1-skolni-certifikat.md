@@ -1,0 +1,11 @@
+| Zkratka | Skupina | LAB HW úloha (škola) | CE1: B Network C and C (doma) | CE2: Ethernet C (doma) | CE3: C Between N (doma) | CE4: IP A (škola) | CE5: N Application (škola) | CE6: B S Small (škola) | Final Exam (škola) |
+| ------- | ------- | -------------------- | ----------------------------- | ---------------------- | ----------------------- | ----------------- | -------------------------- | ---------------------- | ------------------ |
+| ViJa    | Skup1   | OK                   |                               |                        |                         |                   |                            |                        |                    |
+| ViKo    | Skup1   | OK                   | OK                            | OK                     |                         |                   |                            |                        |                    |
+| MaKo    | Skup1   | OK                   | OK                            | OK                     | OK                      |                   |                            |                        |                    |
+| OnMa    | Skup2   | OK                   | OK                            | NOK (82%)              | OK                      |                   |                            |                        |                    |
+| DeMi    | Skup2   |                      |                               |                        |                         |                   |                            |                        |                    |
+| ToPa    | Skup2   | OK                   | OK                            | OK                     | OK                      | OK                |                            |                        |                    |
+| MaPa    | Skup2   | OK                   | OK                            | OK                     | OK                      | OK                |                            |                        |                    |
+| JaPi    | Skup2   | OK                   | OK                            |                        |                         |                   |                            |                        |                    |
+
