@@ -35,6 +35,8 @@ Viz. ŠVP: [PRA](svp-temata.md), [DIG](../dig/svp-temata.md)
 #### Hodnocení
 
 1. Teoretická část: písemky (testy): není
+
+   "Písemku, kterou žák zmeškal, dopisuje standardně na následující vyučovací hodině daného předmětu. Pokud tento termín nemůže žák z vážného důvodu (např. nemoc, lékařské vyšetření, delší absence) dodržet, domluví si se mnou náhradní termín nejpozději do 1 týdne od návratu do školy."
 2. Příprava a prezentace zvoleného tématu: není
 3. Cvičení: známka z každého bloku (primárně za aktivitu a snahu dokončit, vysvětlit úlohu a zdokumentovat do sešitu): váha 1.00
 4. Sešit: známka jednou za periodu praxe (platí pro třídy Ex), jednou za pololetí (platí pro třídy Tx): váha 0.50
