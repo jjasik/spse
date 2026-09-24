@@ -4,6 +4,7 @@
 - prosím monitorujte své školní emaily
 - filozofie
   - nejsou až tak důležité encyklopedické znalosti (lze najít, lze nastudovat v případě potřeby, lze vygenerovat...), ale myšlení, i když základy se hodí vždy
+  - "Hodnotím primárně porozumění a myšlení, ne přesnost zápisu. To v praxi znamená: umíš-li vysvětlit vlastními slovy a aplikovat na nový příklad, dostaneš víc bodů než za doslovně opsanou definici, kterou nedokážeš použít."
   - je to váš život, snažte se mít věci v rovnováze (škola, volno atd.) a využít rozumně čas na škole, až budete jednou v "terénu" bude se vám to hodit
 - jsme samostatní, iniciativní (návrhy, nápady...), aktivní ve skupině
 - nerušíme ostatní (pokud "mám tvůrčí krizi" v daný den, tak alespoň neruším ostatní)
