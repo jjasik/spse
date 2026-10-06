@@ -3,9 +3,9 @@
 | ViJa    | Skup1   | OK                   | OK                            |                        |                         |                   |                            |                        |                    |
 | ViKo    | Skup1   | OK                   | OK                            | OK                     | OK                      |                   |                            |                        |                    |
 | MaKo    | Skup1   | OK                   | OK                            | OK                     | OK                      |                   |                            |                        |                    |
-| OnMa    | Skup2   | OK                   | OK                            | NOK (82%)              | OK                      | OK                | OK                         |                        |                    |
+| OnMa    | Skup2   | OK                   | OK                            | OK                     | OK                      | OK                | OK                         | OK                     |                    |
 | DeMi    | Skup2   |                      |                               |                        |                         |                   |                            |                        |                    |
 | ToPa    | Skup2   | OK                   | OK                            | OK                     | OK                      | OK                | OK                         | OK                     |                    |
 | MaPa    | Skup2   | OK                   | OK                            | OK                     | OK                      | OK                | OK                         | OK                     |                    |
-| JaPi    | Skup2   | OK                   | OK                            | OK                     | OK                      | OK                |                            |                        |                    |
+| JaPi    | Skup2   | OK                   | OK                            | OK                     | OK                      | OK                | OK                         | OK                     |                    |
 
