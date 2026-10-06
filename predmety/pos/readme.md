@@ -89,57 +89,112 @@ viz.sekce Materiály
 
 2.ročník:
 
-| Úloha                                                        | Packet Tracer | Lab HW | Poznámka                  | Doporučeno |
-| ------------------------------------------------------------ | ------------- | ------ | ------------------------- | ---------- |
-| 1.0.4 Video - Getting Started in Cisco Packet Tracer         |               |        | Pouze video cca 13 minut. | Ano        |
-| 1.0.5 Packet Tracer - Logical and Physical Mode Exploration (PacketTracer) | Ano           | Ne     |                           | Ano        |
-| 1.5.5 Packet Tracer - Network Representation                 | Ano           | Ne     |                           |            |
-| 1.9.3 Lab - Research IT and Networking Job Opportunities     |               |        |                           |            |
-| 2.3.7 Packet Tracer - Navigate the IOS (PacketTracer)        | Ano           | Ne     |                           | Ano        |
-| 2.3.8 Lab - Navigate the IOS by Using Tera Term for Console Connectivity (PacketTracer + Lab HW) | Ano           | Ano    |                           | Ano        |
-| 2.5.4 Capture Configuration to a Text File (PacketTracer)    |               |        |                           |            |
-| 2.5.5 Packet Tracer - Configure Initial Switch Settings (PacketTracer) | Ano           | Ne     |                           | Ano        |
-| 2.7.6 Packet Tracer - Implement Basic Connectivity (PacketTracer) | Ano           | Ne     |                           | Ano        |
-| 2.9.1 Packet Tracer - Basic Switch and End Device Configuration (Packet Tracer) | Ano           | Ne     |                           | Ano        |
-| 2.9.2 Lab - Basic Switch and End Device Configuration (Packet Tracer + Lab HW) | Ano           | Ano    |                           | Ano        |
-| 3.4.4 Lab - Research Networking Standards                    |               |        |                           | Ano        |
-| 3.5.5 Packet Tracer - Investigate the TCP/IP and OSI Models in Action (Packet Tracer) | Ano           | Ne     |                           | Ano        |
-| 3.7.9 Lab - Install Wireshark (Lab HW)                       |               | Ano    | Pouze instalace SW.       |            |
-| 3.7.10 Lab - Use Wireshark to View Network Traffic (Lab HW)  | Ne            | Ano    |                           | Ano        |
-| 4.6.5 Packet Tracer - Connect a Wired and Wireless LAN (Packet Tracer) | Ano           | Ne     |                           |            |
-| 4.6.6 Lab - View Wired and Wireless NIC Information (Lab HW) | Ne            | Ano    |                           | Ano        |
-| 4.7.1 Packet Tracer - Physical Layer Exploration (Packet Tracer) | Ano           | Ne     |                           |            |
-| 4.7.2 Packet Tracer - Connect the Physical Layer (Packet Tracer) | Ano           | Ne     |                           | Ano        |
-| 7.1.6 Lab - Use Wireshark to Examine Ethernet Frames Topology | Ne            | Ano    |                           | Ano        |
-| 7.2.7 Lab - View Network Device MAC Addresses                | Ne            | Ano    |                           | Ano        |
-| 7.3.7 Lab - View the Switch MAC Address Table                | Ne            | Ano    |                           | Ano        |
-| 9.1.3 Packet Tracer - Identify MAC and IP Addresses          | Ano           | Ne     |                           | Ano        |
-| 9.2.9 Packet Tracer - Examine the ARP Table                  | Ano           | Ne     |                           | Ano        |
-| 9.3.4 Packet Tracer - IPv6 Neighbor Discovery                | Ano           | Ne     |                           | Ano        |
-| 10.1.4 Packet Tracer - Configure Initial Router Settings     | Ano           | Ne     |                           | Ano        |
-| 10.3.4 Packet Tracer - Connect a Router to a LAN             | Ano           | Ne     |                           | Ano        |
-| 10.3.5 Packet Tracer - Troubleshoot Default Gateway Issues   | Ano           | Ne     |                           |            |
-| 10.4.3 Lab - Build a Switch and Router Network (Packet Tracer + Lab HW) | Ano           | Ano    |                           | Ano        |
-| 11.5.5 Packet Tracer - Subnet an IPv4 Network                | Ano           | Ne     |                           |            |
-| 11.6.6 Lab - Calculate IPv4 Subnets                          |               |        |                           |            |
-| 11.7.5 Packet Tracer - Subnetting Scenario                   | Ano           | Ne     |                           |            |
-| 11.9.3 Packet Tracer - VLSM Design and Implementation Practice | Ano           | Ne     |                           |            |
-| 11.10.1 Packet Tracer - Design and Implement a VLSM Addressing Scheme | Ano           | Ne     |                           |            |
-| 11.10.2 Lab - Design and Implement a VLSM Addressing Scheme (Packet Tracer + Lab HW) | Ano           | Ano    |                           |            |
-| 12.4.5 Packet Tracer - Basic Device Configuration            | Ano           | Ne     |                           |            |
-| 12.6.6 Packet Tracer - Configure IPv6 Addressing             | Ano           | Ne     |                           | Ano        |
-| 12.7.4 Lab - Identify IPv6 Addresses                         | Ne            | Ano    |                           |            |
-| 12.9.1 Packet Tracer - Implement a Subnetted IPv6 Addressing Scheme | Ano           | Ne     |                           |            |
-| 12.9.2 Lab - Configure IPv6 Addresses on Network Devices     | Ano           | Ano    |                           | Ano        |
-| 13.2.6 Packet Tracer - Verify IPv4 and IPv6 Addressing       | Ano           | Ne     |                           |            |
-| 13.2.7 Packet Tracer - Use Ping and Traceroute to Test Network Connectivity | Ano           | Ne     |                           | Ano        |
-| 13.3.1 Packet Tracer - Use ICMP to Test and Correct Network Connectivity | Ano           | Ne     |                           |            |
-| 13.3.2 Lab - Use Ping and Traceroute to Test Network Connectivity | Ano           | Ano    |                           |            |
-| 14.8.1 Packet Tracer - TCP and UDP Communications            | Ano           | Ne     |                           | Ano        |
-| 16.4.6 Packet Tracer - Configure Secure Passwords and SSH    | Ano           | Ne     |                           | Ano        |
-| 16.4.7 Lab - Configure Network Devices with SSH              | Ne            | Ano    |                           | Ano        |
-| 17.4.6 Lab - Test Network Latency with Ping and Traceroute   | Ne            | Ano    |                           | Ne         |
-| 17.5.9 Packet Tracer - Interpret show Command Output         | Ano           | Ne     |                           | Ne         |
-| 17.7.6 Packet Tracer - Troubleshoot Connectivity Issues      | Ano           | Ne     |                           | Ano        |
-| 17.7.7 Lab - Troubleshoot Connectivity Issues                | Ano           | Ano    |                           | Ne         |
+| Úloha                                                        | Packet Tracer | Lab  | Poznámka                  | Doporučeno |
+| ------------------------------------------------------------ | ------------- | ---- | ------------------------- | ---------- |
+| 1.0.4 Video - Getting Started in Cisco Packet Tracer         |               |      | Pouze video cca 13 minut. | Ano        |
+| 1.0.5 Packet Tracer - Logical and Physical Mode Exploration (PacketTracer) | Ano           | Ne   |                           | Ano        |
+| 1.5.5 Packet Tracer - Network Representation                 | Ano           | Ne   |                           |            |
+| 1.9.3 Lab - Research IT and Networking Job Opportunities     |               |      |                           |            |
+| 2.3.7 Packet Tracer - Navigate the IOS (PacketTracer)        | Ano           | Ne   |                           | Ano        |
+| 2.3.8 Lab - Navigate the IOS by Using Tera Term for Console Connectivity (PacketTracer + Lab HW) | Ano           | Ano  |                           | Ano        |
+| 2.5.4 Capture Configuration to a Text File (PacketTracer)    |               |      |                           |            |
+| 2.5.5 Packet Tracer - Configure Initial Switch Settings (PacketTracer) | Ano           | Ne   |                           | Ano        |
+| 2.7.6 Packet Tracer - Implement Basic Connectivity (PacketTracer) | Ano           | Ne   |                           | Ano        |
+| 2.9.1 Packet Tracer - Basic Switch and End Device Configuration (Packet Tracer) | Ano           | Ne   |                           | Ano        |
+| 2.9.2 Lab - Basic Switch and End Device Configuration (Packet Tracer + Lab HW) | Ano           | Ano  |                           | Ano        |
+| 3.4.4 Lab - Research Networking Standards                    |               |      |                           | Ano        |
+| 3.5.5 Packet Tracer - Investigate the TCP/IP and OSI Models in Action (Packet Tracer) | Ano           | Ne   |                           | Ano        |
+| 3.7.9 Lab - Install Wireshark (Lab HW)                       |               | Ano  | Pouze instalace SW.       |            |
+| 3.7.10 Lab - Use Wireshark to View Network Traffic (Lab HW)  | Ne            | Ano  |                           | Ano        |
+| 4.6.5 Packet Tracer - Connect a Wired and Wireless LAN (Packet Tracer) | Ano           | Ne   |                           |            |
+| 4.6.6 Lab - View Wired and Wireless NIC Information (Lab HW) | Ne            | Ano  |                           | Ano        |
+| 4.7.1 Packet Tracer - Physical Layer Exploration (Packet Tracer) | Ano           | Ne   |                           |            |
+| 4.7.2 Packet Tracer - Connect the Physical Layer (Packet Tracer) | Ano           | Ne   |                           | Ano        |
+| 7.1.6 Lab - Use Wireshark to Examine Ethernet Frames Topology | Ne            | Ano  |                           | Ano        |
+| 7.2.7 Lab - View Network Device MAC Addresses                | Ne            | Ano  |                           | Ano        |
+| 7.3.7 Lab - View the Switch MAC Address Table                | Ne            | Ano  |                           | Ano        |
+| 9.1.3 Packet Tracer - Identify MAC and IP Addresses          | Ano           | Ne   |                           | Ano        |
+| 9.2.9 Packet Tracer - Examine the ARP Table                  | Ano           | Ne   |                           | Ano        |
+| 9.3.4 Packet Tracer - IPv6 Neighbor Discovery                | Ano           | Ne   |                           | Ano        |
+| 10.1.4 Packet Tracer - Configure Initial Router Settings     | Ano           | Ne   |                           | Ano        |
+| 10.3.4 Packet Tracer - Connect a Router to a LAN             | Ano           | Ne   |                           | Ano        |
+| 10.3.5 Packet Tracer - Troubleshoot Default Gateway Issues   | Ano           | Ne   |                           |            |
+| 10.4.3 Lab - Build a Switch and Router Network (Packet Tracer + Lab HW) | Ano           | Ano  |                           | Ano        |
+| 11.5.5 Packet Tracer - Subnet an IPv4 Network                | Ano           | Ne   |                           |            |
+| 11.6.6 Lab - Calculate IPv4 Subnets                          |               |      |                           |            |
+| 11.7.5 Packet Tracer - Subnetting Scenario                   | Ano           | Ne   |                           |            |
+| 11.9.3 Packet Tracer - VLSM Design and Implementation Practice | Ano           | Ne   |                           |            |
+| 11.10.1 Packet Tracer - Design and Implement a VLSM Addressing Scheme | Ano           | Ne   |                           |            |
+| 11.10.2 Lab - Design and Implement a VLSM Addressing Scheme (Packet Tracer + Lab HW) | Ano           | Ano  |                           |            |
+| 12.4.5 Packet Tracer - Basic Device Configuration            | Ano           | Ne   |                           |            |
+| 12.6.6 Packet Tracer - Configure IPv6 Addressing             | Ano           | Ne   |                           | Ano        |
+| 12.7.4 Lab - Identify IPv6 Addresses                         | Ne            | Ano  |                           |            |
+| 12.9.1 Packet Tracer - Implement a Subnetted IPv6 Addressing Scheme | Ano           | Ne   |                           |            |
+| 12.9.2 Lab - Configure IPv6 Addresses on Network Devices     | Ano           | Ano  |                           | Ano        |
+| 13.2.6 Packet Tracer - Verify IPv4 and IPv6 Addressing       | Ano           | Ne   |                           |            |
+| 13.2.7 Packet Tracer - Use Ping and Traceroute to Test Network Connectivity | Ano           | Ne   |                           | Ano        |
+| 13.3.1 Packet Tracer - Use ICMP to Test and Correct Network Connectivity | Ano           | Ne   |                           |            |
+| 13.3.2 Lab - Use Ping and Traceroute to Test Network Connectivity | Ano           | Ano  |                           |            |
+| 14.8.1 Packet Tracer - TCP and UDP Communications            | Ano           | Ne   |                           | Ano        |
+| 16.4.6 Packet Tracer - Configure Secure Passwords and SSH    | Ano           | Ne   |                           | Ano        |
+| 16.4.7 Lab - Configure Network Devices with SSH              | Ne            | Ano  |                           | Ano        |
+| 17.4.6 Lab - Test Network Latency with Ping and Traceroute   | Ne            | Ano  |                           | Ne         |
+| 17.5.9 Packet Tracer - Interpret show Command Output         | Ano           | Ne   |                           | Ne         |
+| 17.7.6 Packet Tracer - Troubleshoot Connectivity Issues      | Ano           | Ne   |                           | Ano        |
+| 17.7.7 Lab - Troubleshoot Connectivity Issues                | Ano           | Ano  |                           | Ne         |
 
+3.ročník:
+
+| Úloha                                                        | Packet Tracer | Lab  | Poznámka                  | Doporučeno |
+| ------------------------------------------------------------ | ------------- | ---- | ------------------------- | ---------- |
+| 1.0.4 Video - Getting Started in Cisco Packet Tracer         |               |      | Pouze video cca 13 minut. | Ano        |
+| 1.0.5 Packet Tracer - Logical and Physical Mode Exploration (PacketTracer) | Ano           | Ne   |                           | Ne         |
+| 1.1.7 Lab - Basic Switch Configuration                       | Ano           | Ano  |                           | Ano        |
+| 1.3.6 Packet Tracer - Configure SSH                          | Ano           | Ne   |                           | Ano        |
+| 1.4.7 Packet Tracer- Configure Router Interfaces             | Ano           | Ne   |                           | Ano        |
+|                                                              |               |      |                           |            |
+|                                                              |               |      |                           |            |
+|                                                              |               |      |                           |            |
+|                                                              |               |      |                           |            |
+|                                                              |               |      |                           |            |
+|                                                              |               |      |                           |            |
+|                                                              |               |      |                           |            |
+|                                                              |               |      |                           |            |
+|                                                              |               |      |                           |            |
+|                                                              |               |      |                           |            |
+|                                                              |               |      |                           |            |
+|                                                              |               |      |                           |            |
+|                                                              |               |      |                           |            |
+|                                                              |               |      |                           |            |
+|                                                              |               |      |                           |            |
+|                                                              |               |      |                           |            |
+|                                                              |               |      |                           |            |
+|                                                              |               |      |                           |            |
+|                                                              |               |      |                           |            |
+|                                                              |               |      |                           |            |
+|                                                              |               |      |                           |            |
+|                                                              |               |      |                           |            |
+|                                                              |               |      |                           |            |
+|                                                              |               |      |                           |            |
+|                                                              |               |      |                           |            |
+|                                                              |               |      |                           |            |
+|                                                              |               |      |                           |            |
+|                                                              |               |      |                           |            |
+|                                                              |               |      |                           |            |
+|                                                              |               |      |                           |            |
+|                                                              |               |      |                           |            |
+|                                                              |               |      |                           |            |
+|                                                              |               |      |                           |            |
+|                                                              |               |      |                           |            |
+|                                                              |               |      |                           |            |
+|                                                              |               |      |                           |            |
+|                                                              |               |      |                           |            |
+|                                                              |               |      |                           |            |
+|                                                              |               |      |                           |            |
+|                                                              |               |      |                           |            |
+|                                                              |               |      |                           |            |
+|                                                              |               |      |                           |            |
+|                                                              |               |      |                           |            |
+|                                                              |               |      |                           |            |
+|                                                              |               |      |                           |            |
+|                                                              |               |      |                           |            |
