@@ -12,10 +12,10 @@
 | ToKa    | x          |            |
 | VoKo    |            |            |
 | StKos   |            |            |
-| PeKo    |            |            |
+| PeKo    | x          |            |
 | StKov   |            |            |
 | MaKr    | x          |            |
-| PaMi    |            |            |
+| PaMi    | x          |            |
 | VoNo    |            |            |
 | MaOn    |            |            |
 | MaOp    |            |            |
