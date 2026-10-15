@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 430" width="1200" height="430" font-family="Arial, Helvetica, sans-serif">
+  <rect width="1200" height="430" fill="#ffffff"/>
+  <text x="600" y="42" text-anchor="middle" font-size="26" font-weight="bold" fill="#111">Dvojkový doplněk – 8bitová čísla se znaménkem</text>
+  <text x="600" y="70" text-anchor="middle" font-size="16" fill="#444">Rozsah −128 … +127 (256 hodnot), nejvyšší bit (MSB) určuje znaménko</text>
+
+  <!-- osa: x = 90 + (hodnota + 128) * 4 -->
+  <rect x="90" y="203" width="508" height="14" fill="#c0392b"/>
+  <rect x="602" y="203" width="508" height="14" fill="#1f5fa8"/>
+  <g stroke="#111" stroke-width="1.5">
+    <line x1="90" y1="196" x2="90" y2="224"/><line x1="154" y1="200" x2="154" y2="220"/><line x1="218" y1="200" x2="218" y2="220"/>
+    <line x1="282" y1="200" x2="282" y2="220"/><line x1="346" y1="196" x2="346" y2="224"/><line x1="410" y1="200" x2="410" y2="220"/>
+    <line x1="474" y1="200" x2="474" y2="220"/><line x1="538" y1="200" x2="538" y2="220"/>
+    <line x1="666" y1="200" x2="666" y2="220"/><line x1="730" y1="200" x2="730" y2="220"/><line x1="794" y1="200" x2="794" y2="220"/>
+    <line x1="858" y1="196" x2="858" y2="224"/><line x1="922" y1="200" x2="922" y2="220"/><line x1="986" y1="200" x2="986" y2="220"/>
+    <line x1="1050" y1="200" x2="1050" y2="220"/><line x1="1110" y1="196" x2="1110" y2="224"/>
+  </g>
+  <!-- nula -->
+  <line x1="602" y1="190" x2="602" y2="230" stroke="#111" stroke-width="3"/>
+  <line x1="598" y1="203" x2="598" y2="217" stroke="#fff" stroke-width="0"/>
+
+  <!-- body nad osou -->
+  <g stroke="#111" stroke-width="1.5" stroke-dasharray="4 3">
+    <line x1="602" y1="190" x2="602" y2="150"/><line x1="858" y1="190" x2="858" y2="150"/><line x1="1110" y1="190" x2="1110" y2="150"/>
+  </g>
+  <g text-anchor="middle" fill="#1f5fa8">
+    <text x="602" y="138" font-size="22" font-weight="bold">0</text>
+    <text x="602" y="116" font-size="18" font-family="Consolas, 'Courier New', monospace">0000 0000</text>
+    <text x="858" y="138" font-size="22" font-weight="bold">64</text>
+    <text x="858" y="116" font-size="18" font-family="Consolas, 'Courier New', monospace">0100 0000</text>
+    <text x="1110" y="138" font-size="22" font-weight="bold">127</text>
+    <text x="1110" y="116" font-size="18" font-family="Consolas, 'Courier New', monospace">0111 1111</text>
+  </g>
+
+  <!-- body pod osou -->
+  <g stroke="#111" stroke-width="1.5" stroke-dasharray="4 3">
+    <line x1="90" y1="230" x2="90" y2="268"/><line x1="346" y1="230" x2="346" y2="268"/><line x1="598" y1="230" x2="598" y2="268"/>
+  </g>
+  <g text-anchor="middle" fill="#c0392b">
+    <text x="90" y="292" font-size="22" font-weight="bold">−128</text>
+    <text x="90" y="316" font-size="18" font-family="Consolas, 'Courier New', monospace">1000 0000</text>
+    <text x="346" y="292" font-size="22" font-weight="bold">−64</text>
+    <text x="346" y="316" font-size="18" font-family="Consolas, 'Courier New', monospace">1100 0000</text>
+    <text x="598" y="292" font-size="22" font-weight="bold">−1</text>
+    <text x="598" y="316" font-size="18" font-family="Consolas, 'Courier New', monospace">1111 1111</text>
+  </g>
+
+  <!-- závorky MSB -->
+  <g fill="none" stroke-width="2.5">
+    <path d="M90 344 v8 H598 v-8" stroke="#c0392b"/>
+    <path d="M602 344 v8 H1110 v-8" stroke="#1f5fa8"/>
+  </g>
+  <text x="344" y="378" text-anchor="middle" font-size="17" fill="#c0392b" font-weight="bold">−128 … −1: MSB = 1 (záporná čísla)</text>
+  <text x="856" y="378" text-anchor="middle" font-size="17" fill="#1f5fa8" font-weight="bold">0 … 127: MSB = 0 (nula a kladná čísla)</text>
+  <text x="600" y="412" text-anchor="middle" font-size="14" fill="#555">Hodnota = −128·b₇ + 64·b₆ + 32·b₅ + … + 2·b₁ + b₀</text>
+</svg>
