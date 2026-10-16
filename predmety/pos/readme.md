@@ -152,8 +152,8 @@ viz.sekce Materiály
 | 1.1.7 Lab - Basic Switch Configuration                       | Ano           | Ano  |                           | Ano        |
 | 1.3.6 Packet Tracer - Configure SSH                          | Ano           | Ne   |                           | Ano        |
 | 1.4.7 Packet Tracer- Configure Router Interfaces             | Ano           | Ne   |                           | Ano        |
-|                                                              |               |      |                           |            |
-|                                                              |               |      |                           |            |
+| 1.5.10 Packet Tracer - Verify Directly Connected Networks    | Ano           | Ne   |                           | Ano        |
+| 1.6.2 Lab - Configure Basic Router Settings                  | Ano           | Ano  |                           |            |
 |                                                              |               |      |                           |            |
 |                                                              |               |      |                           |            |
 |                                                              |               |      |                           |            |
