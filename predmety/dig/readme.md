@@ -50,15 +50,7 @@ Viz. ŠVP: [DIG](svp-temata.md)
    4. Elektronika 3 (číslicová technika), Jan Kesl
 2. Časopisy:
    1. [Amatérské rádio 1989/5 (Úvod do číslicové a mikroprocesorové techniky)](materialy/ar-b-1989-05.pdf)
-3. Prezentace k předmětu:
-   1. [ciselne_soustavy.pptx](materialy/ciselne_soustavy.pptx)
-   2. [kodovani_dat.pptx](materialy/kodovani_dat.pptx)
-   3. [logicke_funkce.pptx](materialy/logicke_funkce.pptx)
-   4. [kombinacni_obvody.pptx](materialy/kombinacni_obvody.pptx) ([errata-1](materialy/kombinacni_obvody_errata-1.pptx))
-   5. [sekvencni_obvody.pptx](materialy/sekvencni_obvody.pptx)
-   6. [klopne_obvody.pptx](materialy/klopne_obvody.pptx)
-   7. [citace.pptx](materialy/citace.pptx)
-   8. [registry.pptx](materialy/registry.pptx)
+3. Prezentace k předmětu: viz.stránky Progres výuky
 4. Sbírky příkladů:
    1. [sbirka-prikladu-1.pdf](materialy/sbirka-prikladu-1.pdf)
 5. Webové stránky:
