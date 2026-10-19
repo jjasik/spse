@@ -48,16 +48,8 @@ Viz. ŠVP: [MIT](svp-temata.md)
 
 1. Knihy:
    1. Programování mikrokontrolérů ATmega, David Matoušek
-   2. [PROGRAMUJEME V JAZYKU C](materialy/programujeme-avr.pdf), Ondrej Závodský
-1. Prezentace k předmětu:
-   1. [modely_pocitacu.pptx](materialy/modely_pocitacu.pptx)
-   2. [pameti.pptx](materialy/pameti.pptx)
-   3. [avr_intro.pptx](materialy/avr_intro.pptx)
-   4. [avr_instrukce.pptx](materialy/avr_instrukce.pptx)
-   5. [jazyk_c.pptx](materialy/jazyk_c.pptx)
-   6. [avr_preruseni.pptx](materialy/avr_preruseni.pptx)
-   7. [avr_adc.pptx](materialy/avr_adc.pptx)
-   8. [avr_timer.pptx](materialy/avr_timer.pptx)
+   2. [PROGRAMUJEME AVR V JAZYKU C](materialy/programujeme-avr.pdf), Ondrej Závodský
+1. Prezentace k předmětu: viz.stránky Progres výuky
 1. Webové stránky:
    1. [Dokumentace ke standartní SW knihovně (avr-libc)](https://www.nongnu.org/avr-libc/user-manual/modules.html)
 
