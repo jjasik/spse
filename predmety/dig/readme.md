@@ -69,7 +69,7 @@ Viz. ŠVP: [DIG](svp-temata.md)
 
 ##### Teorie
 
-viz.sekce Materiály
+Viz.stránky progresu u jednotlivých tříd.
 
 ##### Cvičení
 

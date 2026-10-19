@@ -83,7 +83,7 @@ Viz. ŠVP: [POS](svp-temata.md)
 
 ##### Teorie
 
-viz.sekce Materiály
+Viz.stránky progresu u jednotlivých tříd.
 
 ##### Cvičení
 
