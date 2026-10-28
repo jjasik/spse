@@ -87,7 +87,7 @@ Viz.stránky progresu u jednotlivých tříd.
 
 ##### Cvičení
 
-2.ročník:
+CCNA1:
 
 | Úloha                                                        | Packet Tracer | Lab  | Poznámka                  | Doporučeno |
 | ------------------------------------------------------------ | ------------- | ---- | ------------------------- | ---------- |
@@ -143,7 +143,7 @@ Viz.stránky progresu u jednotlivých tříd.
 | 17.7.6 Packet Tracer - Troubleshoot Connectivity Issues      | Ano           | Ne   |                           | Ano        |
 | 17.7.7 Lab - Troubleshoot Connectivity Issues                | Ano           | Ano  |                           | Ne         |
 
-3.ročník:
+CCNA2:
 
 | Úloha                                                        | Packet Tracer | Lab  | Poznámka                  | Doporučeno |
 | ------------------------------------------------------------ | ------------- | ---- | ------------------------- | ---------- |
@@ -153,10 +153,10 @@ Viz.stránky progresu u jednotlivých tříd.
 | 1.3.6 Packet Tracer - Configure SSH                          | Ano           | Ne   |                           | Ano        |
 | 1.4.7 Packet Tracer- Configure Router Interfaces             | Ano           | Ne   |                           | Ano        |
 | 1.5.10 Packet Tracer - Verify Directly Connected Networks    | Ano           | Ne   |                           | Ano        |
-| 1.6.2 Lab - Configure Basic Router Settings                  | Ano           | Ano  |                           |            |
-|                                                              |               |      |                           |            |
-|                                                              |               |      |                           |            |
-|                                                              |               |      |                           |            |
+| 1.6.2 Lab - Configure Basic Router Settings                  | Ano           | Ano  |                           | Ano        |
+| 3.1.4 Packet Tracer - Who Hears the Broadcast?               | Ano           | Ne   |                           | Ano        |
+| 3.2.8 Packet Tracer - Investigate a VLAN Implementation      | Ano           | Ne   |                           | Ano        |
+| 3.3.12 Packet Tracer - VLAN Configuration                    | Ano           | Ne   |                           | Ano        |
 |                                                              |               |      |                           |            |
 |                                                              |               |      |                           |            |
 |                                                              |               |      |                           |            |
