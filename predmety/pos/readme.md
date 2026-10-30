@@ -59,18 +59,7 @@ Viz. ŠVP: [POS](svp-temata.md)
    1. 2.ročník: CCNA1 (Introduction to Networks)
    2. 3.ročník: CCNA2 (Switching, Routing, and Wireless Essentials)
    3. 4.ročník: CCNA3 (Enterprise Networking, Security, and Automation)
-2. Doplňující prezentace k předmětu (vše Jiří Peterka):
-   1. [NSWI045v3_03.pdf](materialy/NSWI045v3_03.pdf) - Téma 3: Architektura TCP/IP
-   2. [NSWI045v3_04.pdf](materialy/NSWI045v3_04.pdf) - Téma 4: Adresy a adresování v  TCP/IP, IP adresy verze 4
-   3. [NSWI045v3_05.pdf](materialy/NSWI045v3_05.pdf) - Téma 5: Protokol IPv4
-   4. [NSWI045v3_06.pdf](materialy/NSWI045v3_06.pdf) - Téma 6: Směrování v IP sítích
-   5. [NSWI045v3_07.pdf](materialy/NSWI045v3_07.pdf) - Téma 7: IP adresy verze 6
-   6. [NSWI045v3_08.pdf](materialy/NSWI045v3_08.pdf) - Téma 8: Protokol IPv6
-   7. [NSWI045v3_09.pdf](materialy/NSWI045v3_09.pdf) - Téma 9: Transportní protokoly
-3. Pomůcky:
-   1. [IPv4_Subnetting.pdf](materialy/IPv4_Subnetting.pdf) - pomůcka pro výpočty subnettingu/VLSM (packetlife.net)
-4. Webové stránky:
-   1. [PacketLife Cheat Sheets](https://drive.google.com/drive/folders/0BxPKarhlSyGONjE3MTcxZTctMWI2NC00ZWI0LTgyZGEtZjU1YjAyZTc0YzQy?resourcekey=0-b159wy1KnX9zE7wXirN6xA)
+2. Prezentace k předmětu: viz.stránky Progres výuky
 
 #### Nástroje
 
