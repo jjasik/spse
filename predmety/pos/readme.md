@@ -146,11 +146,11 @@ CCNA2:
 | 3.1.4 Packet Tracer - Who Hears the Broadcast?               | Ano           | Ne   |                           | Ano        |
 | 3.2.8 Packet Tracer - Investigate a VLAN Implementation      | Ano           | Ne   |                           | Ano        |
 | 3.3.12 Packet Tracer - VLAN Configuration                    | Ano           | Ne   |                           | Ano        |
-|                                                              |               |      |                           |            |
-|                                                              |               |      |                           |            |
-|                                                              |               |      |                           |            |
-|                                                              |               |      |                           |            |
-|                                                              |               |      |                           |            |
+| 3.4.5 Packet Tracer - Configure Trunks                       | Ano           | Ne   |                           | Ano        |
+| 3.4.6 Lab - Configure VLANs and Trunking                     | Ano           | Ano  |                           | Ano        |
+| 3.5.5 Packet Tracer - Configure DTP                          | Ano           | Ne   |                           | Ano        |
+| 3.6.1 Packet Tracer - Implement VLANs and Trunking           | Ano           | Ne   |                           | Ano        |
+| 3.6.2 Lab - Implement VLANs and Trunking                     | Ne            | Ano  |                           | Ano        |
 |                                                              |               |      |                           |            |
 |                                                              |               |      |                           |            |
 |                                                              |               |      |                           |            |
