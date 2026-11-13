@@ -151,8 +151,8 @@ CCNA2:
 | 3.5.5 Packet Tracer - Configure DTP                          | Ano           | Ne   |                           | Ano        |
 | 3.6.1 Packet Tracer - Implement VLANs and Trunking           | Ano           | Ne   |                           | Ano        |
 | 3.6.2 Lab - Implement VLANs and Trunking                     | Ne            | Ano  |                           | Ano        |
-|                                                              |               |      |                           |            |
-|                                                              |               |      |                           |            |
+| 4.2.7 Packet Tracer - Configure Router-on-a-Stick Inter-VLAN Routing | Ano           | Ne   |                           | Ano        |
+| 4.2.8 Lab - Configure Router-on-a-Stick Inter-VLAN Routing   | Ne            | Ano  |                           | Ano        |
 |                                                              |               |      |                           |            |
 |                                                              |               |      |                           |            |
 |                                                              |               |      |                           |            |
