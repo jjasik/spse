@@ -153,7 +153,7 @@ CCNA2:
 | 3.6.2 Lab - Implement VLANs and Trunking                     | Ne            | Ano  |                           | Ano        |
 | 4.2.7 Packet Tracer - Configure Router-on-a-Stick Inter-VLAN Routing | Ano           | Ne   |                           | Ano        |
 | 4.2.8 Lab - Configure Router-on-a-Stick Inter-VLAN Routing   | Ne            | Ano  |                           | Ano        |
-|                                                              |               |      |                           |            |
+| 4.3.8 Packet Tracer - Configure Layer 3 Switching and Inter-VLAN Routing | Ano           | Ne   |                           | Ano        |
 |                                                              |               |      |                           |            |
 |                                                              |               |      |                           |            |
 |                                                              |               |      |                           |            |
