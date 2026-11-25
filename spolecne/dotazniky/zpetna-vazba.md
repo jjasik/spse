@@ -36,7 +36,7 @@ Pište prosím čitelně, hodláme odpovědi automaticky zpracovat.
 
    &nbsp;
 
-5. K osobě učitele: udělal alespoň drobný progres ve schopnosti něco naučit či porozumět studentům?
+5. K osobě učitele: co by měl dělat jinak?
 
    &nbsp;
 
